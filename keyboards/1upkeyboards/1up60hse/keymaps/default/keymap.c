@@ -5,21 +5,21 @@
 // ——————————————————————————————————————————————————————————————————
 enum custom_keycodes {
   AUTOPARENTHESIS = SAFE_RANGE,
-  AUTOBRACKETS = SAFE_RANGE,
+  AUTOBRACKETS 
 };
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
   switch (keycode) {
-
 // ——————————————————————————————————————————————————————————————————
  
     // AUTOPARENTHESIS
      case AUTOPARENTHESIS:
       if (record->event.pressed) {
         SEND_STRING("()");
-	SEND_STRING(SS_TAP(X_LEFT));
       } 
       else {
+	SEND_STRING(SS_TAP(X_LEFT));
       }
+      break;
 
 // ——————————————————————————————————————————————————————————————————
 
@@ -31,12 +31,14 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
       else {
 	SEND_STRING(SS_TAP(X_LEFT));
       }
+      break;
 
 // ——————————————————————————————————————————————————————————————————
-      break;
+      
   }
   return true;
 };
+
 // ——————————————————————————————————————————————————————————————————
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
@@ -58,7 +60,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    // 14 keys
 	    KC_GRAVE, KC_F1, KC_F2, KC_F3, KC_F4, KC_F5, KC_F6, KC_F7, KC_F8, AUTOPARENTHESIS, KC_F10, KC_F11, KC_F12, KC_DEL,
 	    // 14 keys
-	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LBRC, KC_RBRC, KC_BSLS, 
+	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, AUTOBRACKETS, KC_RBRC, KC_BSLS, 
 	    // 13 keys
 	    HYPR(KC_NO), KC_LEFT, KC_DOWN, KC_UP, KC_RIGHT, KC_G, KC_H, KC_J, KC_K, KC_L, KC_SCLN, KC_QUOT, KC_ENT, 
 	    // 12 keys
