@@ -1,0 +1,1 @@
+-L/usr/local/opt/ncurses/lib -Wl,--gc-sections -Wl,-Map=.build/1upkeyboards_1up60hse_default.map,--cref     -lm 
