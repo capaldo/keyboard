@@ -2,26 +2,25 @@
    1               	;---------------------------------------------------------------------------;
    0               	
    0               	
-   1               	/*
-   2               	Copyright 2018 MechMerlin
-   3               	
-   4               	This program is free software: you can redistribute it and/or modify
-   5               	it under the terms of the GNU General Public License as published by
-   6               	the Free Software Foundation, either version 2 of the License, or
-   7               	(at your option) any later version.
-   8               	
-   9               	This program is distributed in the hope that it will be useful,
-  10               	but WITHOUT ANY WARRANTY; without even the implied warranty of
-  11               	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  12               	GNU General Public License for more details.
-  13               	
-  14               	You should have received a copy of the GNU General Public License
-  15               	along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  16               	*/
-  17               	
+   1               	// ————————————————————————————————
+   2               	// Copyright 2018 MechMerlin
+   3               	// This program is free software: you can redistribute it and/or modify
+   4               	// it under the terms of the GNU General Public License as published by
+   5               	// the Free Software Foundation, either version 2 of the License, or
+   6               	// (at your option) any later version.
+   7               	// This program is distributed in the hope that it will be useful,
+   8               	// but WITHOUT ANY WARRANTY; without even the implied warranty of
+   9               	// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  10               	// GNU General Public License for more details.
+  11               	// You should have received a copy of the GNU General Public License
+  12               	// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  13               	// ————————————————————————————————
+  14               	
+  15               	// ————————————————————————————————
+  16               	// defaults
+  17               	// ————————————————————————————————
   18               	#pragma once
-  19               	
-  20               	#include "config_common.h"
+  19               	#include "config_common.h"
    1               	/* Copyright 2015-2018 Jack Humbert
    2               	 *
    3               	 * This program is free software: you can redistribute it and/or modify
@@ -347,7 +346,7 @@
   21               	#include "musical_notes.h"
    1               	/* Copyright 2016 Jack Humbert
   22               	
-  21               	
+  20               	
    1               	/* Copyright 2018 MechMerlin
    2               	 * Copyright 2018 Logan Huskins
    3               	 *

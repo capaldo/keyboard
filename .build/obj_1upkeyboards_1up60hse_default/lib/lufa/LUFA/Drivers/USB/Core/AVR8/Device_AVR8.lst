@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.37a2f039ad6b9884,"",@progbits
+   7               		.section	.gnu.lto_.profile.de5321d20c78b0bd,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\001bF\006!A"
    8      6060 6001 
    8      6246 0621 
@@ -13,7 +13,7 @@
   10 000f AD00      		.string	"\255"
   11 0011 2F        		.ascii	"/"
   12               		.text
-  13               		.section	.gnu.lto_.icf.37a2f039ad6b9884,"",@progbits
+  13               		.section	.gnu.lto_.icf.de5321d20c78b0bd,"",@progbits
   14 0000 789C 6363 		.string	"x\234cc``\340`@"
   14      6060 E060 
   14      4000 
@@ -23,7 +23,7 @@
   16 0013 00        		.string	""
   17 0014 0F13 0312 		.ascii	"\017\023\003\022"
   18               		.text
-  19               		.section	.gnu.lto_.jmpfuncs.37a2f039ad6b9884,"",@progbits
+  19               		.section	.gnu.lto_.jmpfuncs.de5321d20c78b0bd,"",@progbits
   20 0000 789C 6363 		.string	"x\234cc```e@"
   20      6060 6065 
   20      4000 
@@ -32,7 +32,7 @@
   23 000f ED00      		.string	"\355"
   24 0011 0D        		.ascii	"\r"
   25               		.text
-  26               		.section	.gnu.lto_.inline.37a2f039ad6b9884,"",@progbits
+  26               		.section	.gnu.lto_.inline.de5321d20c78b0bd,"",@progbits
   27 0000 789C 6363 		.string	"x\234cc``\020c@"
   27      6060 1063 
   27      4000 
@@ -43,7 +43,7 @@
   28      3381 4501 
   29 001f 4202 BF   		.ascii	"B\002\277"
   30               		.text
-  31               		.section	.gnu.lto_.pureconst.37a2f039ad6b9884,"",@progbits
+  31               		.section	.gnu.lto_.pureconst.de5321d20c78b0bd,"",@progbits
   32 0000 789C 6363 		.string	"x\234cc```\006bF\006)"
   32      6060 6006 
   32      6246 0629 
@@ -52,7 +52,7 @@
   34 000e 7F00      		.string	"\177"
   35 0010 25        		.ascii	"%"
   36               		.text
-  37               		.section	.gnu.lto_USB_Device_SendRemoteWakeup.37a2f039ad6b9884,"",@progbits
+  37               		.section	.gnu.lto_USB_Device_SendRemoteWakeup.de5321d20c78b0bd,"",@progbits
   38 0000 789C 8D53 		.string	"x\234\215SMHTQ\024>\347\336\231\367\3368\016F\320\"\232E\2136n|\324\252\355\244\004A\253\
   38      4D48 5451 
   38      143E E7DE 
@@ -133,7 +133,7 @@
   54      339D 85BF 
   54      EF75 7E78 
   55               		.text
-  56               		.section	.gnu.lto_.symbol_nodes.37a2f039ad6b9884,"",@progbits
+  56               		.section	.gnu.lto_.symbol_nodes.de5321d20c78b0bd,"",@progbits
   57 0000 789C 6363 		.string	"x\234cc``\020\001b\006\246\253\f\365\f\f\023\3161\200\250]\r\216@!"
   57      6060 1001 
   57      6206 A6AB 
@@ -141,7 +141,7 @@
   57      13CE 3180 
   58 001b 3703 04C9 		.ascii	"7\003\004\311"
   59               		.text
-  60               		.section	.gnu.lto_.refs.37a2f039ad6b9884,"",@progbits
+  60               		.section	.gnu.lto_.refs.de5321d20c78b0bd,"",@progbits
   61 0000 789C 6363 		.string	"x\234cc```\004b\006"
   61      6060 6004 
   61      6206 00
@@ -149,7 +149,7 @@
   63 000c 4400      		.string	"D"
   64 000e 08        		.ascii	"\b"
   65               		.text
-  66               		.section	.gnu.lto_.decls.37a2f039ad6b9884,"",@progbits
+  66               		.section	.gnu.lto_.decls.de5321d20c78b0bd,"",@progbits
   67 0000 789C 9552 		.ascii	"x\234\225R]l\024U\024\276g\356\224ngii\b!M\330\230\246\361\241"
   67      5D6C 1455 
   67      14BE 67EE 
@@ -261,7 +261,7 @@
   88      2B1D C6DE 
   89 03ab 30A5 B3   		.ascii	"0\245\263"
   90               		.text
-  91               		.section	.gnu.lto_.symtab.37a2f039ad6b9884,"",@progbits
+  91               		.section	.gnu.lto_.symtab.de5321d20c78b0bd,"",@progbits
   92 0000 5553 425F 		.string	"USB_Device_SendRemoteWakeup"
   92      4465 7669 
   92      6365 5F53 
@@ -299,11 +299,11 @@
  114               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 Device_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccsCvnwg.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccsCvnwg.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccsCvnwg.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccsCvnwg.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccsCvnwg.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccdaKxTY.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccdaKxTY.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccdaKxTY.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccdaKxTY.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccdaKxTY.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

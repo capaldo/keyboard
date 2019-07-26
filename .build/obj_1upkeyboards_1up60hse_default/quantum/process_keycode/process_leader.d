@@ -1,12 +1,11 @@
-.build/obj_1upkeyboards_1up60hse_default/quantum/process_keycode/process_space_cadet.o: \
- quantum/process_keycode/process_space_cadet.c \
+.build/obj_1upkeyboards_1up60hse_default/quantum/process_keycode/process_leader.o: \
+ quantum/process_keycode/process_leader.c \
  keyboards/1upkeyboards/1up60hse/config.h quantum/config_common.h \
  quantum/audio/song_list.h quantum/audio/musical_notes.h \
  keyboards/1upkeyboards/1up60hse/keymaps/default/config.h \
- quantum/rgblight_post_config.h \
- quantum/process_keycode/process_space_cadet.h quantum/quantum.h \
- tmk_core/common/wait.h tmk_core/common/matrix.h quantum/keymap.h \
- tmk_core/common/action.h tmk_core/common/keyboard.h \
+ quantum/rgblight_post_config.h quantum/process_keycode/process_leader.h \
+ quantum/quantum.h tmk_core/common/wait.h tmk_core/common/matrix.h \
+ quantum/keymap.h tmk_core/common/action.h tmk_core/common/keyboard.h \
  tmk_core/common/keycode.h tmk_core/common/action_code.h \
  tmk_core/common/action_macro.h tmk_core/common/progmem.h \
  tmk_core/common/keycode.h tmk_core/common/action_macro.h \
@@ -24,7 +23,8 @@
  tmk_core/common/led.h tmk_core/common/action_util.h \
  tmk_core/common/print.h quantum/send_string_keycodes.h \
  tmk_core/common/suspend.h quantum/process_keycode/process_leader.h \
- quantum/process_keycode/process_terminal_nop.h
+ quantum/process_keycode/process_terminal_nop.h \
+ quantum/process_keycode/process_space_cadet.h
 
 keyboards/1upkeyboards/1up60hse/config.h:
 
@@ -38,7 +38,7 @@ keyboards/1upkeyboards/1up60hse/keymaps/default/config.h:
 
 quantum/rgblight_post_config.h:
 
-quantum/process_keycode/process_space_cadet.h:
+quantum/process_keycode/process_leader.h:
 
 quantum/quantum.h:
 
@@ -127,3 +127,5 @@ tmk_core/common/suspend.h:
 quantum/process_keycode/process_leader.h:
 
 quantum/process_keycode/process_terminal_nop.h:
+
+quantum/process_keycode/process_space_cadet.h:

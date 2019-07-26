@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.2c3f3eb17ebc9b7f,"",@progbits
+   7               		.section	.gnu.lto_.profile.2d13058083a514c7,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\005bF\206\215L\305"
    8      6060 6005 
    8      6246 868D 
    8      4CC5 00
    9 000f 0317 0133 		.ascii	"\003\027\0013"
   10               		.text
-  11               		.section	.gnu.lto_.icf.2c3f3eb17ebc9b7f,"",@progbits
+  11               		.section	.gnu.lto_.icf.2d13058083a514c7,"",@progbits
   12 0000 789C 6363 		.string	"x\234cc``\210a@"
   12      6060 8861 
   12      4000 
@@ -22,7 +22,7 @@
   13      AECF BF39 
   14 005c 8E75 2EE1 		.ascii	"\216u.\341"
   15               		.text
-  16               		.section	.gnu.lto_.jmpfuncs.2c3f3eb17ebc9b7f,"",@progbits
+  16               		.section	.gnu.lto_.jmpfuncs.2d13058083a514c7,"",@progbits
   17 0000 789C 6363 		.string	"x\234cc``\330\302\200"
   17      6060 D8C2 
   17      8000 
@@ -40,7 +40,7 @@
   21 0071 3100      		.string	"1"
   22 0073 680C 19BE 		.ascii	"h\f\031\276"
   23               		.text
-  24               		.section	.gnu.lto_.inline.2c3f3eb17ebc9b7f,"",@progbits
+  24               		.section	.gnu.lto_.inline.2d13058083a514c7,"",@progbits
   25 0000 789C 6363 		.string	"x\234cc``\210bd\200\003\036\006\006\001~F\006&\251\t\247\031\031\330\026\3103\201\004\031
   25      6060 8862 
   25      6480 031E 
@@ -59,7 +59,7 @@
   28 009d 00        		.string	""
   29 009e 10EA 1805 		.ascii	"\020\352\030\005"
   30               		.text
-  31               		.section	.gnu.lto_.pureconst.2c3f3eb17ebc9b7f,"",@progbits
+  31               		.section	.gnu.lto_.pureconst.2d13058083a514c7,"",@progbits
   32 0000 789C 6363 		.string	"x\234cc``\220\006b\036\206]\214\214\022L\022\314\273\0309%\270$\270%x$x%\370$\370%\004\24
   32      6060 9006 
   32      621E 865D 
@@ -67,7 +67,7 @@
   32      12CC BB18 
   33 0025 3281 0300 		.string	"2\201\003"
   34               		.text
-  35               		.section	.gnu.lto_suspend_idle.2c3f3eb17ebc9b7f,"",@progbits
+  35               		.section	.gnu.lto_suspend_idle.2d13058083a514c7,"",@progbits
   36 0000 789C 9552 		.ascii	"x\234\225R\317k\023A\024~\337\316\3546\266\r=\213A\314\305R\n"
   36      CF6B 1341 
   36      147E DFCE 
@@ -137,7 +137,7 @@
   50 0205 D600      		.string	"\326"
   51 0207 EB        		.ascii	"\353"
   52               		.text
-  53               		.section	.gnu.lto_suspend_power_down_user.2c3f3eb17ebc9b7f,"",@progbits
+  53               		.section	.gnu.lto_suspend_power_down_user.2d13058083a514c7,"",@progbits
   54 0000 789C 6363 		.string	"x\234cc``\250\001b\005 \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\
   54      6060 A801 
   54      6205 2096 
@@ -150,7 +150,7 @@
   55      4180 7133 
   56 00ae 78B8 34E9 		.ascii	"x\2704\351"
   57               		.text
-  58               		.section	.gnu.lto_suspend_power_down_kb.2c3f3eb17ebc9b7f,"",@progbits
+  58               		.section	.gnu.lto_suspend_power_down_kb.2d13058083a514c7,"",@progbits
   59 0000 789C 6363 		.string	"x\234cc``X\005\304\n@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\214\3
   59      6060 5805 
   59      C40A 402C 
@@ -174,7 +174,7 @@
   63 00d8 00        		.string	""
   64 00d9 B6C6 45DA 		.ascii	"\266\306E\332"
   65               		.text
-  66               		.section	.gnu.lto_power_down.2c3f3eb17ebc9b7f,"",@progbits
+  66               		.section	.gnu.lto_power_down.2d13058083a514c7,"",@progbits
   67 0000 789C 9556 		.string	"x\234\225V}PTU\024\277\347\335\267\357\275},_\245i#\323\270\0259M\304R9\332L\323L3\311\36
   67      7D50 5455 
   67      14BF E7DD 
@@ -338,7 +338,7 @@
   99 06dc D4BF 0113 		.ascii	"\324\277\001\023\016\316\354"
   99      0ECE EC
  100               		.text
- 101               		.section	.gnu.lto_suspend_power_down.2c3f3eb17ebc9b7f,"",@progbits
+ 101               		.section	.gnu.lto_suspend_power_down.2d13058083a514c7,"",@progbits
  102 0000 789C 6D4D 		.ascii	"x\234mM=K\303P\024\275\347\335$\r\210\273\240H\327.\346\207\370"
  102      3D4B C350 
  102      14BD E7DD 
@@ -399,7 +399,7 @@
  113      058E 4A57 
  113      F0
  114               		.text
- 115               		.section	.gnu.lto_matrix_power_up.2c3f3eb17ebc9b7f,"",@progbits
+ 115               		.section	.gnu.lto_matrix_power_up.2d13058083a514c7,"",@progbits
  116 0000 789C 6363 		.string	"x\234cc``\250\005b\005 \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\
  116      6060 A805 
  116      6205 2096 
@@ -413,7 +413,7 @@
  118 00af 00        		.string	""
  119 00b0 10DC 35E4 		.ascii	"\020\3345\344"
  120               		.text
- 121               		.section	.gnu.lto_matrix_power_down.2c3f3eb17ebc9b7f,"",@progbits
+ 121               		.section	.gnu.lto_matrix_power_down.2d13058083a514c7,"",@progbits
  122 0000 789C 6363 		.string	"x\234cc``\250\005b\005 \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\
  122      6060 A805 
  122      6205 2096 
@@ -427,7 +427,7 @@
  124 00af 00        		.string	""
  125 00b0 16F2 35F6 		.ascii	"\026\3625\366"
  126               		.text
- 127               		.section	.gnu.lto_suspend_wakeup_condition.2c3f3eb17ebc9b7f,"",@progbits
+ 127               		.section	.gnu.lto_suspend_wakeup_condition.2d13058083a514c7,"",@progbits
  128 0000 789C 6D92 		.ascii	"x\234m\222\315k\023Q\024\305\357yof\022\223FP\244\270\210\242"
  128      CD6B 1351 
  128      14C5 EF79 
@@ -562,7 +562,7 @@
  154      0BE4 F4E9 
  154      4C
  155               		.text
- 156               		.section	.gnu.lto_suspend_wakeup_init_user.2c3f3eb17ebc9b7f,"",@progbits
+ 156               		.section	.gnu.lto_suspend_wakeup_init_user.2d13058083a514c7,"",@progbits
  157 0000 789C 6363 		.string	"x\234cc``\250\001b\005 \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\
  157      6060 A801 
  157      6205 2096 
@@ -575,7 +575,7 @@
  158      4180 7133 
  159 00ae AAD5 3546 		.ascii	"\252\3255F"
  160               		.text
- 161               		.section	.gnu.lto_suspend_wakeup_init_kb.2c3f3eb17ebc9b7f,"",@progbits
+ 161               		.section	.gnu.lto_suspend_wakeup_init_kb.2d13058083a514c7,"",@progbits
  162 0000 789C 6363 		.string	"x\234cc``X\005\304\n@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\214\3
  162      6060 5805 
  162      C40A 402C 
@@ -599,7 +599,7 @@
  166 00d7 00        		.string	""
  167 00d8 7418 452E 		.ascii	"t\030E."
  168               		.text
- 169               		.section	.gnu.lto_suspend_wakeup_init.2c3f3eb17ebc9b7f,"",@progbits
+ 169               		.section	.gnu.lto_suspend_wakeup_init.2d13058083a514c7,"",@progbits
  170 0000 789C 7591 		.ascii	"x\234u\221AK\033A\030\206\277wfw\023\245z\356!\210W/\rB~G\377"
  170      414B 1B41 
  170      1886 BF77 
@@ -701,7 +701,7 @@
  189      FC07 85
  190 01af ADDA 8D   		.ascii	"\255\332\215"
  191               		.text
- 192               		.section	.gnu.lto___vector_12.2c3f3eb17ebc9b7f,"",@progbits
+ 192               		.section	.gnu.lto___vector_12.2d13058083a514c7,"",@progbits
  193 0000 789C 8D52 		.ascii	"x\234\215RMkSA\024\275g\346\345c\223\200;\005)\005W\355\302l"
  193      4D6B 5341 
  193      14BD 67E6 
@@ -811,7 +811,7 @@
  214      8E96 E527 
  214      57CE C21C 
  215               		.text
- 216               		.section	.gnu.lto_.symbol_nodes.2c3f3eb17ebc9b7f,"",@progbits
+ 216               		.section	.gnu.lto_.symbol_nodes.2d13058083a514c7,"",@progbits
  217 0000 789C 55CE 		.string	"x\234U\316KN\002A\020\306\361\257\272h\220\347(\f\250h\242\361$z\035/Q\215\216\350\3223\2
  217      4B4E 0241 
  217      10C6 F1AF 
@@ -824,7 +824,7 @@
  218      D158 9BFE 
  219 0120 FF91 A137 		.ascii	"\377\221\2417"
  220               		.text
- 221               		.section	.gnu.lto_.refs.2c3f3eb17ebc9b7f,"",@progbits
+ 221               		.section	.gnu.lto_.refs.2d13058083a514c7,"",@progbits
  222 0000 789C 0DC3 		.ascii	"x\234\r\303\311\021\300 \020\004\261\036\226\035\370q\230 \310"
  222      C911 C020 
  222      1004 B11E 
@@ -839,7 +839,7 @@
  224      FC1A 3501 
  224      1D
  225               		.text
- 226               		.section	.gnu.lto_.decls.2c3f3eb17ebc9b7f,"",@progbits
+ 226               		.section	.gnu.lto_.decls.2d13058083a514c7,"",@progbits
  227 0000 789C 9558 		.string	"x\234\225XyP\024W\032\357\327o\206c\206\303+\206\244\330\255l4\245\251M\304\230T4\273\251
  227      7950 1457 
  227      1AEF D76F 
@@ -1217,7 +1217,7 @@
  304      F880 FB3F 
  304      06A3 4935 
  305               		.text
- 306               		.section	.gnu.lto_.symtab.2c3f3eb17ebc9b7f,"",@progbits
+ 306               		.section	.gnu.lto_.symtab.2d13058083a514c7,"",@progbits
  307 0000 7375 7370 		.string	"suspend_idle"
  307      656E 645F 
  307      6964 6C65 
@@ -1685,11 +1685,11 @@
  680               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 suspend.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc1xyPaS.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc1xyPaS.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc1xyPaS.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc1xyPaS.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc1xyPaS.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPNWseJ.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPNWseJ.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPNWseJ.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPNWseJ.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPNWseJ.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

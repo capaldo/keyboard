@@ -115,7 +115,7 @@
  tmk_core/common/action.h tmk_core/common/bootloader.h \
  tmk_core/common/timer.h tmk_core/common/avr/timer_avr.h \
  tmk_core/common/action_util.h tmk_core/common/print.h \
- quantum/send_string_keycodes.h \
+ quantum/send_string_keycodes.h quantum/process_keycode/process_leader.h \
  quantum/process_keycode/process_terminal_nop.h \
  quantum/process_keycode/process_space_cadet.h \
  tmk_core/protocol/lufa/outputselect.h quantum/rgblight_reconfig.h \
@@ -408,6 +408,8 @@ tmk_core/common/action_util.h:
 tmk_core/common/print.h:
 
 quantum/send_string_keycodes.h:
+
+quantum/process_keycode/process_leader.h:
 
 quantum/process_keycode/process_terminal_nop.h:
 

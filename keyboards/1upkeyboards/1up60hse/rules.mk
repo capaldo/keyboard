@@ -70,3 +70,6 @@ HD44780_ENABLE = no 		# Enable support for HD44780 based LCDs (+400)
 EXTRAFLAGS += -flto
 
 LAYOUTS = 60_ansi
+
+# enable leader key
+LEADER_ENABLE = yes

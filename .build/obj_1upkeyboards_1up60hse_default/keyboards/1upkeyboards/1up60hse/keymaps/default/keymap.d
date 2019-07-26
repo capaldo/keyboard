@@ -23,7 +23,8 @@
  tmk_core/common/timer.h tmk_core/common/avr/timer_avr.h \
  tmk_core/common/led.h tmk_core/common/action_util.h \
  tmk_core/common/print.h quantum/send_string_keycodes.h \
- tmk_core/common/suspend.h quantum/process_keycode/process_terminal_nop.h \
+ tmk_core/common/suspend.h quantum/process_keycode/process_leader.h \
+ quantum/process_keycode/process_terminal_nop.h \
  quantum/process_keycode/process_space_cadet.h
 
 keyboards/1upkeyboards/1up60hse/config.h:
@@ -123,6 +124,8 @@ tmk_core/common/print.h:
 quantum/send_string_keycodes.h:
 
 tmk_core/common/suspend.h:
+
+quantum/process_keycode/process_leader.h:
 
 quantum/process_keycode/process_terminal_nop.h:
 
