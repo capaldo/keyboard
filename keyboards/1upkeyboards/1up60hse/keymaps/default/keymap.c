@@ -188,6 +188,7 @@ void matrix_scan_user(void) {
 
 // A
 // ————————————————————————————————————————
+
 // B
 // ————————————————————————————————————————
 
@@ -195,10 +196,17 @@ void matrix_scan_user(void) {
     SEQ_TWO_KEYS(KC_B, KC_C) {
 	SEND_STRING("because");
     }
+
     // btw to by the way
     SEQ_THREE_KEYS(KC_B, KC_T, KC_W) {
 	SEND_STRING("by the way");
     }
+
+    // brb to be right back
+    SEQ_THREE_KEYS(KC_B, KC_R, KC_B) {
+	SEND_STRING("be right back");
+    }
+
     // bw to between
     SEQ_TWO_KEYS(KC_B, KC_W) {
 	SEND_STRING("between");
@@ -256,7 +264,7 @@ void matrix_scan_user(void) {
 // ————————————————————————————————————————
 
     // jk to just kidding
-    SEQ_TWO_KEYS(KC_B, KC_C) {
+    SEQ_TWO_KEYS(KC_J, KC_K) {
 	SEND_STRING("just kidding");
     }
 
