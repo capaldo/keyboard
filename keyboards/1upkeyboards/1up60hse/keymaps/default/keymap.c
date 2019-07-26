@@ -109,7 +109,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    // 8 keys
 	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, KC_RGUI, MO(2), KC_TRNS
 	    ),
-
     // macros + other miscellaneous
     [2] = LAYOUT_60_ansi(
 	    // 14 keys
@@ -123,7 +122,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    // 8 keys
 	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, MO(3), KC_TRNS, KC_TRNS
 	    ),
-
     // lighting
     [3] = LAYOUT_60_ansi(
 	    // 14 keys
@@ -138,7 +136,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    // 8 keys
 	    KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS
 	    ),
-
     // ipados default TODO
     [4] = LAYOUT_60_ansi(
 	    // 14 keys
@@ -152,7 +149,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    // 8 keys
 	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, KC_RGUI, KC_RCTL, MO(1)
 	    ),
-
     // ipados blink TODO
     [5] = LAYOUT_60_ansi(
 	    // 14 keys
@@ -166,7 +162,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    // 8 keys
 	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, KC_RGUI, KC_RCTL, MO(1)
 	    ),
-
     // ipados macros TODO
     [6] = LAYOUT_60_ansi(
 	    // 14 keys
@@ -194,51 +189,57 @@ void matrix_scan_user(void) {
 
 // A
 // ————————————————————————————————————————
-
 // B
 // ————————————————————————————————————————
-    
     // bc to because
     SEQ_TWO_KEYS(KC_B, KC_C) {
 	SEND_STRING("because");
     }
-    
     // btw to by the way
     SEQ_THREE_KEYS(KC_B, KC_T, KC_W) {
 	SEND_STRING("by the way");
     }
-    
     // bw to between
     SEQ_TWO_KEYS(KC_B, KC_W) {
 	SEND_STRING("between");
     }
-    
 // C
 // ————————————————————————————————————————
-
-
 // D
 // ————————————————————————————————————————
-
     // dn to do not
     SEQ_TWO_KEYS(KC_D, KC_N) {
 	SEND_STRING("do not");
     }
-
 // E
 // ————————————————————————————————————————
-
 // F
 // ————————————————————————————————————————
-
 // G
 // ————————————————————————————————————————
-
 // H
 // ————————————————————————————————————————
-
 // I
 // ————————————————————————————————————————
+    // idt to I dont think
+    SEQ_THREE_KEYS(KC_I, KC_D, KC_T) {
+	SEND_STRING("I dont think");
+    }
+
+    // idts to I dont think
+    SEQ_FOUR_KEYS(KC_I, KC_D, KC_T, KC_S) {
+	SEND_STRING("I dont think so");
+    }
+
+    // ily to I love you
+    SEQ_THREE_KEYS(KC_I, KC_L, KC_Y) {
+	SEND_STRING("I love you");
+    }
+
+    // ilyt to I love you too
+    SEQ_FOUR_KEYS(KC_I, KC_L, KC_Y, KC_T) {
+	SEND_STRING("I love you too");
+    }
 
     // info to information
     SEQ_FOUR_KEYS(KC_I, KC_N, KC_F, KC_O) {
@@ -248,6 +249,10 @@ void matrix_scan_user(void) {
 // J
 // ————————————————————————————————————————
 
+    // jk to just kidding
+    SEQ_TWO_KEYS(KC_B, KC_C) {
+	SEND_STRING("just kidding");
+    }
 
 // K
 // ————————————————————————————————————————
@@ -293,7 +298,6 @@ void matrix_scan_user(void) {
     SEQ_FOUR_KEYS(KC_T, KC_H, KC_R, KC_U) {
 	SEND_STRING("through");
     }
-
 
 // U
 // ————————————————————————————————————————

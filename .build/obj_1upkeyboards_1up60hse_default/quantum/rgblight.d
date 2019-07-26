@@ -12,8 +12,7 @@
  tmk_core/common/print.h tmk_core/common/util.h \
  tmk_core/common/avr/xprintf.h quantum/led_tables.h \
  lib/lib8tion/lib8tion.h lib/lib8tion/math8.h lib/lib8tion/scale8.h \
- lib/lib8tion/random8.h lib/lib8tion/trig8.h \
- quantum/rgblight_breathe_table.h
+ lib/lib8tion/random8.h lib/lib8tion/trig8.h
 
 keyboards/1upkeyboards/1up60hse/config.h:
 
@@ -70,5 +69,3 @@ lib/lib8tion/scale8.h:
 lib/lib8tion/random8.h:
 
 lib/lib8tion/trig8.h:
-
-quantum/rgblight_breathe_table.h:

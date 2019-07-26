@@ -17,27 +17,23 @@ Archive member included to satisfy reference by file (symbol)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
                               /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o) (eeprom_read_blraw)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__mulsi3)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__mulsi3)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__udivmodqi4)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__udivmodqi4)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__udivmodhi4)
-/usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__divmodhi4)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__udivmodhi4)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__udivmodsi4)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__udivmodsi4)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__tablejump2__)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__tablejump2__)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__do_copy_data)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__do_copy_data)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__do_clear_bss)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__do_clear_bss)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (__umulhisi3)
+                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o (__umulhisi3)
 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
                               /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o) (__muluhisi3)
-/usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libc.a(memchr.o)
-                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o (memchr)
 
 Allocating common symbols
 Common symbol       size              file
@@ -62,10 +58,10 @@ Discarded input sections
 
  .data          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
  .bss           0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .text          0x0000000000000000        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .data          0x0000000000000000        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss           0x0000000000000000        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .avr.prop      0x0000000000000000       0x4c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .avr.prop      0x0000000000000000       0x4c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .data          0x0000000000000000        0x0 .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
  .text          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
  .data          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
@@ -125,20 +121,6 @@ Discarded input sections
                 0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
  .text.libgcc.fixed
                 0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
- .text          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .data          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .bss           0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .text.libgcc.mul
-                0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .text.libgcc   0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .text.libgcc.prologue
-                0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .text.libgcc.builtins
-                0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .text.libgcc.fmul
-                0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .text.libgcc.fixed
-                0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
  .text          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
  .data          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
  .bss           0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
@@ -249,9 +231,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
  .data          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
  .bss           0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
- .text          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libc.a(memchr.o)
- .data          0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libc.a(memchr.o)
- .bss           0x0000000000000000        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libc.a(memchr.o)
 
 Memory Configuration
 
@@ -269,7 +248,7 @@ Linker script and memory map
 
 Address of section .data set to 0x800100
 LOAD /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-LOAD /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+LOAD /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 LOAD .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
 LOAD /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libm.a
 START GROUP
@@ -376,7 +355,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x0000000000000000     0x6af8
+.text           0x0000000000000000     0x60da
  *(.vectors)
  .vectors       0x0000000000000000       0xac /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
                 0x0000000000000000                __vectors
@@ -393,386 +372,367 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem.*)
  .progmem.data.ConsoleReport
-                0x00000000000000ac       0x22 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000000ac       0x22 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.SharedReport
-                0x00000000000000ce       0x36 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000000ce       0x36 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.KeyboardReport
-                0x0000000000000104       0x40 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000104       0x40 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.ascii_to_altgr_lut
-                0x0000000000000144       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000144       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.ascii_to_shift_lut
-                0x00000000000001c4       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000001c4       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.ascii_to_keycode_lut
-                0x0000000000000244       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.breathing_table
-                0x00000000000002c4       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000244       0x80 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.fn_actions
-                0x0000000000000344        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3697
-                0x0000000000000344        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3695
-                0x000000000000034c        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3693
-                0x0000000000000355        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3691.lto_priv.30
-                0x000000000000035e        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3689.lto_priv.44
-                0x000000000000036a        0x7 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3687
-                0x0000000000000371        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3685
-                0x0000000000000379        0xb /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3683
-                0x0000000000000384        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000002c4        0x0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3608
+                0x00000000000002c4        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3606
+                0x00000000000002cc        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3604
+                0x00000000000002d5        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3602
+                0x00000000000002de        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3600
+                0x00000000000002eb        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3598
+                0x00000000000002f7        0xf /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3596
+                0x0000000000000306        0xb /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3594
+                0x0000000000000311       0x10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3592.lto_priv.30
+                0x0000000000000321        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3590.lto_priv.44
+                0x000000000000032e        0x7 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3588
+                0x0000000000000335        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3586
+                0x000000000000033d        0xb /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3584
+                0x0000000000000348        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2851
+                0x0000000000000350       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2849
+                0x000000000000036e       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.CIE1931_CURVE
-                0x000000000000038c      0x100 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2916
-                0x000000000000048c       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2914
-                0x00000000000004aa       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3048
-                0x00000000000004c6       0x27 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3046
-                0x00000000000004ed       0x25 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3041
-                0x0000000000000512       0x27 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_GRADIENT_RANGES
-                0x0000000000000539        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3155
-                0x000000000000053e       0x19 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3160
-                0x0000000000000557       0x19 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.rgblight_effect_breathe_table
-                0x0000000000000570      0x100 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000038a      0x100 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2970
+                0x000000000000048a       0x27 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2968
+                0x00000000000004b1       0x25 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.keymaps
-                0x0000000000000670      0x3d4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3673
-                0x0000000000000a44        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3671
-                0x0000000000000a47        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3668
-                0x0000000000000a4a        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3666
-                0x0000000000000a4d        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3663
-                0x0000000000000a4e        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3660
-                0x0000000000000a51        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3658
-                0x0000000000000a54        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3654
-                0x0000000000000a57        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3652
-                0x0000000000000a5a        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2947
-                0x0000000000000a5d       0x38 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2937
-                0x0000000000000a95       0x37 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2927
-                0x0000000000000acc       0x37 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1846
-                0x0000000000000b03       0x1d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1841
-                0x0000000000000b20       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1836
-                0x0000000000000b3c       0x20 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3715.lto_priv.42
-                0x0000000000000b5c       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3713.lto_priv.40
-                0x0000000000000b6e       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1795
-                0x0000000000000b7f       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1800
-                0x0000000000000b97       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1816
-                0x0000000000000baf       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1811
-                0x0000000000000bc2       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1806
-                0x0000000000000bd4       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.1824
-                0x0000000000000bea       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3896
-                0x0000000000000bfe        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3898
-                0x0000000000000c00        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000004d6      0x3d4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3574
+                0x00000000000008aa        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3572
+                0x00000000000008ad        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3569
+                0x00000000000008b0        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3567
+                0x00000000000008b3        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3564
+                0x00000000000008b4        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3561
+                0x00000000000008b7        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3559
+                0x00000000000008ba        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3555
+                0x00000000000008bd        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3553
+                0x00000000000008c0        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2882
+                0x00000000000008c3       0x38 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2872
+                0x00000000000008fb       0x37 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2862
+                0x0000000000000932       0x37 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3616.lto_priv.42
+                0x0000000000000969       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3614.lto_priv.40
+                0x000000000000097b       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.1783
+                0x000000000000098c       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.1788
+                0x00000000000009a4       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.1804
+                0x00000000000009bc       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.1799
+                0x00000000000009cf       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.1794
+                0x00000000000009e1       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.1812
+                0x00000000000009f7       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3797
+                0x0000000000000a0b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3799
+                0x0000000000000a0d        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.2042
-                0x0000000000000c04        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a11        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.2037
-                0x0000000000000c06        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a13        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.2034
-                0x0000000000000c0c       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3831
-                0x0000000000000c1e        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3829
-                0x0000000000000c20        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3827
-                0x0000000000000c23        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3825
-                0x0000000000000c2c        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3823
-                0x0000000000000c2e        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3821
-                0x0000000000000c31        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3819
-                0x0000000000000c3b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3817
-                0x0000000000000c3d        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3815
-                0x0000000000000c42       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3812
-                0x0000000000000c59        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3810
-                0x0000000000000c5b        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3808
-                0x0000000000000c5e        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3806
-                0x0000000000000c66        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3804
-                0x0000000000000c68        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3802
-                0x0000000000000c6b       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3800
-                0x0000000000000c87        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3798
-                0x0000000000000c89        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3796
-                0x0000000000000c8c       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3794
-                0x0000000000000c9e        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3792
-                0x0000000000000ca0        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3790
-                0x0000000000000ca3        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3788
-                0x0000000000000cad        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3786
-                0x0000000000000caf        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3784
-                0x0000000000000cb2       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3782
-                0x0000000000000cc4        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3780
-                0x0000000000000cc6        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3778
-                0x0000000000000cc9       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3776
-                0x0000000000000cdb        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3774
-                0x0000000000000cdd        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3772
-                0x0000000000000ce0       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3770
-                0x0000000000000cf7        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3768
-                0x0000000000000cf9        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3766
-                0x0000000000000cfc       0x19 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3764
-                0x0000000000000d15        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3762
-                0x0000000000000d17        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3760
-                0x0000000000000d1c       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3757
-                0x0000000000000d30        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3755
-                0x0000000000000d32        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3753
-                0x0000000000000d35        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3751
-                0x0000000000000d3e        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3749
-                0x0000000000000d40        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3747
-                0x0000000000000d43        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3745
-                0x0000000000000d4f        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3743
-                0x0000000000000d51        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3741
-                0x0000000000000d54        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3739
-                0x0000000000000d5e        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3737
-                0x0000000000000d60        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3735
-                0x0000000000000d63        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3733
-                0x0000000000000d6d        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3731
-                0x0000000000000d6f        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3729
-                0x0000000000000d74       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a19       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3732
+                0x0000000000000a2b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3730
+                0x0000000000000a2d        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3728
+                0x0000000000000a30        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.3726
-                0x0000000000000d87        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a39        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.3724
-                0x0000000000000d89        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a3b        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.3722
-                0x0000000000000d8c       0x10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3689.lto_priv.45
-                0x0000000000000d9c      0x1a3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3885
-                0x0000000000000f3f       0x1b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3704
-                0x0000000000000f5a       0x2b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3702
-                0x0000000000000f85       0x2d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3700.lto_priv.39
-                0x0000000000000fb2       0x2e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3698.lto_priv.37
-                0x0000000000000fe0       0x3d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3696.lto_priv.35
-                0x000000000000101d       0x1d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3694.lto_priv.33
-                0x000000000000103a        0xf /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3717
-                0x0000000000001049       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3715.lto_priv.43
-                0x0000000000001060       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3713.lto_priv.41
-                0x0000000000001073       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a3e        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3720
+                0x0000000000000a48        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3718
+                0x0000000000000a4a        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3716
+                0x0000000000000a4f       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3713
+                0x0000000000000a66        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.3711
-                0x000000000000108a       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a68        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.__c.3709
-                0x00000000000010a4        0xe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3880
-                0x00000000000010b2        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3870
-                0x00000000000010b4        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3868
-                0x00000000000010c1        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3865
-                0x00000000000010cd       0x10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3863
-                0x00000000000010dd        0xf /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3860
-                0x00000000000010ec        0xe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3858
-                0x00000000000010fa        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3855
-                0x0000000000001107        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3853
-                0x0000000000001114        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3850
-                0x0000000000001120       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3846
-                0x000000000000113c        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3841
-                0x0000000000001140       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3837
-                0x0000000000001151        0xb /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3916
-                0x000000000000115c        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2860
-                0x0000000000001161       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2858
-                0x000000000000117d       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2856
-                0x0000000000001197       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2854
-                0x00000000000011b1       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2852
-                0x00000000000011cb       0x1b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2850
-                0x00000000000011e6       0x1d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2848
-                0x0000000000001203       0x19 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2871
-                0x000000000000121c       0x49 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2869
-                0x0000000000001265       0x28 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2867
-                0x000000000000128d       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2865
-                0x00000000000012a3       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2952
-                0x00000000000012ba       0x3a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3700.lto_priv.38
-                0x00000000000012f4        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3698.lto_priv.36
-                0x00000000000012f6        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3696.lto_priv.34
-                0x00000000000012fc        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3694.lto_priv.32
-                0x00000000000012ff        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3691.lto_priv.31
-                0x0000000000001304       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3179
-                0x000000000000131b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3177
-                0x000000000000131d        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.3175
-                0x0000000000001322       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_RGBTEST_INTERVALS
-                0x0000000000001335        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_KNIGHT_INTERVALS
-                0x0000000000001337        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_SNAKE_INTERVALS
-                0x000000000000133a        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_RAINBOW_SWIRL_INTERVALS
-                0x000000000000133d        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_RAINBOW_MOOD_INTERVALS
-                0x0000000000001340        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.RGBLED_BREATHING_INTERVALS
-                0x0000000000001343        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6190
-                0x0000000000001347        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6188
-                0x000000000000134b       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6065
-                0x000000000000135c        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6070
-                0x0000000000001360        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6079
-                0x0000000000001364        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.2942
-                0x0000000000001368       0x39 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6083
-                0x00000000000013a1        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .progmem.data.__c.6075
-                0x00000000000013a5        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000a6b        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3707
+                0x0000000000000a73        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3705
+                0x0000000000000a75        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3703
+                0x0000000000000a78       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3701
+                0x0000000000000a94        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3699
+                0x0000000000000a96        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3697
+                0x0000000000000a99       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3695
+                0x0000000000000aab        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3693
+                0x0000000000000aad        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3691
+                0x0000000000000ab0        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3689
+                0x0000000000000aba        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3687
+                0x0000000000000abc        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3685
+                0x0000000000000abf       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3683
+                0x0000000000000ad1        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3681
+                0x0000000000000ad3        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3679
+                0x0000000000000ad6       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3677
+                0x0000000000000ae8        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3675
+                0x0000000000000aea        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3673
+                0x0000000000000aed       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3671
+                0x0000000000000b04        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3669
+                0x0000000000000b06        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3667
+                0x0000000000000b09       0x19 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3665
+                0x0000000000000b22        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3663
+                0x0000000000000b24        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3661
+                0x0000000000000b29       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3658
+                0x0000000000000b3d        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3656
+                0x0000000000000b3f        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3654
+                0x0000000000000b42        0x9 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3652
+                0x0000000000000b4b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3650
+                0x0000000000000b4d        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3648
+                0x0000000000000b50        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3646
+                0x0000000000000b5c        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3644
+                0x0000000000000b5e        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3642
+                0x0000000000000b61        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3640
+                0x0000000000000b6b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3638
+                0x0000000000000b6d        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3636
+                0x0000000000000b70        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3634
+                0x0000000000000b7a        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3632
+                0x0000000000000b7c        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3630
+                0x0000000000000b81       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3627
+                0x0000000000000b94        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3625
+                0x0000000000000b96        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3623
+                0x0000000000000b99       0x10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3590.lto_priv.45
+                0x0000000000000ba9      0x1a3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3786
+                0x0000000000000d4c       0x1b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3605
+                0x0000000000000d67       0x2b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3603
+                0x0000000000000d92       0x2d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3601.lto_priv.39
+                0x0000000000000dbf       0x2e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3599.lto_priv.37
+                0x0000000000000ded       0x3d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3597.lto_priv.35
+                0x0000000000000e2a       0x1d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3595.lto_priv.33
+                0x0000000000000e47        0xf /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3618
+                0x0000000000000e56       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3616.lto_priv.43
+                0x0000000000000e6d       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3614.lto_priv.41
+                0x0000000000000e80       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3612
+                0x0000000000000e97       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3610
+                0x0000000000000eb1        0xe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3781
+                0x0000000000000ebf        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3771
+                0x0000000000000ec1        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3769
+                0x0000000000000ece        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3766
+                0x0000000000000eda       0x10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3764
+                0x0000000000000eea        0xf /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3761
+                0x0000000000000ef9        0xe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3759
+                0x0000000000000f07        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3756
+                0x0000000000000f14        0xd /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3754
+                0x0000000000000f21        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3751
+                0x0000000000000f2d       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3747
+                0x0000000000000f49        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3742
+                0x0000000000000f4d       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3738
+                0x0000000000000f5e        0xb /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3817
+                0x0000000000000f69        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2795
+                0x0000000000000f6e       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2793
+                0x0000000000000f8a       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2791
+                0x0000000000000fa4       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2789
+                0x0000000000000fbe       0x1a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2787
+                0x0000000000000fd8       0x1b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2785
+                0x0000000000000ff3       0x1d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2783
+                0x0000000000001010       0x19 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2806
+                0x0000000000001029       0x49 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2804
+                0x0000000000001072       0x28 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2802
+                0x000000000000109a       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2800
+                0x00000000000010b0       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2887
+                0x00000000000010c7       0x3a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3601.lto_priv.38
+                0x0000000000001101        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3599.lto_priv.36
+                0x0000000000001103        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3597.lto_priv.34
+                0x0000000000001109        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3595.lto_priv.32
+                0x000000000000110c        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3592.lto_priv.31
+                0x0000000000001111       0x17 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3104
+                0x0000000000001128        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3102
+                0x000000000000112a        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.3100
+                0x000000000000112f       0x13 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.6091
+                0x0000000000001142        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.6089
+                0x0000000000001146       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.5966
+                0x0000000000001157        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.5971
+                0x000000000000115b        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.5980
+                0x000000000000115f        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.2877
+                0x0000000000001163       0x39 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.5984
+                0x000000000000119c        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .progmem.data.__c.5976
+                0x00000000000011a0        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.ConfigurationDescriptor
-                0x00000000000013a9       0x5b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000011a4       0x5b /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.DeviceDescriptor
-                0x0000000000001404       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000011ff       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.SerialNumberString
-                0x0000000000001416        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001211        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.ProductString
-                0x000000000000141c       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001217       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.ManufacturerString
-                0x0000000000001430       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000122b       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .progmem.data.LanguageString
-                0x000000000000144c        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x0000000000001450                . = ALIGN (0x2)
+                0x0000000000001247        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x000000000000124c                . = ALIGN (0x2)
+ *fill*         0x000000000000124b        0x1 
  *(.lowtext)
  *(.lowtext*)
-                0x0000000000001450                __ctors_start = .
+                0x000000000000124c                __ctors_start = .
  *(.ctors)
-                0x0000000000001450                __ctors_end = .
-                0x0000000000001450                __dtors_start = .
+                0x000000000000124c                __ctors_end = .
+                0x000000000000124c                __dtors_start = .
  *(.dtors)
-                0x0000000000001450                __dtors_end = .
+                0x000000000000124c                __dtors_end = .
  SORT_BY_NAME(*)(.ctors)
  SORT_BY_NAME(*)(.dtors)
  *(.init0)
- .init0         0x0000000000001450        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-                0x0000000000001450                __init
+ .init0         0x000000000000124c        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
+                0x000000000000124c                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x0000000000001450        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
+ .init2         0x000000000000124c        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
  *(.init2)
  *(.init3)
- .init3         0x000000000000145c       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x000000000000145c                bootloader_jump_after_watchdog_reset
+ .init3         0x0000000000001258       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x0000000000001258                bootloader_jump_after_watchdog_reset
  *(.init3)
  *(.init4)
- .init4         0x00000000000014b0       0x16 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
-                0x00000000000014b0                __do_copy_data
- .init4         0x00000000000014c6       0x10 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
-                0x00000000000014c6                __do_clear_bss
+ .init4         0x00000000000012ac       0x16 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
+                0x00000000000012ac                __do_copy_data
+ .init4         0x00000000000012c2       0x10 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000012c2                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
@@ -783,297 +743,252 @@ END GROUP
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x00000000000014d6        0x8 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
+ .init9         0x00000000000012d2        0x8 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
  *(.init9)
  *(.text)
- .text          0x00000000000014de        0x4 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-                0x00000000000014de                __vector_42
-                0x00000000000014de                __vector_22
-                0x00000000000014de                __vector_28
-                0x00000000000014de                __vector_1
-                0x00000000000014de                __vector_32
-                0x00000000000014de                __vector_34
-                0x00000000000014de                __vector_24
-                0x00000000000014de                __bad_interrupt
-                0x00000000000014de                __vector_6
-                0x00000000000014de                __vector_31
-                0x00000000000014de                __vector_35
-                0x00000000000014de                __vector_39
-                0x00000000000014de                __vector_3
-                0x00000000000014de                __vector_23
-                0x00000000000014de                __vector_30
-                0x00000000000014de                __vector_25
-                0x00000000000014de                __vector_13
-                0x00000000000014de                __vector_17
-                0x00000000000014de                __vector_19
-                0x00000000000014de                __vector_7
-                0x00000000000014de                __vector_41
-                0x00000000000014de                __vector_27
-                0x00000000000014de                __vector_5
-                0x00000000000014de                __vector_33
-                0x00000000000014de                __vector_37
-                0x00000000000014de                __vector_4
-                0x00000000000014de                __vector_9
-                0x00000000000014de                __vector_2
-                0x00000000000014de                __vector_15
-                0x00000000000014de                __vector_36
-                0x00000000000014de                __vector_29
-                0x00000000000014de                __vector_40
-                0x00000000000014de                __vector_8
-                0x00000000000014de                __vector_26
-                0x00000000000014de                __vector_14
-                0x00000000000014de                __vector_16
-                0x00000000000014de                __vector_18
-                0x00000000000014de                __vector_38
- .text          0x00000000000014e2      0x15c .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
-                0x00000000000014e2                xputc
-                0x00000000000014fa                xputs
-                0x0000000000001508                xitoa
-                0x000000000000162c                __xprintf
-                0x000000000000163e                . = ALIGN (0x2)
+ .text          0x00000000000012da        0x4 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
+                0x00000000000012da                __vector_42
+                0x00000000000012da                __vector_22
+                0x00000000000012da                __vector_28
+                0x00000000000012da                __vector_1
+                0x00000000000012da                __vector_32
+                0x00000000000012da                __vector_34
+                0x00000000000012da                __vector_24
+                0x00000000000012da                __bad_interrupt
+                0x00000000000012da                __vector_6
+                0x00000000000012da                __vector_31
+                0x00000000000012da                __vector_35
+                0x00000000000012da                __vector_39
+                0x00000000000012da                __vector_3
+                0x00000000000012da                __vector_23
+                0x00000000000012da                __vector_30
+                0x00000000000012da                __vector_25
+                0x00000000000012da                __vector_13
+                0x00000000000012da                __vector_17
+                0x00000000000012da                __vector_19
+                0x00000000000012da                __vector_7
+                0x00000000000012da                __vector_41
+                0x00000000000012da                __vector_27
+                0x00000000000012da                __vector_5
+                0x00000000000012da                __vector_33
+                0x00000000000012da                __vector_37
+                0x00000000000012da                __vector_4
+                0x00000000000012da                __vector_9
+                0x00000000000012da                __vector_2
+                0x00000000000012da                __vector_15
+                0x00000000000012da                __vector_36
+                0x00000000000012da                __vector_29
+                0x00000000000012da                __vector_40
+                0x00000000000012da                __vector_8
+                0x00000000000012da                __vector_26
+                0x00000000000012da                __vector_14
+                0x00000000000012da                __vector_16
+                0x00000000000012da                __vector_18
+                0x00000000000012da                __vector_20
+                0x00000000000012da                __vector_38
+ .text          0x00000000000012de      0x15c .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
+                0x00000000000012de                xputc
+                0x00000000000012f6                xputs
+                0x0000000000001304                xitoa
+                0x0000000000001428                __xprintf
+                0x000000000000143a                . = ALIGN (0x2)
  *(.text.*)
  .text.USB_Disable
-                0x000000000000163e       0x3e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000143a       0x3e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.Endpoint_WaitUntilReady
-                0x000000000000167c       0x5e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001478       0x5e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.Endpoint_Write_Stream_LE.constprop.0
-                0x00000000000016da       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000014d6       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.Endpoint_ClearStatusStage
-                0x000000000000172e       0x3e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000152a       0x3e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.Endpoint_ConfigureEndpoint_Prv
-                0x000000000000176c       0x64 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001568       0x64 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.USB_Init
-                0x00000000000017d0       0xc2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000015cc       0xc2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.Endpoint_Write_Control_Stream_LE
-                0x0000000000001892       0xbe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_dummy
-                0x0000000000001950        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000168e       0xbe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.send_mouse
-                0x0000000000001952        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000174c        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.keyboard_leds
-                0x0000000000001954        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000174e        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.timer_elapsed
-                0x000000000000195a       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001754       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.timer_read
-                0x00000000000019ae       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.bitrev   0x00000000000019c6       0x30 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000017a8       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.bitrev   0x00000000000017c0       0x30 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.clear_oneshot_mods
-                0x00000000000019f6        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.del_key  0x0000000000001a02       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.add_key  0x0000000000001a1a       0x32 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000017f0        0xc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.del_key  0x00000000000017fc       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.add_key  0x0000000000001814       0x32 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.read_source_layers_cache
-                0x0000000000001a4c       0x56 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001846       0x56 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.update_source_layers_cache
-                0x0000000000001aa2       0x5e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000189c       0x5e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.debug_waiting_buffer
-                0x0000000000001b00       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000018fa       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.host_consumer_send
-                0x0000000000001b14       0x2c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000190e       0x2c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.host_system_send
-                0x0000000000001b40       0x2c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000193a       0x2c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.host_keyboard_leds
-                0x0000000000001b6c       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.unlikely.rgblight_get_mode
-                0x0000000000001b84       0x10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001966       0x18 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.rgblight_check_config
-                0x0000000000001b94       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.sethsv_raw
-                0x0000000000001bb2      0x142 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000197e       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.mod_config
-                0x0000000000001cf4       0x46 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000199c       0x46 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.action_for_key
-                0x0000000000001d3a      0x4c6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000019e2      0x4c6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.layer_switch_get_layer
-                0x0000000000002200       0x84 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001ea8       0x84 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.layer_switch_get_action
-                0x0000000000002284       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001f2c       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.is_tap_key
-                0x0000000000002298       0x64 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.cie_lightness
-                0x00000000000022fc       0x7a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001f40       0x64 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.backlight_set
-                0x0000000000002376       0x44 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000001fa4       0xae /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.send_keyboard_report
-                0x00000000000023ba       0xcc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002052       0xcc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.clear_keyboard_but_mods_and_keys
-                0x0000000000002486       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000211e       0x1c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.layer_state_set
-                0x00000000000024a2       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000213a       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.layer_off
-                0x00000000000024b6       0x46 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000214e       0x46 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.clear_oneshot_layer_state
-                0x00000000000024fc       0x30 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002194       0x30 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.layer_on
-                0x000000000000252c       0x42 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000021c4       0x42 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.default_layer_state_set
-                0x000000000000256e       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002206       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.unregister_mods
-                0x0000000000002582       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000221a       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.register_mods
-                0x0000000000002598       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002230       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.unregister_code
-                0x00000000000025ac       0xac /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_timer_disable
-                0x0000000000002658       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002244       0xac /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.sendchar
-                0x0000000000002676       0xc6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000022f0       0xc6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.send_consumer
-                0x000000000000273c       0x7c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000023b6       0x7c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.send_system
-                0x00000000000027b8       0x6c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002432       0x6c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.send_keyboard
-                0x0000000000002824       0x70 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000249e       0x70 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.bootloader_jump
-                0x0000000000002894       0x48 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000250e       0x48 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.rgblight_set
-                0x00000000000028dc       0x68 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_alternating
-                0x0000000000002944       0x72 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_rainbow_swirl
-                0x00000000000029b6       0x54 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_snake
-                0x0000000000002a0a       0xc2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_knight
-                0x0000000000002acc       0x9c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_christmas
-                0x0000000000002b68       0x68 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_setrgb
-                0x0000000000002bd0       0x22 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_rgbtest
-                0x0000000000002bf2       0x7e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_sethsv_noeeprom_old
-                0x0000000000002c70       0x34 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_breathing
-                0x0000000000002ca4       0x28 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_effect_rainbow_mood
-                0x0000000000002ccc       0x20 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.eeconfig_update_backlight
-                0x0000000000002cec        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002556       0x68 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.backlight_level
-                0x0000000000002cf6       0x3a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000025be       0x3e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.eeconfig_is_enabled
-                0x0000000000002d30       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000025fc       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.eeconfig_update_rgblight
-                0x0000000000002d46       0x24 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002612       0x24 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.rgblight_sethsv_eeprom_helper
-                0x0000000000002d6a      0x1da /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.eeconfig_update_rgblight_default
-                0x0000000000002f44       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.eeconfig_init_quantum
-                0x0000000000002f62       0xbc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.backlight_init
-                0x000000000000301e       0x3a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.clear_keyboard
-                0x0000000000003058       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.USB_Device_ProcessControlRequest
-                0x000000000000306e      0x5ac /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.switch_default_layer
-                0x000000000000361a       0x3c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.command_common
-                0x0000000000003656      0x52e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.register_code
-                0x0000000000003b84      0x22c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.tap_code
-                0x0000000000003db0       0x26 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.perform_space_cadet
-                0x0000000000003dd6       0xd6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.send_string_P
-                0x0000000000003eac       0xa6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.matrix_scan
-                0x0000000000003f52      0x3d4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.rgblight_timer_enable
-                0x0000000000004326       0x44 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002636      0x20a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.rgblight_mode_eeprom_helper
-                0x000000000000436a       0xb4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .text.unlikely.rgblight_mode
-                0x000000000000441e        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000002840       0x76 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.unlikely.rgblight_step_reverse
-                0x0000000000004424       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000028b6       0x12 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.unlikely.rgblight_step
-                0x0000000000004436       0x14 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000028c8        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.eeconfig_update_rgblight_default
+                0x00000000000028d0       0x1e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.eeconfig_init_quantum
+                0x00000000000028ee       0xbc /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.backlight_init
+                0x00000000000029aa       0x3a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.clear_keyboard
+                0x00000000000029e4       0x16 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.USB_Device_ProcessControlRequest
+                0x00000000000029fa      0x5ac /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.switch_default_layer
+                0x0000000000002fa6       0x3c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.command_common
+                0x0000000000002fe2      0x52e /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.register_code
+                0x0000000000003510      0x22c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.tap_code
+                0x000000000000373c       0x26 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.perform_space_cadet
+                0x0000000000003762       0xd6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.send_string_P
+                0x0000000000003838       0xa6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .text.matrix_scan
+                0x00000000000038de      0x528 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.process_record
-                0x000000000000444a     0x1330 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000003e06     0x11c8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.waiting_buffer_scan_tap
-                0x000000000000577a       0xd6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000004fce       0xd6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.process_tapping
-                0x0000000000005850      0x368 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000000050a4      0x368 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.action_exec
-                0x0000000000005bb8      0x122 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000000540c      0x122 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .text.__vector_11
-                0x0000000000005cda       0x78 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x0000000000005cda                __vector_11
+                0x000000000000552e       0x78 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x000000000000552e                __vector_11
  .text.__vector_10
-                0x0000000000005d52      0x2ae /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x0000000000005d52                __vector_10
+                0x00000000000055a6      0x2aa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x00000000000055a6                __vector_10
  .text.startup.main
-                0x0000000000006000      0x7d6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x0000000000006000                main
+                0x0000000000005850      0x674 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x0000000000005850                main
  .text.__vector_21
-                0x00000000000067d6       0x4c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x00000000000067d6                __vector_21
+                0x0000000000005ec4       0x4c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x0000000000005ec4                __vector_21
  .text.__vector_12
-                0x0000000000006822       0x52 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x0000000000006822                __vector_12
- .text.__vector_20
-                0x0000000000006874       0xca /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                0x0000000000006874                __vector_20
+                0x0000000000005f10       0x52 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                0x0000000000005f10                __vector_12
  .text.libgcc.mul
-                0x000000000000693e       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
-                0x000000000000693e                __mulsi3
+                0x0000000000005f62       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
+                0x0000000000005f62                __mulsi3
  .text.libgcc.div
-                0x000000000000695e       0x18 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
-                0x000000000000695e                __udivmodqi4
+                0x0000000000005f82       0x18 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
+                0x0000000000005f82                __udivmodqi4
  .text.libgcc.div
-                0x0000000000006976       0x28 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
-                0x0000000000006976                __udivmodhi4
+                0x0000000000005f9a       0x28 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000000000005f9a                __udivmodhi4
  .text.libgcc.div
-                0x000000000000699e       0x28 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
-                0x000000000000699e                __divmodhi4
-                0x000000000000699e                _div
- .text.libgcc.div
-                0x00000000000069c6       0x44 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
-                0x00000000000069c6                __udivmodsi4
- .text.libgcc   0x0000000000006a0a        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
-                0x0000000000006a0a                __tablejump2__
+                0x0000000000005fc2       0x44 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000005fc2                __udivmodsi4
+ .text.libgcc   0x0000000000006006        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
+                0x0000000000006006                __tablejump2__
  .text.libgcc.mul
-                0x0000000000006a16       0x1e /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
-                0x0000000000006a16                __umulhisi3
+                0x0000000000006012       0x1e /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
+                0x0000000000006012                __umulhisi3
  .text.libgcc.mul
-                0x0000000000006a34       0x16 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
-                0x0000000000006a34                __muluhisi3
+                0x0000000000006030       0x16 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
+                0x0000000000006030                __muluhisi3
  .text.avr-libc
-                0x0000000000006a4a       0x10 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_byte.o)
-                0x0000000000006a4a                eeprom_read_byte
+                0x0000000000006046       0x10 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_byte.o)
+                0x0000000000006046                eeprom_read_byte
  .text.avr-libc
-                0x0000000000006a5a        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
-                0x0000000000006a5a                eeprom_read_dword
-                0x0000000000006a5a                eeprom_read_float
+                0x0000000000006056        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
+                0x0000000000006056                eeprom_read_dword
+                0x0000000000006056                eeprom_read_float
  .text.avr-libc
-                0x0000000000006a66        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_word.o)
-                0x0000000000006a66                eeprom_read_word
+                0x0000000000006062        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_word.o)
+                0x0000000000006062                eeprom_read_word
  .text.avr-libc
-                0x0000000000006a72       0x24 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_byte.o)
-                0x0000000000006a72                eeprom_update_byte
-                0x0000000000006a74                eeprom_update_r18
+                0x000000000000606e       0x24 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_byte.o)
+                0x000000000000606e                eeprom_update_byte
+                0x0000000000006070                eeprom_update_r18
  .text.avr-libc
-                0x0000000000006a96       0x18 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
-                0x0000000000006a96                eeprom_update_dword
-                0x0000000000006a96                eeprom_update_float
+                0x0000000000006092       0x18 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
+                0x0000000000006092                eeprom_update_dword
+                0x0000000000006092                eeprom_update_float
  .text.avr-libc
-                0x0000000000006aae        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
-                0x0000000000006aae                eeprom_update_word
+                0x00000000000060aa        0xc /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
+                0x00000000000060aa                eeprom_update_word
  .text.avr-libc
-                0x0000000000006aba       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
-                0x0000000000006aba                eeprom_read_block
-                0x0000000000006abe                eeprom_read_blraw
- .text.avr-libc
-                0x0000000000006ada       0x1a /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libc.a(memchr.o)
-                0x0000000000006ada                memchr
-                0x0000000000006af4                . = ALIGN (0x2)
+                0x00000000000060b6       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
+                0x00000000000060b6                eeprom_read_block
+                0x00000000000060ba                eeprom_read_blraw
+                0x00000000000060d6                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x0000000000006af4        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
-                0x0000000000006af4                exit
-                0x0000000000006af4                _exit
+ .fini9         0x00000000000060d6        0x0 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+                0x00000000000060d6                exit
+                0x00000000000060d6                _exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -1092,181 +1007,160 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x0000000000006af4        0x4 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+ .fini0         0x00000000000060d6        0x4 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
  *(.fini0)
  *(.hightext)
  *(.hightext*)
  *(.progmemx.*)
-                0x0000000000006af8                . = ALIGN (0x2)
+                0x00000000000060da                . = ALIGN (0x2)
  *(.jumptables)
  *(.jumptables*)
-                0x0000000000006af8                _etext = .
+                0x00000000000060da                _etext = .
 
-.data           0x0000000000800100       0x60 load address 0x0000000000006af8
+.data           0x0000000000800100       0x2e load address 0x00000000000060da
                 0x0000000000800100                PROVIDE (__data_start = .)
  *(.data)
  *(.data*)
- .data.static_effect_table
-                0x0000000000800100        0xb /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .data.increment.3229
-                0x000000000080010b        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .data.high_bound.3228
-                0x000000000080010c        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
  .data.lufa_driver
-                0x000000000080010d        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800100        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .data.keyboard_protocol
-                0x0000000000800117        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080010a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  *(.gnu.linkonce.d*)
  *(.rodata)
  *(.rodata*)
- .rodata.mode_base_table
-                0x0000000000800118       0x25 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
  .rodata.row_pins
-                0x000000000080013d        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080010b        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .rodata.col_pins
-                0x0000000000800142        0xe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800110        0xe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .rodata.CSWTCH.3
-                0x0000000000800150        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080011e        0x3 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .rodata.CSWTCH.2
-                0x0000000000800153        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800121        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .rodata.CSWTCH.1
-                0x0000000000800159        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800127        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  *(.gnu.linkonce.r*)
-                0x0000000000800160                . = ALIGN (0x2)
- *fill*         0x000000000080015f        0x1 
-                0x0000000000800160                _edata = .
-                0x0000000000800160                PROVIDE (__data_end = .)
+                0x000000000080012e                . = ALIGN (0x2)
+ *fill*         0x000000000080012d        0x1 
+                0x000000000080012e                _edata = .
+                0x000000000080012e                PROVIDE (__data_end = .)
 
-.bss            0x0000000000800160      0x11b
-                0x0000000000800160                PROVIDE (__bss_start = .)
+.bss            0x000000000080012e      0x10d
+                0x000000000080012e                PROVIDE (__bss_start = .)
  *(.bss)
- .bss           0x0000000000800160        0x2 .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
-                0x0000000000800160                xfunc_out
+ .bss           0x000000000080012e        0x2 .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
+                0x000000000080012e                xfunc_out
  *(.bss*)
  .bss.__compound_literal.0
-                0x0000000000800162        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800130        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.debouncing_time
-                0x000000000080016a        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800138        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.debouncing
-                0x000000000080016c        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.pos.3211  0x000000000080016d        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.low_bound.3227
-                0x000000000080016e        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.maxval.3250
-                0x000000000080016f        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.led       0x0000000000800170       0x2a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.sc_timer  0x000000000080019a        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080013a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.led       0x000000000080013b       0x2a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.sc_timer  0x0000000000800165        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.last_system_report
-                0x000000000080019c        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800167        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.last_consumer_report
-                0x000000000080019e        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800169        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.leader_sequence
-                0x00000000008001a0        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080016b        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.leader_sequence_size
-                0x00000000008001aa        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800175        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.leader_time
-                0x00000000008001ab        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.leading   0x00000000008001ad        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.sc_last   0x00000000008001ae        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800176        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.leading   0x0000000000800178        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.sc_last   0x0000000000800179        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.grave_esc_was_shifted
-                0x00000000008001af        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080017a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.tapping_key
-                0x00000000008001b0        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080017b        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.waiting_buffer_head
-                0x00000000008001b6        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800181        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.waiting_buffer
-                0x00000000008001b7       0x30 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800182       0x30 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.waiting_buffer_tail
-                0x00000000008001e7        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001b2        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.source_layers_cache
-                0x00000000008001e8       0x2d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001b3       0x2d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.layer_state
-                0x0000000000800215        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e0        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.oneshot_layer_data
-                0x0000000000800219        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e4        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.macro_mods
-                0x000000000080021a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e5        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.weak_mods
-                0x000000000080021b        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e6        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.real_mods
-                0x000000000080021c        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e7        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.oneshot_mods
-                0x000000000080021d        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e8        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.default_layer_state
-                0x000000000080021e        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001e9        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.timer_count
-                0x0000000000800222        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001ed        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.command_state
-                0x0000000000800226        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.desired_output
-                0x0000000000800227        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.timeouted.6157
-                0x0000000000800228        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001f1        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.backlight_config
-                0x0000000000800229        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.breathing_halt
-                0x000000000080022a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.breathing_counter
-                0x000000000080022b        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001f2        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.desired_output
+                0x00000000008001f3        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.timeouted.6058
+                0x00000000008001f4        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.raw_matrix
-                0x000000000080022d        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001f5        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.keymap_config
-                0x0000000000800237        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x00000000008001ff        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.is_rgblight_initialized
-                0x0000000000800239        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.driver    0x000000000080023a        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800201        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.driver    0x0000000000800202        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.wdt_timeout
-                0x000000000080023c        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.matrix    0x000000000080023d        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.led_status.3156
-                0x0000000000800247        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.matrix_prev.3155
-                0x0000000000800248        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.animation_status
-                0x0000000000800252        0x6 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.rgblight_status
-                0x0000000000800258        0x2 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800204        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.matrix    0x0000000000800205        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.led_status.3081
+                0x000000000080020f        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.matrix_prev.3080
+                0x0000000000800210        0xa /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.console_flush
-                0x000000000080025a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .bss.count.6089
-                0x000000000080025b        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080021a        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .bss.count.5990
+                0x000000000080021b        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.USB_IsInitialized
-                0x000000000080025c        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080021c        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.debug_config
-                0x000000000080025d        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080021d        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.rgblight_config
-                0x000000000080025e        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080021e        0x5 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.rgblight_enabled
-                0x0000000000800263        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800223        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.is_suspended
-                0x0000000000800264        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800224        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.keyboard_idle
-                0x0000000000800265        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800225        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.keyboard_led_stats
-                0x0000000000800266        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800226        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.keyboard_report_sent
-                0x0000000000800267        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800227        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.USB_Device_CurrentlySelfPowered
-                0x000000000080026f        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x000000000080022f        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.USB_Device_RemoteWakeupEnabled
-                0x0000000000800270        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800230        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.USB_DeviceState
-                0x0000000000800271        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800231        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.USB_Device_ConfigurationNumber
-                0x0000000000800272        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800232        0x1 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .bss.USB_ControlRequest
-                0x0000000000800273        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000800233        0x8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  *(COMMON)
-                0x000000000080027b                PROVIDE (__bss_end = .)
-                0x0000000000006af8                __data_load_start = LOADADDR (.data)
-                0x0000000000006b58                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x000000000080023b                PROVIDE (__bss_end = .)
+                0x00000000000060da                __data_load_start = LOADADDR (.data)
+                0x0000000000006108                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x000000000080027b        0x4
+.noinit         0x000000000080023b        0x4
                 [!provide]                        PROVIDE (__noinit_start = .)
  *(.noinit*)
- .noinit        0x000000000080027b        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+ .noinit        0x000000000080023b        0x4 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                 [!provide]                        PROVIDE (__noinit_end = .)
-                0x000000000080027f                _end = .
+                0x000000000080023f                _end = .
                 [!provide]                        PROVIDE (__heap_start = .)
 
 .eeprom         0x0000000000810000        0x0
@@ -1307,7 +1201,7 @@ END GROUP
 
 .comment        0x0000000000000000       0x11
  *(.comment)
- .comment       0x0000000000000000       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x11 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                          0x12 (size before relaxing)
 
 .note.gnu.avr.deviceinfo
@@ -1330,108 +1224,102 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x0000000000000000      0x450
+.debug_aranges  0x0000000000000000      0x3a0
  *(.debug_aranges)
  .debug_aranges
-                0x0000000000000000      0x2f0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                0x0000000000000000      0x260 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
  .debug_aranges
-                0x00000000000002f0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+                0x0000000000000260       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
  .debug_aranges
-                0x0000000000000310       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
+                0x0000000000000280       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
  .debug_aranges
-                0x0000000000000330       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
+                0x00000000000002a0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
  .debug_aranges
-                0x0000000000000350       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x00000000000002c0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
  .debug_aranges
-                0x0000000000000370       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
+                0x00000000000002e0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
  .debug_aranges
-                0x0000000000000390       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000000300       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
  .debug_aranges
-                0x00000000000003b0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
+                0x0000000000000320       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
  .debug_aranges
-                0x00000000000003d0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000340       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
  .debug_aranges
-                0x00000000000003f0       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
+                0x0000000000000360       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
  .debug_aranges
-                0x0000000000000410       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
- .debug_aranges
-                0x0000000000000430       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
+                0x0000000000000380       0x20 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0xb310
+.debug_info     0x0000000000000000     0xa3c4
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0x9f4 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_info    0x00000000000009f4     0xa77a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .debug_info    0x000000000000b16e       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
- .debug_info    0x000000000000b194       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
- .debug_info    0x000000000000b1ba       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
- .debug_info    0x000000000000b1e0       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
- .debug_info    0x000000000000b206       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .debug_info    0x000000000000b22c       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
- .debug_info    0x000000000000b252       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
- .debug_info    0x000000000000b278       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
- .debug_info    0x000000000000b29e       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
- .debug_info    0x000000000000b2c4       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
- .debug_info    0x000000000000b2ea       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_info    0x00000000000009f4     0x9854 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .debug_info    0x000000000000a248       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+ .debug_info    0x000000000000a26e       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_info    0x000000000000a294       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_info    0x000000000000a2ba       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x000000000000a2e0       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_info    0x000000000000a306       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_info    0x000000000000a32c       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x000000000000a352       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x000000000000a378       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_info    0x000000000000a39e       0x26 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
 
-.debug_abbrev   0x0000000000000000     0x12a0
+.debug_abbrev   0x0000000000000000     0x125b
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000      0x96a /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_abbrev  0x000000000000096a      0x85a /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .debug_abbrev  0x00000000000011c4       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
- .debug_abbrev  0x00000000000011d8       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
- .debug_abbrev  0x00000000000011ec       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
- .debug_abbrev  0x0000000000001200       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
- .debug_abbrev  0x0000000000001214       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .debug_abbrev  0x0000000000001228       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
- .debug_abbrev  0x000000000000123c       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
- .debug_abbrev  0x0000000000001250       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
- .debug_abbrev  0x0000000000001264       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
- .debug_abbrev  0x0000000000001278       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
- .debug_abbrev  0x000000000000128c       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x000000000000096a      0x829 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .debug_abbrev  0x0000000000001193       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000011a7       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x00000000000011bb       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_abbrev  0x00000000000011cf       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000000000011e3       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000000000011f7       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x000000000000120b       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x000000000000121f       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x0000000000001233       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x0000000000001247       0x14 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
 
-.debug_line     0x0000000000000000     0x4db0
+.debug_line     0x0000000000000000     0x454b
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x0000000000000000       0x1d /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_line    0x000000000000001d     0x465c /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
- .debug_line    0x0000000000004679       0x61 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
- .debug_line    0x00000000000046da       0xaf /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
- .debug_line    0x0000000000004789       0x9d /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
- .debug_line    0x0000000000004826       0xcd /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
- .debug_line    0x00000000000048f3       0xc7 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .debug_line    0x00000000000049ba      0x121 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
- .debug_line    0x0000000000004adb       0x79 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
- .debug_line    0x0000000000004b54       0x97 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
- .debug_line    0x0000000000004beb       0x85 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
- .debug_line    0x0000000000004c70       0xaf /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
- .debug_line    0x0000000000004d1f       0x91 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line    0x000000000000001d     0x3ebe /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+ .debug_line    0x0000000000003edb       0x61 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+ .debug_line    0x0000000000003f3c       0xaf /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_line    0x0000000000003feb       0x9d /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_line    0x0000000000004088       0xcd /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000000000004155      0x121 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_line    0x0000000000004276       0x79 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_line    0x00000000000042ef       0x97 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000004386       0x85 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x000000000000440b       0xaf /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line    0x00000000000044ba       0x91 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
 
-.debug_frame    0x0000000000000000      0xc60
+.debug_frame    0x0000000000000000      0x9d0
  *(.debug_frame)
- .debug_frame   0x0000000000000000      0xc60 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000000      0x9d0 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 
-.debug_str      0x0000000000000000     0x3271
+.debug_str      0x0000000000000000     0x2e54
  *(.debug_str)
  .debug_str     0x0000000000000000      0x371 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_str     0x0000000000000371     0x2e7d /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                                       0x316f (size before relaxing)
- .debug_str     0x00000000000031ee       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
- .debug_str     0x0000000000003271       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_str     0x0000000000000371     0x2a60 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
+                                       0x2d0f (size before relaxing)
+ .debug_str     0x0000000000002dd1       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_str     0x0000000000002e54       0x83 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
 
-.debug_loc      0x0000000000000000     0x7077
+.debug_loc      0x0000000000000000     0x5808
  *(.debug_loc)
- .debug_loc     0x0000000000000000     0x7077 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+ .debug_loc     0x0000000000000000     0x5808 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1451,9 +1339,9 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x0000000000000000      0xeb8
+.debug_ranges   0x0000000000000000      0xd10
  *(.debug_ranges)
- .debug_ranges  0x0000000000000000      0xeb8 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000000      0xd10 /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 
 .debug_macro
  *(.debug_macro)
@@ -1532,13 +1420,6 @@ LED_BREATHING_TABLE                               .build/obj_1upkeyboards_1up60h
 LanguageString                                    .build/obj_1upkeyboards_1up60hse_default/usb_descriptor.o (symbol from plugin)
 ManufacturerString                                .build/obj_1upkeyboards_1up60hse_default/usb_descriptor.o (symbol from plugin)
 ProductString                                     .build/obj_1upkeyboards_1up60hse_default/usb_descriptor.o (symbol from plugin)
-RGBLED_BREATHING_INTERVALS                        .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-RGBLED_GRADIENT_RANGES                            .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-RGBLED_KNIGHT_INTERVALS                           .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-RGBLED_RAINBOW_MOOD_INTERVALS                     .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-RGBLED_RAINBOW_SWIRL_INTERVALS                    .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-RGBLED_RGBTEST_INTERVALS                          .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-RGBLED_SNAKE_INTERVALS                            .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 SerialNumberString                                .build/obj_1upkeyboards_1up60hse_default/usb_descriptor.o (symbol from plugin)
 SharedReport                                      .build/obj_1upkeyboards_1up60hse_default/usb_descriptor.o (symbol from plugin)
 USB_ControlRequest                                .build/obj_1upkeyboards_1up60hse_default/lib/lufa/LUFA/Drivers/USB/Core/USBTask.o (symbol from plugin)
@@ -1599,39 +1480,36 @@ __bss_start                                       /usr/local/Cellar/avr-gcc@7/7.
 __data_end                                        /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
 __data_load_start                                 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
 __data_start                                      /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
-__divmodhi4                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
 __do_clear_bss                                    /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_clear_bss.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __do_copy_data                                    /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_copy_data.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __heap_end                                        /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __init                                            /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __mulsi3                                          /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __muluhisi3                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_mulsi3.o)
 __stack                                           /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __tablejump2__                                    /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_tablejump2.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __udivmodhi4                                      /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodhi4.o)
-                                                  /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __udivmodqi4                                      /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodqi4.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __udivmodsi4                                      /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_udivmodsi4.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __umulhisi3                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_umulhisi3.o)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_muluhisi3.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
 __vector_1                                        /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_10                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+__vector_10                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_11                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+__vector_11                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_12                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+__vector_12                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/suspend.o (symbol from plugin)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_13                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1642,10 +1520,8 @@ __vector_17                                       /usr/local/Cellar/avr-gcc@7/7.
 __vector_18                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_19                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_2                                        /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_20                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-                                                  /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_21                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+__vector_20                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
+__vector_21                                       /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/timer.o (symbol from plugin)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_22                                       /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1679,14 +1555,13 @@ __vector_9                                        /usr/local/Cellar/avr-gcc@7/7.
 __vector_default                                  /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vectors                                         /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __xprintf                                         .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/command.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/host.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/matrix.o (symbol from plugin)
-_div                                              /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_divmodhi4.o)
 _exit                                             /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
 action_exec                                       .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)
@@ -1715,7 +1590,6 @@ add_mods                                          .build/obj_1upkeyboards_1up60h
 add_weak_mods                                     .build/obj_1upkeyboards_1up60hse_default/common/action_util.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-animation_status                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 api_send_unicode                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 ascii_to_altgr_lut                                .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 ascii_to_keycode_lut                              .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
@@ -1725,9 +1599,7 @@ backlight_config                                  .build/obj_1upkeyboards_1up60h
 backlight_decrease                                .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
 backlight_disable                                 .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-backlight_disable_breathing                       .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
 backlight_enable                                  .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-backlight_enable_breathing                        .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
 backlight_increase                                .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
 backlight_init                                    .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
@@ -1747,8 +1619,6 @@ backlight_step                                    .build/obj_1upkeyboards_1up60h
 backlight_task                                    .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 backlight_toggle                                  .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
-backlight_toggle_breathing                        .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 biton                                             .build/obj_1upkeyboards_1up60hse_default/common/util.o (symbol from plugin)
 biton16                                           .build/obj_1upkeyboards_1up60hse_default/common/util.o (symbol from plugin)
 biton32                                           .build/obj_1upkeyboards_1up60hse_default/common/util.o (symbol from plugin)
@@ -1764,20 +1634,9 @@ bitrev32                                          .build/obj_1upkeyboards_1up60h
 bootloader_jump                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/bootloader.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/command.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-bootloader_jump_after_watchdog_reset              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+bootloader_jump_after_watchdog_reset              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/bootloader.o (symbol from plugin)
 bootmagic_lite                                    .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_disable                                 .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-breathing_enable                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-breathing_period_dec                              .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_period_default                          .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_period_inc                              .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_period_set                              .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_pulse                                   .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_self_disable                            .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
-breathing_toggle                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 clear_keyboard                                    .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/lufa.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/command.o (symbol from plugin)
@@ -1919,25 +1778,25 @@ eeprom_read_blraw                                 /usr/local/Cellar/avr-gcc@7/7.
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_word.o)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
 eeprom_read_byte                                  /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_byte.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/eeconfig.o (symbol from plugin)
 eeprom_read_dword                                 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/eeconfig.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 eeprom_read_float                                 /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
 eeprom_read_word                                  /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_word.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/eeconfig.o (symbol from plugin)
 eeprom_update_byte                                /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_byte.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
                                                   .build/obj_1upkeyboards_1up60hse_default/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/eeconfig.o (symbol from plugin)
 eeprom_update_dword                               /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/eeconfig.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 eeprom_update_float                               /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
@@ -1945,13 +1804,12 @@ eeprom_update_r18                                 /usr/local/Cellar/avr-gcc@7/7.
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
 eeprom_update_word                                /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/eeconfig.o (symbol from plugin)
 exit                                              /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/avr5/libgcc.a(_exit.o)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 fn_actions                                        .build/obj_1upkeyboards_1up60hse_default/quantum/keymap_common.o (symbol from plugin)
 get_backlight_level                               .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 get_event_keycode                                 .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 get_first_key                                     .build/obj_1upkeyboards_1up60hse_default/common/report.o (symbol from plugin)
 get_macro_mods                                    .build/obj_1upkeyboards_1up60hse_default/common/action_util.o (symbol from plugin)
@@ -1994,10 +1852,7 @@ host_system_send                                  .build/obj_1upkeyboards_1up60h
                                                   .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
 hsv_to_rgb                                        .build/obj_1upkeyboards_1up60hse_default/quantum/color.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-is_backlight_breathing                            .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 is_backlight_enabled                              .build/obj_1upkeyboards_1up60hse_default/common/backlight.o (symbol from plugin)
-is_breathing                                      .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 is_keyboard_master                                .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)
 is_oneshot_layer_active                           .build/obj_1upkeyboards_1up60hse_default/common/action_util.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/action.o (symbol from plugin)
@@ -2089,7 +1944,7 @@ led_set_user                                      .build/obj_1upkeyboards_1up60h
 lufa_driver                                       .build/obj_1upkeyboards_1up60hse_default/lufa.o (symbol from plugin)
 magic                                             .build/obj_1upkeyboards_1up60hse_default/common/magic.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)
-main                                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+main                                              /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/lufa.o (symbol from plugin)
                                                   /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 matrix_cols                                       .build/obj_1upkeyboards_1up60hse_default/quantum/matrix.o (symbol from plugin)
@@ -2122,8 +1977,6 @@ matrix_scan_quantum                               .build/obj_1upkeyboards_1up60h
 matrix_scan_user                                  .build/obj_1upkeyboards_1up60hse_default/keyboards/1upkeyboards/1up60hse/keymaps/default/keymap.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/keyboards/1upkeyboards/1up60hse/1up60hse.o (symbol from plugin)
 matrix_setup                                      .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)
-memchr                                            /usr/local/Cellar/avr-gcc@7/7.4.0/lib/avr-gcc/7/gcc/avr/7.4.0/../../../../../../avr/lib/avr5/libc.a(memchr.o)
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
 mod_config                                        .build/obj_1upkeyboards_1up60hse_default/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/keymap_common.o (symbol from plugin)
 numkey2num                                        .build/obj_1upkeyboards_1up60hse_default/common/command.o (symbol from plugin)
@@ -2184,21 +2037,11 @@ rgblight_decrease_val_noeeprom                    .build/obj_1upkeyboards_1up60h
 rgblight_disable                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_disable_noeeprom                         .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/suspend.o (symbol from plugin)
-rgblight_effect_alternating                       .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_breathe_table                     .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_breathing                         .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_christmas                         .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_knight                            .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_rainbow_mood                      .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_rainbow_swirl                     .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_rgbtest                           .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_effect_snake                             .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_enable                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_enable_noeeprom                          .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/suspend.o (symbol from plugin)
 rgblight_get_hue                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_get_mode                                 .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 rgblight_get_sat                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_get_val                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_increase                                 .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
@@ -2239,7 +2082,6 @@ rgblight_setrgb_at                                .build/obj_1upkeyboards_1up60h
 rgblight_setrgb_master                            .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_setrgb_range                             .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_setrgb_slave                             .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_show_solid_color                         .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_status                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_step                                     .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
@@ -2249,14 +2091,6 @@ rgblight_step_reverse                             .build/obj_1upkeyboards_1up60h
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 rgblight_step_reverse_helper                      .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_step_reverse_noeeprom                    .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_task                                     .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/lufa.o (symbol from plugin)
-rgblight_timer_disable                            .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/common/avr/suspend.o (symbol from plugin)
-rgblight_timer_enable                             .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/common/avr/suspend.o (symbol from plugin)
-rgblight_timer_init                               .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
-rgblight_timer_toggle                             .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
 rgblight_toggle                                   .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/quantum.o (symbol from plugin)
 rgblight_toggle_noeeprom                          .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
@@ -2318,7 +2152,6 @@ timer_count                                       .build/obj_1upkeyboards_1up60h
 timer_elapsed                                     .build/obj_1upkeyboards_1up60hse_default/common/avr/timer.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/process_keycode/process_leader.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/debounce/sym_g.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/keyboards/1upkeyboards/1up60hse/keymaps/default/keymap.o (symbol from plugin)
 timer_elapsed32                                   .build/obj_1upkeyboards_1up60hse_default/common/avr/timer.o (symbol from plugin)
@@ -2328,7 +2161,6 @@ timer_read                                        .build/obj_1upkeyboards_1up60h
                                                   .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/process_keycode/process_leader.o (symbol from plugin)
-                                                  .build/obj_1upkeyboards_1up60hse_default/quantum/rgblight.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/quantum/debounce/sym_g.o (symbol from plugin)
 timer_read32                                      .build/obj_1upkeyboards_1up60hse_default/common/avr/timer.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/command.o (symbol from plugin)
@@ -2352,12 +2184,12 @@ ws2812_setleds                                    .build/obj_1upkeyboards_1up60h
 ws2812_setleds_pin                                .build/obj_1upkeyboards_1up60hse_default/ws2812.o (symbol from plugin)
 ws2812_setleds_rgbw                               .build/obj_1upkeyboards_1up60hse_default/ws2812.o (symbol from plugin)
 xfunc_out                                         .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/common/print.o (symbol from plugin)
 xitoa                                             .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
 xputc                                             .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
 xputs                                             .build/obj_1upkeyboards_1up60hse_default/common/avr/xprintf.o
-                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccPv5ZTY.ltrans0.ltrans.o
+                                                  /var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccJlCseP.ltrans0.ltrans.o
                                                   .build/obj_1upkeyboards_1up60hse_default/lufa.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/command.o (symbol from plugin)
                                                   .build/obj_1upkeyboards_1up60hse_default/common/keyboard.o (symbol from plugin)

@@ -118,8 +118,7 @@
  quantum/send_string_keycodes.h quantum/process_keycode/process_leader.h \
  quantum/process_keycode/process_terminal_nop.h \
  quantum/process_keycode/process_space_cadet.h \
- tmk_core/protocol/lufa/outputselect.h quantum/rgblight_reconfig.h \
- quantum/rgblight.h
+ tmk_core/protocol/lufa/outputselect.h quantum/rgblight_reconfig.h
 
 keyboards/1upkeyboards/1up60hse/config.h:
 
@@ -418,5 +417,3 @@ quantum/process_keycode/process_space_cadet.h:
 tmk_core/protocol/lufa/outputselect.h:
 
 quantum/rgblight_reconfig.h:
-
-quantum/rgblight.h:
