@@ -6,6 +6,8 @@
 enum custom_keycodes {
   AUTOPARENTHESIS = SAFE_RANGE,
   AUTOBRACKETS,
+  AUTODOUBLEQUOTES,
+  AUTOSINGLEQUOTES,
   VIMESCAPE
 };
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
@@ -15,10 +17,10 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     // AUTOPARENTHESIS
      case AUTOPARENTHESIS:
       if (record->event.pressed) {
-        SEND_STRING("()");
+	  SEND_STRING("()");
       } 
       else {
-	SEND_STRING(SS_TAP(X_LEFT));
+	  SEND_STRING(SS_TAP(X_LEFT));
       }
       break;
 
@@ -27,10 +29,10 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     // AUTOBRACKETS
      case AUTOBRACKETS:
       if (record->event.pressed) {
-        SEND_STRING("[]");
+	  SEND_STRING("[]");
       } 
       else {
-	SEND_STRING(SS_TAP(X_LEFT));
+	  SEND_STRING(SS_TAP(X_LEFT));
       }
       break;
 
@@ -39,26 +41,53 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     // VIMESCAPE
      case VIMESCAPE:
       if (record->event.pressed) {
-        SEND_STRING(";;");
+	  SEND_STRING(";;");
       } 
       else {
       }
       break;
-  }
 
 // ——————————————————————————————————————————————————————————————————
+      
+    // AUTODOUBLEQUOTES
+     case AUTODOUBLEQUOTES:
+      if (record->event.pressed) {
+	  SEND_STRING("""");
+      } 
+      else {
+	  SEND_STRING(SS_TAP(X_LEFT));
+      }
+      break;
+
+// ——————————————————————————————————————————————————————————————————
+      
+    // AUTOSINGLEQUOTES
+     case AUTOSINGLEQUOTES:
+      if (record->event.pressed) {
+	  SEND_STRING("''");
+      } 
+      else {
+	  SEND_STRING(SS_TAP(X_LEFT));
+      }
+      break;
+
+// ——————————————————————————————————————————————————————————————————
+  }
   return true;
 };
+// ——————————————————————————————————————————————————————————————————
+
 
 // ——————————————————————————————————————————————————————————————————
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
+
     // base
     [0] = LAYOUT_60_ansi(
 	    // 14 keys
 	    KC_ESC, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6, KC_7, KC_8, KC_9, KC_0, KC_MINS, KC_EQL, KC_BSPC, 
 	    // 14 keys
-	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LBRC, KC_RBRC, KC_BSLS, 
+	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LBRC, KC_RBRC, KC_LEAD, 
 	    // 13 keys
 	    HYPR(KC_NO), KC_A, KC_S, KC_D, KC_F, KC_G, KC_H, KC_J, KC_K, KC_L, KC_SCLN, KC_QUOT, KC_ENT, 
 	    // 12 keys
