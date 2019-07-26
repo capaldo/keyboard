@@ -59,5 +59,4 @@
 // leader key macros
 // ——————————————————————————————————————————————————————————————————
 // set the timeout for leader key
-#define LEADER_TIMEOUT 300
-
+#define LEADER_TIMEOUT 600
