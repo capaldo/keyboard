@@ -191,6 +191,7 @@ void matrix_scan_user(void) {
 // ————————————————————————————————————————
 // B
 // ————————————————————————————————————————
+
     // bc to because
     SEQ_TWO_KEYS(KC_B, KC_C) {
 	SEND_STRING("because");
@@ -203,14 +204,18 @@ void matrix_scan_user(void) {
     SEQ_TWO_KEYS(KC_B, KC_W) {
 	SEND_STRING("between");
     }
+
 // C
 // ————————————————————————————————————————
+
 // D
 // ————————————————————————————————————————
+
     // dn to do not
     SEQ_TWO_KEYS(KC_D, KC_N) {
 	SEND_STRING("do not");
     }
+
 // E
 // ————————————————————————————————————————
 // F
@@ -219,8 +224,10 @@ void matrix_scan_user(void) {
 // ————————————————————————————————————————
 // H
 // ————————————————————————————————————————
+
 // I
 // ————————————————————————————————————————
+
     // idt to I dont think
     SEQ_THREE_KEYS(KC_I, KC_D, KC_T) {
 	SEND_STRING("I dont think");
