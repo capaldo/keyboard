@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.a40ae6b3f0e5204e,"",@progbits
+   7               		.section	.gnu.lto_.profile.f63f56e056e200e6,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\003bF\206\251\"\275\234"
    8      6060 6003 
    8      6246 86A9 
    8      22BD 9C00 
    9 0010 0457 014D 		.ascii	"\004W\001M"
   10               		.text
-  11               		.section	.gnu.lto_.icf.a40ae6b3f0e5204e,"",@progbits
+  11               		.section	.gnu.lto_.icf.f63f56e056e200e6,"",@progbits
   12 0000 789C 3DCF 		.string	"x\234=\317gTRa\034\006p^\360^\271\\\270T\236\366\336\313\366\336{\357\275\367\336{//nP\31
   12      6754 5261 
   12      1C06 705E 
@@ -120,7 +120,7 @@
   33 02f5 864B FB0B 		.ascii	"\206K\373\013cB\272\307"
   33      6342 BAC7 
   34               		.text
-  35               		.section	.gnu.lto_.jmpfuncs.a40ae6b3f0e5204e,"",@progbits
+  35               		.section	.gnu.lto_.jmpfuncs.f63f56e056e200e6,"",@progbits
   36 0000 789C BD59 		.string	"x\234\275YklTU\020\236\271w\273{\273\333\335\026\360\201d\025|\307\352\017\210\342[\361\3
   36      6B6C 5455 
   36      109E B977 
@@ -293,7 +293,7 @@
   71      7D06 FC03 
   72 0532 B8B7 2B   		.ascii	"\270\267+"
   73               		.text
-  74               		.section	.gnu.lto_.inline.a40ae6b3f0e5204e,"",@progbits
+  74               		.section	.gnu.lto_.inline.f63f56e056e200e6,"",@progbits
   75 0000 789C 8D56 		.string	"x\234\215V[\214SE\030\376\346\314\364t\332===\333\226]%\300vq\355\306\033n\004\301\305u]\
   75      5B8C 5345 
   75      18FE E6CC 
@@ -528,7 +528,7 @@
  122 0464 7F33 0899 		.ascii	"\1773\b\231\351"
  122      E9
  123               		.text
- 124               		.section	.gnu.lto_.pureconst.a40ae6b3f0e5204e,"",@progbits
+ 124               		.section	.gnu.lto_.pureconst.f63f56e056e200e6,"",@progbits
  125 0000 789C 0DC3 		.ascii	"x\234\r\303IK\202Q\030\200\321\373\322%\027\016\250m\036.jZX"
  125      494B 8251 
  125      1880 D1FB 
@@ -572,7 +572,7 @@
  133 00ab 1ED6 1023 		.ascii	"\036\326\020#\223"
  133      93
  134               		.text
- 135               		.section	.gnu.lto_rgblight_effect_dummy.a40ae6b3f0e5204e,"",@progbits
+ 135               		.section	.gnu.lto_rgblight_effect_dummy.f63f56e056e200e6,"",@progbits
  136 0000 789C 254E 		.string	"x\234%N\277KBa\024\275\347\273\366xPa\0204\224C\233\270T\364\307\270[\203\t)\024:{\325A\3
  136      BF4B 4261 
  136      14BD E7BB 
@@ -618,7 +618,7 @@
  144      F617 646A 
  144      51B5 
  145               		.text
- 146               		.section	.gnu.lto_is_static_effect.a40ae6b3f0e5204e,"",@progbits
+ 146               		.section	.gnu.lto_is_static_effect.f63f56e056e200e6,"",@progbits
  147 0000 789C 4D50 		.string	"x\234MPMk\023Q\024\275g\336df4\266\025\004\027:\213,\n!\233T\310o\260\377\243Z\211\202\26
  147      4D6B 1351 
  147      14BD 67DE 
@@ -674,7 +674,7 @@
  157      3EF7 0FAA 
  157      3C97 BE
  158               		.text
- 159               		.section	.gnu.lto_static_effect_table.a40ae6b3f0e5204e,"",@progbits
+ 159               		.section	.gnu.lto_static_effect_table.f63f56e056e200e6,"",@progbits
  160 0000 789C 2D8F 		.ascii	"x\234-\217\315K\002A\030\207\347\335I\3130=[\323\347\177\220"
  160      CD4B 0241 
  160      1887 E7DD 
@@ -737,7 +737,7 @@
  171      464A D00D 
  172 0114 5776 9D   		.ascii	"Wv\235"
  173               		.text
- 174               		.section	.gnu.lto_get_interval_time.isra.0.a40ae6b3f0e5204e,"",@progbits
+ 174               		.section	.gnu.lto_get_interval_time.isra.0.f63f56e056e200e6,"",@progbits
  175 0000 789C 6D93 		.string	"x\234m\223_H\323Q\024\307\357\271\347\267\341\177\203 zX0\243eR\344*\350\315\227^{\215\03
  175      5F48 D351 
  175      14C7 EFB9 
@@ -823,7 +823,7 @@
  191      90C7 C52F 
  191      1EC7 1431 
  192               		.text
- 193               		.section	.gnu.lto_rgblight_set_clipping_range.a40ae6b3f0e5204e,"",@progbits
+ 193               		.section	.gnu.lto_rgblight_set_clipping_range.f63f56e056e200e6,"",@progbits
  194 0000 789C 6590 		.string	"x\234e\220MKBQ\020\206g\356\261\353\215\312\026A\b\271hgn*\3507D?#\354\003\013\324\312\21
  194      4D4B 4251 
  194      1086 67EE 
@@ -889,7 +889,7 @@
  206      89E0 2F7E 
  206      F78F 27
  207               		.text
- 208               		.section	.gnu.lto_rgblight_set_effect_range.a40ae6b3f0e5204e,"",@progbits
+ 208               		.section	.gnu.lto_rgblight_set_effect_range.f63f56e056e200e6,"",@progbits
  209 0000 789C 6D52 		.string	"x\234mRKkSA\024>g\316\334\233kM\323\205P\272\310Bp\021\333\205\n\372\017D\374\031\245>\25
  209      4B6B 5341 
  209      143E 67CE 
@@ -942,7 +942,7 @@
  218      2798 663D 
  219 0202 B998 E30A 		.ascii	"\271\230\343\n"
  220               		.text
- 221               		.section	.gnu.lto_setrgb.a40ae6b3f0e5204e,"",@progbits
+ 221               		.section	.gnu.lto_setrgb.f63f56e056e200e6,"",@progbits
  222 0000 789C 9D91 		.ascii	"x\234\235\221\317KTQ\024\307\317\367\236\367\336\230\026\205"
  222      CF4B 5451 
  222      14C7 CFF7 
@@ -1059,7 +1059,7 @@
  244      78CF 1FC6 
  244      15DC E6
  245               		.text
- 246               		.section	.gnu.lto_sethsv_raw.a40ae6b3f0e5204e,"",@progbits
+ 246               		.section	.gnu.lto_sethsv_raw.f63f56e056e200e6,"",@progbits
  247 0000 789C 7D92 		.string	"x\234}\222\333KTQ\024\306\367w\366\234\271\350\230B\020R\222\022\311 \221S\004\341{\321\3
  247      DB4B 5451 
  247      14C6 F777 
@@ -1119,7 +1119,7 @@
  258      F64B FA53 
  258      9696 57FD 
  259               		.text
- 260               		.section	.gnu.lto_sethsv.a40ae6b3f0e5204e,"",@progbits
+ 260               		.section	.gnu.lto_sethsv.f63f56e056e200e6,"",@progbits
  261 0000 789C 6590 		.ascii	"x\234e\220\313K[Q\020\207\347w\346\336$\276\250P\020\261\301"
  261      CB4B 5B51 
  261      1087 E777 
@@ -1219,7 +1219,7 @@
  280      FC07 B4F1 
  280      9AC6 
  281               		.text
- 282               		.section	.gnu.lto_rgblight_check_config.a40ae6b3f0e5204e,"",@progbits
+ 282               		.section	.gnu.lto_rgblight_check_config.f63f56e056e200e6,"",@progbits
  283 0000 789C 8D92 		.ascii	"x\234\215\222\317k\023A\024\307\337wfw\263\3046\036D\361\320"
  283      CF6B 1341 
  283      14C7 DF77 
@@ -1348,7 +1348,7 @@
  308 0219 D36F C92E 		.ascii	"\323o\311.\037\255"
  308      1FAD 
  309               		.text
- 310               		.section	.gnu.lto_eeconfig_read_rgblight.a40ae6b3f0e5204e,"",@progbits
+ 310               		.section	.gnu.lto_eeconfig_read_rgblight.f63f56e056e200e6,"",@progbits
  311 0000 789C 2D4E 		.ascii	"x\234-N=K\003Q\020\334y{9\037\2026b\345\025i\323\350\017\361"
  311      3D4B 0351 
  311      10DC 797B 
@@ -1409,7 +1409,7 @@
  322      C91F 4931 
  322      538A 
  323               		.text
- 324               		.section	.gnu.lto_eeconfig_update_rgblight.a40ae6b3f0e5204e,"",@progbits
+ 324               		.section	.gnu.lto_eeconfig_update_rgblight.f63f56e056e200e6,"",@progbits
  325 0000 789C 6D8F 		.string	"x\234m\217?K\003A\020\305\347\335\344.\007Q\033!(\246\260\013i\364[\330\370)\242E\024\242
  325      3F4B 0341 
  325      10C5 E7DD 
@@ -1440,7 +1440,7 @@
  330      EC2F 0384 
  330      709D 
  331               		.text
- 332               		.section	.gnu.lto_eeconfig_update_rgblight_default.a40ae6b3f0e5204e,"",@progbits
+ 332               		.section	.gnu.lto_eeconfig_update_rgblight_default.f63f56e056e200e6,"",@progbits
  333 0000 789C 8DD3 		.ascii	"x\234\215\323]K\024Q\030\007\360\347?gwfZ\311\033\021\202\272"
  333      5D4B 1451 
  333      1807 F0E7 
@@ -1554,7 +1554,7 @@
  355 01e3 BD49 7F01 		.ascii	"\275I\177\001\211oo\327"
  355      896F 6FD7 
  356               		.text
- 357               		.section	.gnu.lto_eeconfig_debug_rgblight.a40ae6b3f0e5204e,"",@progbits
+ 357               		.section	.gnu.lto_eeconfig_debug_rgblight.f63f56e056e200e6,"",@progbits
  358 0000 789C 8DD7 		.string	"x\234\215\327\337o\024U\024\007\360{\356\374\334\331\335\331\355\357n\323\007^\341\301\32
  358      DF6F 1455 
  358      1407 F07B 
@@ -1787,7 +1787,7 @@
  404      82FD 0B14 
  404      9B99 E0
  405               		.text
- 406               		.section	.gnu.lto___c.2848.a40ae6b3f0e5204e,"",@progbits
+ 406               		.section	.gnu.lto___c.2848.f63f56e056e200e6,"",@progbits
  407 0000 789C 6363 		.string	"x\234cc``\020\003bi\006\b\230\302\314x\370\302\204\327\314\212L\363\033f(\314af``\334\314
  407      6060 1003 
  407      6269 0608 
@@ -1796,7 +1796,7 @@
  408 003f 00        		.string	""
  409 0040 AB41 0FBD 		.ascii	"\253A\017\275"
  410               		.text
- 411               		.section	.gnu.lto___c.2850.a40ae6b3f0e5204e,"",@progbits
+ 411               		.section	.gnu.lto___c.2850.f63f56e056e200e6,"",@progbits
  412 0000 789C 6363 		.string	"x\234cc``\020\003by\006\b\230\302\314\270\341\327\221+\\\212L\363\033f(\314af``\334\314\2
  412      6060 1003 
  412      6279 0608 
@@ -1805,7 +1805,7 @@
  413 0043 00        		.string	""
  414 0044 012D 1179 		.ascii	"\001-\021y"
  415               		.text
- 416               		.section	.gnu.lto___c.2852.a40ae6b3f0e5204e,"",@progbits
+ 416               		.section	.gnu.lto___c.2852.f63f56e056e200e6,"",@progbits
  417 0000 789C 6363 		.string	"x\234cc``\020\003bY\006\b\230\302\314\330r\373\312\tnE\246\371\r3\024\3460300nfTd\220.J\3
  417      6060 1003 
  417      6259 0608 
@@ -1814,7 +1814,7 @@
  418 0041 00        		.string	""
  419 0042 CE76 1073 		.ascii	"\316v\020s"
  420               		.text
- 421               		.section	.gnu.lto___c.2854.a40ae6b3f0e5204e,"",@progbits
+ 421               		.section	.gnu.lto___c.2854.f63f56e056e200e6,"",@progbits
  422 0000 789C 6363 		.string	"x\234cc``\020\003b\031\006\b\230\302\314\330\275l\302N\026E\246\371\r3\024\3460300nfTd\22
  422      6060 1003 
  422      6219 0608 
@@ -1823,7 +1823,7 @@
  423 0040 00        		.string	""
  424 0041 A385 0F80 		.ascii	"\243\205\017\200"
  425               		.text
- 426               		.section	.gnu.lto___c.2856.a40ae6b3f0e5204e,"",@progbits
+ 426               		.section	.gnu.lto___c.2856.f63f56e056e200e6,"",@progbits
  427 0000 789C 6363 		.string	"x\234cc``\020\003b\031\006\b\230\302\314x\351\341\233\373\374\212L\363\033f(\314af``\334\
  427      6060 1003 
  427      6219 0608 
@@ -1832,7 +1832,7 @@
  428 0040 00        		.string	""
  429 0041 D3E7 1095 		.ascii	"\323\347\020\225"
  430               		.text
- 431               		.section	.gnu.lto___c.2858.a40ae6b3f0e5204e,"",@progbits
+ 431               		.section	.gnu.lto___c.2858.f63f56e056e200e6,"",@progbits
  432 0000 789C 6363 		.string	"x\234cc``\020\003b\031\006\b\230\302\314x\363\303\366[l\212L\363\033f(\314af``\334\314\25
  432      6060 1003 
  432      6219 0608 
@@ -1841,7 +1841,7 @@
  433 0040 00        		.string	""
  434 0041 CC10 1063 		.ascii	"\314\020\020c"
  435               		.text
- 436               		.section	.gnu.lto___c.2860.a40ae6b3f0e5204e,"",@progbits
+ 436               		.section	.gnu.lto___c.2860.f63f56e056e200e6,"",@progbits
  437 0000 789C 6363 		.string	"x\234cc``\020\005b9\006\b\230\302\314\270\366\360!\026E\246\371\r3\024\3460300nfTd\220)JO
  437      6060 1005 
  437      6239 0608 
@@ -1850,7 +1850,7 @@
  438 0041 00        		.string	""
  439 0042 B8AF 100A 		.ascii	"\270\257\020\n"
  440               		.text
- 441               		.section	.gnu.lto_rgblight_read_dword.a40ae6b3f0e5204e,"",@progbits
+ 441               		.section	.gnu.lto_rgblight_read_dword.f63f56e056e200e6,"",@progbits
  442 0000 789C 2D4F 		.ascii	"x\234-O=K\003A\024|s{^\2561\026\"\026\246\2706\215\367S\374\r"
  442      3D4B 0341 
  442      147C 737B 
@@ -1917,7 +1917,7 @@
  454      FCE8 A4FC 
  455 0122 A380 6204 		.ascii	"\243\200b\004"
  456               		.text
- 457               		.section	.gnu.lto_rgblight_get_mode.a40ae6b3f0e5204e,"",@progbits
+ 457               		.section	.gnu.lto_rgblight_get_mode.f63f56e056e200e6,"",@progbits
  458 0000 789C 8D51 		.ascii	"x\234\215QM+\204Q\024>\317=\357\373\316\344c6\262\233\205\262"
  458      4D2B 8451 
  458      143E CF3D 
@@ -1959,7 +1959,7 @@
  465      4D55 7553 
  465      5125 BD01 
  466               		.text
- 467               		.section	.gnu.lto_rgblight_increase_speed.a40ae6b3f0e5204e,"",@progbits
+ 467               		.section	.gnu.lto_rgblight_increase_speed.f63f56e056e200e6,"",@progbits
  468 0000 789C 8D92 		.ascii	"x\234\215\222\317K\033Q\020\307\347\373f\263Y\245z\221B\017R"
  468      CF4B 1B51 
  468      10C7 E7FB 
@@ -2064,7 +2064,7 @@
  488      E767 6BD5 
  488      6B
  489               		.text
- 490               		.section	.gnu.lto_rgblight_decrease_speed.a40ae6b3f0e5204e,"",@progbits
+ 490               		.section	.gnu.lto_rgblight_decrease_speed.f63f56e056e200e6,"",@progbits
  491 0000 789C 8D92 		.ascii	"x\234\215\222\317K\033Q\020\307\347\373"
  491      CF4B 1B51 
  491      10C7 E7FB 
@@ -2086,7 +2086,7 @@
  495 01af 0DCD 7405 		.ascii	"\r\315t\005\020\237\326\270"
  495      109F D6B8 
  496               		.text
- 497               		.section	.gnu.lto_rgblight_get_hue.a40ae6b3f0e5204e,"",@progbits
+ 497               		.section	.gnu.lto_rgblight_get_hue.f63f56e056e200e6,"",@progbits
  498 0000 789C 3D4E 		.string	"x\234=N=K\003A\020\235\267\243\227kL#V^\021\260J\343\005\374Ej\021\005\025\224\244\276\31
  498      3D4B 0341 
  498      109D B7A3 
@@ -2113,7 +2113,7 @@
  502      3836 3559 
  502      9C28 0D8F 
  503               		.text
- 504               		.section	.gnu.lto_rgblight_get_sat.a40ae6b3f0e5204e,"",@progbits
+ 504               		.section	.gnu.lto_rgblight_get_sat.f63f56e056e200e6,"",@progbits
  505 0000 789C 3D4E 		.string	"x\234=N=K\003A\020\235\267\243\227kL#V^\021\260J\343\005\374Ej\021\005\025\224\244\276\31
  505      3D4B 0341 
  505      109D B7A3 
@@ -2152,7 +2152,7 @@
  512 011c 2F69 1061 		.ascii	"/i\020a\320"
  512      D0
  513               		.text
- 514               		.section	.gnu.lto_rgblight_get_val.a40ae6b3f0e5204e,"",@progbits
+ 514               		.section	.gnu.lto_rgblight_get_val.f63f56e056e200e6,"",@progbits
  515 0000 789C 3D4E 		.string	"x\234=N=K\003A\020\235\267\243\227kL#V^\021\260J\343\005\374Ej\021\005\025\224\244\276\31
  515      3D4B 0341 
  515      109D B7A3 
@@ -2179,7 +2179,7 @@
  519      3635 599C 
  519      280D 8FD3 
  520               		.text
- 521               		.section	.gnu.lto_rgblight_set.a40ae6b3f0e5204e,"",@progbits
+ 521               		.section	.gnu.lto_rgblight_set.f63f56e056e200e6,"",@progbits
  522 0000 789C 9554 		.string	"x\234\225Tmo\024U\024>\317\334\231\331\351\276\225\255/\237\232@B\232\330\206\2704\372\33
  522      6D6F 1455 
  522      143E CFDC 
@@ -2303,7 +2303,7 @@
  547      4CB1 EE6F 
  547      6648 3882 
  548               		.text
- 549               		.section	.gnu.lto_rgblight_setrgb.a40ae6b3f0e5204e,"",@progbits
+ 549               		.section	.gnu.lto_rgblight_setrgb.f63f56e056e200e6,"",@progbits
  550 0000 789C 8D54 		.ascii	"x\234\215T[KTQ\024\336\337\331g\3169\215\243\030aDL\021\210H"
  550      5B4B 5451 
  550      14DE DFD9 
@@ -2498,7 +2498,7 @@
  588      C77F 02E8 
  588      42BE 18
  589               		.text
- 590               		.section	.gnu.lto_rgblight_sethsv_noeeprom_old.a40ae6b3f0e5204e,"",@progbits
+ 590               		.section	.gnu.lto_rgblight_sethsv_noeeprom_old.f63f56e056e200e6,"",@progbits
  591 0000 789C 7552 		.ascii	"x\234uRkKTQ\024=\353\356{\365\3168S\037\202\220\030D\"\021\277"
  591      6B4B 5451 
  591      143D EBEE 
@@ -2668,7 +2668,7 @@
  624      AFFB 09A0 
  624      4A4A 8D
  625               		.text
- 626               		.section	.gnu.lto_rgblight_effect_breathing.a40ae6b3f0e5204e,"",@progbits
+ 626               		.section	.gnu.lto_rgblight_effect_breathing.f63f56e056e200e6,"",@progbits
  627 0000 789C 9554 		.string	"x\234\225T\337oTE\024\236s\317\335\273?\356v[D\215\t\rl%\r\220\030\227\306\304\007\023\21
  627      DF6F 5445 
  627      149E 73CF 
@@ -2816,7 +2816,7 @@
  656      8C75 E25F 
  656      CE0D FA09 
  657               		.text
- 658               		.section	.gnu.lto_rgblight_effect_breathe_table.a40ae6b3f0e5204e,"",@progbits
+ 658               		.section	.gnu.lto_rgblight_effect_breathe_table.f63f56e056e200e6,"",@progbits
  659 0000 789C 5D98 		.string	"x\234]\230Gs\\\307\021\307_\017)J\242\222\203\344\b\3139\310I\226d\313r\276\332\027\177\0
  659      4773 5CC7 
  659      11C7 5F0F 
@@ -3343,7 +3343,7 @@
  766 0e82 F53F FED3 		.ascii	"\365?\376\323\227_"
  766      975F 
  767               		.text
- 768               		.section	.gnu.lto_rgblight_effect_rainbow_mood.a40ae6b3f0e5204e,"",@progbits
+ 768               		.section	.gnu.lto_rgblight_effect_rainbow_mood.f63f56e056e200e6,"",@progbits
  769 0000 789C 9592 		.ascii	"x\234\225\222\317kSA\020\307\367\273\373\362\362\232\037\215"
  769      CF6B 5341 
  769      10C7 F7BB 
@@ -3483,7 +3483,7 @@
  796      EDEE F90E 
  796      F017 3FEF 
  797               		.text
- 798               		.section	.gnu.lto_rgblight_effect_rgbtest.a40ae6b3f0e5204e,"",@progbits
+ 798               		.section	.gnu.lto_rgblight_effect_rgbtest.f63f56e056e200e6,"",@progbits
  799 0000 789C 9555 		.string	"x\234\225U\355O\233U\024\277\347\271\317\033\224\202\243\313\224\2102?\340\\\\\304\250\03
  799      ED4F 9B55 
  799      14BF E7B9 
@@ -3675,7 +3675,7 @@
  837      FF0B 3947 
  837      BFA3 
  838               		.text
- 839               		.section	.gnu.lto_rgblight_sethsv_eeprom_helper.a40ae6b3f0e5204e,"",@progbits
+ 839               		.section	.gnu.lto_rgblight_sethsv_eeprom_helper.f63f56e056e200e6,"",@progbits
  840 0000 789C 9518 		.ascii	"x\234\225\030kT\225U\366\333\347\334\367\203\313\373%\""
  840      6B54 9555 
  840      F6DB E7DC 
@@ -4263,7 +4263,7 @@
  957      46FC 1796 
  957      A793 74
  958               		.text
- 959               		.section	.gnu.lto_mode_base_table.a40ae6b3f0e5204e,"",@progbits
+ 959               		.section	.gnu.lto_mode_base_table.f63f56e056e200e6,"",@progbits
  960 0000 789C 4D92 		.ascii	"x\234M\222\355ORa\030\306\317\315\021\222\024\354"
  960      ED4F 5261 
  960      18C6 CFCD 
@@ -4299,7 +4299,7 @@
  966      F61F 76FE 
  966      2AF8 
  967               		.text
- 968               		.section	.gnu.lto_rgblight_status.a40ae6b3f0e5204e,"",@progbits
+ 968               		.section	.gnu.lto_rgblight_status.f63f56e056e200e6,"",@progbits
  969 0000 789C 6363 		.string	"x\234cc``\320\005bF\006\b\230\302\3148\255\365\320y\366n\3469\314@A w\321\342\251\335,\02
  969      6060 D005 
  969      6246 0608 
@@ -4307,7 +4307,7 @@
  969      ADF5 D079 
  970 003a 70B4 0DCC 		.ascii	"p\264\r\314"
  971               		.text
- 972               		.section	.gnu.lto_RGBLED_GRADIENT_RANGES.a40ae6b3f0e5204e,"",@progbits
+ 972               		.section	.gnu.lto_RGBLED_GRADIENT_RANGES.f63f56e056e200e6,"",@progbits
  973 0000 789C 6363 		.string	"x\234cc``\330\005\304\214\f\0200\205\231q\373\273\325\333y\273\231\347030\036"
  973      6060 D805 
  973      C48C 0C10 
@@ -4324,7 +4324,7 @@
  976 009b 00        		.string	""
  977 009c 89CC 3A7E 		.ascii	"\211\314:~"
  978               		.text
- 979               		.section	.gnu.lto___c.3041.a40ae6b3f0e5204e,"",@progbits
+ 979               		.section	.gnu.lto___c.3041.f63f56e056e200e6,"",@progbits
  980 0000 789C 6363 		.string	"x\234cc``\020\003bM\006\b\230\302\314\330\374\345\345\002\036E\246\371\r3\024\3460300nfTd
  980      6060 1003 
  980      624D 0608 
@@ -4332,7 +4332,7 @@
  980      FCE5 E502 
  981 0048 B5A7 13DF 		.ascii	"\265\247\023\337"
  982               		.text
- 983               		.section	.gnu.lto___c.3046.a40ae6b3f0e5204e,"",@progbits
+ 983               		.section	.gnu.lto___c.3046.f63f56e056e200e6,"",@progbits
  984 0000 789C 6363 		.string	"x\234cc``\020\003bu\006\b\230\302\314\370u\322\317\331\354\212L\363\033f(\314af``\334\314
  984      6060 1003 
  984      6275 0608 
@@ -4340,7 +4340,7 @@
  984      75D2 CFD9 
  985 0048 85A9 12EC 		.ascii	"\205\251\022\354"
  986               		.text
- 987               		.section	.gnu.lto___c.3048.a40ae6b3f0e5204e,"",@progbits
+ 987               		.section	.gnu.lto___c.3048.f63f56e056e200e6,"",@progbits
  988 0000 789C 6363 		.string	"x\234cc``\020\003bM\006\b\230\302\314\270\363\347\235\225,\212L\363\033f(\314af``\334\314
  988      6060 1003 
  988      624D 0608 
@@ -4348,7 +4348,7 @@
  988      F3E7 9D95 
  989 004a B524 13A6 		.ascii	"\265$\023\246"
  990               		.text
- 991               		.section	.gnu.lto_rgblight_increase_hue_helper.a40ae6b3f0e5204e,"",@progbits
+ 991               		.section	.gnu.lto_rgblight_increase_hue_helper.f63f56e056e200e6,"",@progbits
  992 0000 789C 8D91 		.ascii	"x\234\215\221\317k\023A\024\307\337w^\262Yi\255\240\020Ds\350"
  992      CF6B 1341 
  992      14C7 DF77 
@@ -4420,7 +4420,7 @@
  1005      50AE FE
  1006 020d C3        		.ascii	"\303"
  1007               		.text
- 1008               		.section	.gnu.lto_rgblight_increase_hue_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1008               		.section	.gnu.lto_rgblight_increase_hue_noeeprom.f63f56e056e200e6,"",@progbits
  1009 0000 789C 258D 		.string	"x\234%\215\275J\003Q\020\205\317\271\243\233mR\211 \211/\220\306\274O:\265\210\202\006\fI
  1009      BD4A 0351 
  1009      1085 CFB9 
@@ -4455,7 +4455,7 @@
  1015      D83B C41F 
  1015      0784 4703 
  1016               		.text
- 1017               		.section	.gnu.lto_rgblight_increase_hue.a40ae6b3f0e5204e,"",@progbits
+ 1017               		.section	.gnu.lto_rgblight_increase_hue.f63f56e056e200e6,"",@progbits
  1018 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1018      6060 D80B 
  1018      C4A2 402C 
@@ -4480,7 +4480,7 @@
  1023 00df 00        		.string	""
  1024 00e0 21B0 473F 		.ascii	"!\260G?"
  1025               		.text
- 1026               		.section	.gnu.lto_rgblight_decrease_hue_helper.a40ae6b3f0e5204e,"",@progbits
+ 1026               		.section	.gnu.lto_rgblight_decrease_hue_helper.f63f56e056e200e6,"",@progbits
  1027 0000 789C 8D92 		.ascii	"x\234\215\222Mk\023Q\024\206\317{O2\031i\255\240\020D\263\350"
  1027      4D6B 1351 
  1027      1486 CF7B 
@@ -4514,7 +4514,7 @@
  1033      B513 DCA7 
  1034 0211 0C        		.ascii	"\f"
  1035               		.text
- 1036               		.section	.gnu.lto_rgblight_decrease_hue_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1036               		.section	.gnu.lto_rgblight_decrease_hue_noeeprom.f63f56e056e200e6,"",@progbits
  1037 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1037      6060 D80B 
  1037      C4A2 402C 
@@ -4533,7 +4533,7 @@
  1040 00e0 00        		.string	""
  1041 00e1 6970 47EB 		.ascii	"ipG\353"
  1042               		.text
- 1043               		.section	.gnu.lto_rgblight_decrease_hue.a40ae6b3f0e5204e,"",@progbits
+ 1043               		.section	.gnu.lto_rgblight_decrease_hue.f63f56e056e200e6,"",@progbits
  1044 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1044      6060 D80B 
  1044      C4A2 402C 
@@ -4558,7 +4558,7 @@
  1049 00df 00        		.string	""
  1050 00e0 779C 4817 		.ascii	"w\234H\027"
  1051               		.text
- 1052               		.section	.gnu.lto_rgblight_increase_sat_helper.a40ae6b3f0e5204e,"",@progbits
+ 1052               		.section	.gnu.lto_rgblight_increase_sat_helper.f63f56e056e200e6,"",@progbits
  1053 0000 789C 8D53 		.string	"x\234\215S\333K\224A\024\237\363\315\347\356\347\265\207\300\"}X\03761\3045\202\212\240\3
  1053      DB4B 9441 
  1053      149F F3CD 
@@ -4668,7 +4668,7 @@
  1074      7F07 8277 
  1074      922E 
  1075               		.text
- 1076               		.section	.gnu.lto_rgblight_increase_sat_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1076               		.section	.gnu.lto_rgblight_increase_sat_noeeprom.f63f56e056e200e6,"",@progbits
  1077 0000 789C 258D 		.string	"x\234%\215\275N\002Q\020\205\317\271#\3136V\306\204\004^\200\006\037\310J-\220\004L0P\357
  1077      BD4E 0251 
  1077      1085 CFB9 
@@ -4711,7 +4711,7 @@
  1085      554E F00F 
  1085      D79C 46C7 
  1086               		.text
- 1087               		.section	.gnu.lto_rgblight_increase_sat.a40ae6b3f0e5204e,"",@progbits
+ 1087               		.section	.gnu.lto_rgblight_increase_sat.f63f56e056e200e6,"",@progbits
  1088 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1088      6060 D80B 
  1088      C4A2 402C 
@@ -4736,7 +4736,7 @@
  1093 00df 00        		.string	""
  1094 00e0 F338 4723 		.ascii	"\3638G#"
  1095               		.text
- 1096               		.section	.gnu.lto_rgblight_decrease_sat_helper.a40ae6b3f0e5204e,"",@progbits
+ 1096               		.section	.gnu.lto_rgblight_decrease_sat_helper.f63f56e056e200e6,"",@progbits
  1097 0000 789C 8D53 		.string	"x\234\215S\335K\223Q\030?\317{\336m\357\374\352\242\260`^\314\213\025E\270EP\021xYW\375\0
  1097      DD4B 9351 
  1097      183F CF7B 
@@ -4851,7 +4851,7 @@
  1119      7E02 8857 
  1119      91DD 
  1120               		.text
- 1121               		.section	.gnu.lto_rgblight_decrease_sat_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1121               		.section	.gnu.lto_rgblight_decrease_sat_noeeprom.f63f56e056e200e6,"",@progbits
  1122 0000 789C 258D 		.string	"x\234%\215\261J\003a\020\204g\376\325\3135V\022\020\342\013\\\223<\220\225Z$\202\n\221\24
  1122      B14A 0361 
  1122      1084 67FE 
@@ -4869,7 +4869,7 @@
  1124      89D8 30E6 
  1125 00e0 2D97 479F 		.ascii	"-\227G\237"
  1126               		.text
- 1127               		.section	.gnu.lto_rgblight_decrease_sat.a40ae6b3f0e5204e,"",@progbits
+ 1127               		.section	.gnu.lto_rgblight_decrease_sat.f63f56e056e200e6,"",@progbits
  1128 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1128      6060 D80B 
  1128      C4A2 402C 
@@ -4894,7 +4894,7 @@
  1133 00df 00        		.string	""
  1134 00e0 1A81 472D 		.ascii	"\032\201G-"
  1135               		.text
- 1136               		.section	.gnu.lto_rgblight_increase_val_helper.a40ae6b3f0e5204e,"",@progbits
+ 1136               		.section	.gnu.lto_rgblight_increase_val_helper.f63f56e056e200e6,"",@progbits
  1137 0000 789C 8D53 		.string	"x\234\215SKOSA\024\236s\347\322^\236.L\320\004\026\355\242\022\f\241\030\027\022\023\226\
  1137      4B4F 5341 
  1137      149E 73E7 
@@ -5029,7 +5029,7 @@
  1164 0344 24FD 02C7 		.ascii	"$\375\002\307,\222\005"
  1164      2C92 05
  1165               		.text
- 1166               		.section	.gnu.lto_rgblight_increase_val_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1166               		.section	.gnu.lto_rgblight_increase_val_noeeprom.f63f56e056e200e6,"",@progbits
  1167 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1167      6060 D80B 
  1167      C4A2 402C 
@@ -5048,7 +5048,7 @@
  1170 00e0 00        		.string	""
  1171 00e1 5641 47C9 		.ascii	"VAG\311"
  1172               		.text
- 1173               		.section	.gnu.lto_rgblight_increase_val.a40ae6b3f0e5204e,"",@progbits
+ 1173               		.section	.gnu.lto_rgblight_increase_val.f63f56e056e200e6,"",@progbits
  1174 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1174      6060 D80B 
  1174      C4A2 402C 
@@ -5073,7 +5073,7 @@
  1179 00df 00        		.string	""
  1180 00e0 706D 4805 		.ascii	"pmH\005"
  1181               		.text
- 1182               		.section	.gnu.lto_rgblight_decrease_val_helper.a40ae6b3f0e5204e,"",@progbits
+ 1182               		.section	.gnu.lto_rgblight_decrease_val_helper.f63f56e056e200e6,"",@progbits
  1183 0000 789C 8D53 		.ascii	"x\234\215SKOSA\024\236s\347\322\336J\301\205\006M\312\242]T\242"
  1183      4B4F 5341 
  1183      149E 73E7 
@@ -5218,7 +5218,7 @@
  1211      62E0 FC0E 
  1211      E270 91D9 
  1212               		.text
- 1213               		.section	.gnu.lto_rgblight_decrease_val_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1213               		.section	.gnu.lto_rgblight_decrease_val_noeeprom.f63f56e056e200e6,"",@progbits
  1214 0000 789C 258D 		.string	"x\234%\215\277KBq\024\305\317\371\336z\276\245)\202\240hw\261\377H\250\006\023J(t~\337\36
  1214      BF4B 4271 
  1214      14C5 CFF9 
@@ -5260,7 +5260,7 @@
  1221      EE0C 7FD5 
  1221      2746 C1
  1222               		.text
- 1223               		.section	.gnu.lto_rgblight_decrease_val.a40ae6b3f0e5204e,"",@progbits
+ 1223               		.section	.gnu.lto_rgblight_decrease_val.f63f56e056e200e6,"",@progbits
  1224 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1224      6060 D80B 
  1224      C4A2 402C 
@@ -5285,7 +5285,7 @@
  1229 00df 00        		.string	""
  1230 00e0 E353 46ED 		.ascii	"\343SF\355"
  1231               		.text
- 1232               		.section	.gnu.lto_rgblight_sethsv.a40ae6b3f0e5204e,"",@progbits
+ 1232               		.section	.gnu.lto_rgblight_sethsv.f63f56e056e200e6,"",@progbits
  1233 0000 789C 6590 		.string	"x\234e\220\337+Ca\030\307\237\347<\307\234\306.\244\\\260\224\250\265\033?R\376\001\311\3
  1233      DF2B 4361 
  1233      18C7 9FE7 
@@ -5306,7 +5306,7 @@
  1236      DE71 A040 
  1237 0167 C558 8269 		.ascii	"\305X\202i"
  1238               		.text
- 1239               		.section	.gnu.lto_rgblight_sethsv_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1239               		.section	.gnu.lto_rgblight_sethsv_noeeprom.f63f56e056e200e6,"",@progbits
  1240 0000 789C 6590 		.string	"x\234e\220MKBQ\020\206g\356\334T*\027\021\204\224\004Q n\372 \350\027D\377\303\"4\260\240
  1240      4D4B 4251 
  1240      1086 67EE 
@@ -5345,7 +5345,7 @@
  1247 016b 036E 0D83 		.ascii	"\003n\r\203\216"
  1247      8E
  1248               		.text
- 1249               		.section	.gnu.lto_rgblight_setrgb_at.a40ae6b3f0e5204e,"",@progbits
+ 1249               		.section	.gnu.lto_rgblight_setrgb_at.f63f56e056e200e6,"",@progbits
  1250 0000 789C 9554 		.ascii	"x\234\225T\335K\024Q\034\275\347\336\231\331i[\355!\b\223}(\202"
  1250      DD4B 1451 
  1250      1CBD E7DE 
@@ -5455,7 +5455,7 @@
  1271      8E9E FE09 
  1271      D25E 64A1 
  1272               		.text
- 1273               		.section	.gnu.lto_rgblight_sethsv_at.a40ae6b3f0e5204e,"",@progbits
+ 1273               		.section	.gnu.lto_rgblight_sethsv_at.f63f56e056e200e6,"",@progbits
  1274 0000 789C 7553 		.ascii	"x\234uS[KTQ\024\336\353\254s\346\342\314\030\021d\305\020\022"
  1274      5B4B 5451 
  1274      14DE EBAC 
@@ -5555,7 +5555,7 @@
  1293      07E9 6756 
  1293      1C
  1294               		.text
- 1295               		.section	.gnu.lto_rgblight_setrgb_range.a40ae6b3f0e5204e,"",@progbits
+ 1295               		.section	.gnu.lto_rgblight_setrgb_range.f63f56e056e200e6,"",@progbits
  1296 0000 789C 8D54 		.string	"x\234\215T\353OTG\024\237sgw\357\335eY\250\246\2151\253!m\020mR\256\244&|\350\027\323G\37
  1296      EB4F 5447 
  1296      149F 7367 
@@ -5795,7 +5795,7 @@
  1343      9FFD 0340 
  1343      4686 F4
  1344               		.text
- 1345               		.section	.gnu.lto_rgblight_sethsv_range.a40ae6b3f0e5204e,"",@progbits
+ 1345               		.section	.gnu.lto_rgblight_sethsv_range.f63f56e056e200e6,"",@progbits
  1346 0000 789C 7594 		.string	"x\234u\224\333KTQ\024\306\367:\353\234\2718\243\004Av\031\"\"\231\204\310\302H\237\242\20
  1346      DB4B 5451 
  1346      14C6 F73A 
@@ -5888,7 +5888,7 @@
  1364      FC0F 736D 
  1364      6CD2 
  1365               		.text
- 1366               		.section	.gnu.lto_rgblight_sethsv_master.a40ae6b3f0e5204e,"",@progbits
+ 1366               		.section	.gnu.lto_rgblight_sethsv_master.f63f56e056e200e6,"",@progbits
  1367 0000 789C 6590 		.string	"x\234e\220MK\002q\020\306gvl\225\322C\004\021\265\004A v\250 \350\023D}\016\213\320\300\2
  1367      4D4B 0271 
  1367      10C6 6776 
@@ -5952,7 +5952,7 @@
  1379      5DFF 584C 
  1379      880F 
  1380               		.text
- 1381               		.section	.gnu.lto_rgblight_sethsv_slave.a40ae6b3f0e5204e,"",@progbits
+ 1381               		.section	.gnu.lto_rgblight_sethsv_slave.f63f56e056e200e6,"",@progbits
  1382 0000 789C 6590 		.ascii	"x\234e\220]+Dq\020\306\347\371\317:6o%%\261)\2456.P\312'\020"
  1382      5D2B 4471 
  1382      10C6 E7F9 
@@ -6039,7 +6039,7 @@
  1398      1781 D188 
  1398      C2
  1399               		.text
- 1400               		.section	.gnu.lto_rgblight_setrgb_master.a40ae6b3f0e5204e,"",@progbits
+ 1400               		.section	.gnu.lto_rgblight_setrgb_master.f63f56e056e200e6,"",@progbits
  1401 0000 789C 6590 		.ascii	"x\234e\220M+Dq\024\306\317\363?\343\316\244\261\220\222\270\373"
  1401      4D2B 4471 
  1401      14C6 CFF3 
@@ -6071,7 +6071,7 @@
  1406      DCEB 2BCD 
  1407 0164 BDC1 8784 		.ascii	"\275\301\207\204"
  1408               		.text
- 1409               		.section	.gnu.lto_rgblight_setrgb_slave.a40ae6b3f0e5204e,"",@progbits
+ 1409               		.section	.gnu.lto_rgblight_setrgb_slave.f63f56e056e200e6,"",@progbits
  1410 0000 789C 6590 		.string	"x\234e\220\335+\203q\024\307\317\367w\036\217\245QR\022\273_nP\376\005\362w\340b\024\212\
  1410      DD2B 8371 
  1410      14C7 CFF7 
@@ -6090,7 +6090,7 @@
  1413 0163 03BF 343E 		.ascii	"\003\2774>\210}"
  1413      887D 
  1414               		.text
- 1415               		.section	.gnu.lto_rgblight_effect_rainbow_swirl.a40ae6b3f0e5204e,"",@progbits
+ 1415               		.section	.gnu.lto_rgblight_effect_rainbow_swirl.f63f56e056e200e6,"",@progbits
  1416 0000 789C 9D55 		.string	"x\234\235U\377O[U\024\277\347\335\367^_\3517\240P \326\205\005\331\2021\"\321\037L\214\21
  1416      FF4F 5B55 
  1416      14BF E7DD 
@@ -6276,7 +6276,7 @@
  1452      E56F A232 
  1452      EE02 
  1453               		.text
- 1454               		.section	.gnu.lto_rgblight_effect_snake.a40ae6b3f0e5204e,"",@progbits
+ 1454               		.section	.gnu.lto_rgblight_effect_snake.f63f56e056e200e6,"",@progbits
  1455 0000 789C 9D57 		.string	"x\234\235W\351S\024W\020\177=ow\366\336eYoW\305\003\3202\221$\244\242\226\226\225\374\023
  1455      E953 1457 
  1455      107F 3D6F 
@@ -6505,7 +6505,7 @@
  1500 0789 0361 8BCA 		.ascii	"\003a\213\312\202"
  1500      82
  1501               		.text
- 1502               		.section	.gnu.lto_rgblight_effect_knight.a40ae6b3f0e5204e,"",@progbits
+ 1502               		.section	.gnu.lto_rgblight_effect_knight.f63f56e056e200e6,"",@progbits
  1503 0000 789C 9556 		.string	"x\234\225V\353oTE\024\237sg\037w\337}@\201v)\205\266!4\321\265X\025?\030\365\233\177\201\
  1503      EB6F 5445 
  1503      149F 7367 
@@ -6725,7 +6725,7 @@
  1547      BFCD D8A1 
  1547      47
  1548               		.text
- 1549               		.section	.gnu.lto_rgblight_effect_christmas.a40ae6b3f0e5204e,"",@progbits
+ 1549               		.section	.gnu.lto_rgblight_effect_christmas.f63f56e056e200e6,"",@progbits
  1550 0000 789C 8D55 		.string	"x\234\215U\337o\024U\024\276g\356\314\354tg\177uk\033RW\323\304\024\322\027W\364\037\360\
  1550      DF6F 1455 
  1550      14BE 67EE 
@@ -6869,7 +6869,7 @@
  1578 0424 5FCE 804E 		.ascii	"_\316\200N\314"
  1578      CC
  1579               		.text
- 1580               		.section	.gnu.lto_rgblight_effect_alternating.a40ae6b3f0e5204e,"",@progbits
+ 1580               		.section	.gnu.lto_rgblight_effect_alternating.f63f56e056e200e6,"",@progbits
  1581 0000 789C 9556 		.string	"x\234\225VmOTG\024\236s\347\356\335\273\367.,/\212\222R\202\t\224X\333\2224M\372\265\277\
  1581      6D4F 5447 
  1581      149E 73E7 
@@ -7058,7 +7058,7 @@
  1618      7EEF 7FB0 
  1619 0554 67CE 97   		.ascii	"g\316\227"
  1620               		.text
- 1621               		.section	.gnu.lto_rgblight_timer_init.a40ae6b3f0e5204e,"",@progbits
+ 1621               		.section	.gnu.lto_rgblight_timer_init.f63f56e056e200e6,"",@progbits
  1622 0000 789C 4D50 		.string	"x\234MP\261J\003A\024\234\331\325\3136\n\"V\372\003ir\337\244\026QPAI\352[\023$\021-DLl\2
  1622      B14A 0341 
  1622      149C D9D5 
@@ -7112,7 +7112,7 @@
  1632 0109 426E 16BF 		.ascii	"Bn\026\277\377@`A"
  1632      FF40 6041 
  1633               		.text
- 1634               		.section	.gnu.lto_rgblight_timer_enable.a40ae6b3f0e5204e,"",@progbits
+ 1634               		.section	.gnu.lto_rgblight_timer_enable.f63f56e056e200e6,"",@progbits
  1635 0000 789C 6D93 		.ascii	"x\234m\223\317O\023Q\020\307\337\367\275\335\355RJ\001\021E\355"
  1635      CF4F 1351 
  1635      10C7 DFF7 
@@ -7215,7 +7215,7 @@
  1656      BF01 D4FB 
  1656      7114 
  1657               		.text
- 1658               		.section	.gnu.lto___c.3155.a40ae6b3f0e5204e,"",@progbits
+ 1658               		.section	.gnu.lto___c.3155.f63f56e056e200e6,"",@progbits
  1659 0000 789C 6363 		.string	"x\234cc``\020\003bi\006\b\230\302\314\370u\321\203\025\234\212L\363\033f(\314af``\334\314
  1659      6060 1003 
  1659      6269 0608 
@@ -7224,7 +7224,7 @@
  1660 003f 00        		.string	""
  1661 0040 B030 1037 		.ascii	"\2600\0207"
  1662               		.text
- 1663               		.section	.gnu.lto_rgblight_timer_disable.a40ae6b3f0e5204e,"",@progbits
+ 1663               		.section	.gnu.lto_rgblight_timer_disable.f63f56e056e200e6,"",@progbits
  1664 0000 789C 6552 		.ascii	"x\234eRMk\023Q\024\275\347\275\311dL\223\240\210\340\"\213n\353"
  1664      4D6B 1351 
  1664      14BD E7BD 
@@ -7349,7 +7349,7 @@
  1688      1EA3 BF81 
  1688      8AEC C7
  1689               		.text
- 1690               		.section	.gnu.lto___c.3160.a40ae6b3f0e5204e,"",@progbits
+ 1690               		.section	.gnu.lto___c.3160.f63f56e056e200e6,"",@progbits
  1691 0000 789C 6363 		.string	"x\234cc``\020\003bi\006\b\230\302\314xv\352\263\033\234\212L\363\033f(\314af``\334\314\25
  1691      6060 1003 
  1691      6269 0608 
@@ -7358,7 +7358,7 @@
  1692 003f 00        		.string	""
  1693 0040 B00C 1041 		.ascii	"\260\f\020A"
  1694               		.text
- 1695               		.section	.gnu.lto_rgblight_mode_eeprom_helper.a40ae6b3f0e5204e,"",@progbits
+ 1695               		.section	.gnu.lto_rgblight_mode_eeprom_helper.f63f56e056e200e6,"",@progbits
  1696 0000 789C 8D57 		.ascii	"x\234\215W\353s\023U\024\277\347\336l\262Iv7\t\025\n6(30\323"
  1696      EB73 1355 
  1696      14BF E7DE 
@@ -7600,7 +7600,7 @@
  1745      FC0F 2A25 
  1745      0C51 
  1746               		.text
- 1747               		.section	.gnu.lto___c.2914.a40ae6b3f0e5204e,"",@progbits
+ 1747               		.section	.gnu.lto___c.2914.f63f56e056e200e6,"",@progbits
  1748 0000 789C 6363 		.string	"x\234cc``\020\003b9\006\b\230\302\314\270\344\377\314\345<\212L\363\033f(\314af``\334\314
  1748      6060 1003 
  1748      6239 0608 
@@ -7609,7 +7609,7 @@
  1749 0042 00        		.string	""
  1750 0043 D0B9 1003 		.ascii	"\320\271\020\003"
  1751               		.text
- 1752               		.section	.gnu.lto___c.2916.a40ae6b3f0e5204e,"",@progbits
+ 1752               		.section	.gnu.lto___c.2916.f63f56e056e200e6,"",@progbits
  1753 0000 789C 6363 		.string	"x\234cc``\020\003b\005\006\b\230\302\314\270a\376\316\017\034\212L\363\033f(\314af``\334\
  1753      6060 1003 
  1753      6205 0608 
@@ -7618,7 +7618,7 @@
  1754 0044 00        		.string	""
  1755 0045 F6CF 10B5 		.ascii	"\366\317\020\265"
  1756               		.text
- 1757               		.section	.gnu.lto_rgblight_step_helper.a40ae6b3f0e5204e,"",@progbits
+ 1757               		.section	.gnu.lto_rgblight_step_helper.f63f56e056e200e6,"",@progbits
  1758 0000 789C 5D52 		.string	"x\234]R\355KSq\024>\317=\367\316\245fP!Q\373 \224\211\373\320\202\372\023\372\320\177!\27
  1758      ED4B 5371 
  1758      143E CF3D 
@@ -7711,7 +7711,7 @@
  1775      23D1 93E1 
  1776 023a 6E9A E432 		.ascii	"n\232\3442"
  1777               		.text
- 1778               		.section	.gnu.lto_rgblight_step_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1778               		.section	.gnu.lto_rgblight_step_noeeprom.f63f56e056e200e6,"",@progbits
  1779 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1779      6060 D80B 
  1779      C4A2 402C 
@@ -7730,7 +7730,7 @@
  1782 00e0 00        		.string	""
  1783 00e1 0E41 4750 		.ascii	"\016AGP"
  1784               		.text
- 1785               		.section	.gnu.lto_rgblight_step.a40ae6b3f0e5204e,"",@progbits
+ 1785               		.section	.gnu.lto_rgblight_step.f63f56e056e200e6,"",@progbits
  1786 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1786      6060 D80B 
  1786      C4A2 402C 
@@ -7755,7 +7755,7 @@
  1791 00df 00        		.string	""
  1792 00e0 1506 472D 		.ascii	"\025\006G-"
  1793               		.text
- 1794               		.section	.gnu.lto_rgblight_step_reverse_helper.a40ae6b3f0e5204e,"",@progbits
+ 1794               		.section	.gnu.lto_rgblight_step_reverse_helper.f63f56e056e200e6,"",@progbits
  1795 0000 789C 5D52 		.ascii	"x\234]R\355KSq\024>\317=w/\345ZP!Q"
  1795      ED4B 5371 
  1795      143E CF3D 
@@ -7836,7 +7836,7 @@
  1810      C8B9 F05F 
  1810      B451 E57B 
  1811               		.text
- 1812               		.section	.gnu.lto_rgblight_step_reverse_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1812               		.section	.gnu.lto_rgblight_step_reverse_noeeprom.f63f56e056e200e6,"",@progbits
  1813 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1813      6060 D80B 
  1813      C4A2 402C 
@@ -7855,7 +7855,7 @@
  1816 00e0 00        		.string	""
  1817 00e1 5688 47BB 		.ascii	"V\210G\273"
  1818               		.text
- 1819               		.section	.gnu.lto_rgblight_step_reverse.a40ae6b3f0e5204e,"",@progbits
+ 1819               		.section	.gnu.lto_rgblight_step_reverse.f63f56e056e200e6,"",@progbits
  1820 0000 789C 6363 		.string	"x\234cc``\330\013\304\242@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
  1820      6060 D80B 
  1820      C4A2 402C 
@@ -7880,7 +7880,7 @@
  1825 00df 00        		.string	""
  1826 00e0 64B4 47E7 		.ascii	"d\264G\347"
  1827               		.text
- 1828               		.section	.gnu.lto_rgblight_mode.a40ae6b3f0e5204e,"",@progbits
+ 1828               		.section	.gnu.lto_rgblight_mode.f63f56e056e200e6,"",@progbits
  1829 0000 789C 254E 		.string	"x\234%N=K\003A\024|\263\357<\017?*!\210^)\2044*\370\023\374\017\366j$\nFQ\222\372\326H\27
  1829      3D4B 0341 
  1829      147C B3EF 
@@ -7924,7 +7924,7 @@
  1837 0114 995E F903 		.ascii	"\231^\371\003W\247Z\303"
  1837      57A7 5AC3 
  1838               		.text
- 1839               		.section	.gnu.lto_rgblight_increase.a40ae6b3f0e5204e,"",@progbits
+ 1839               		.section	.gnu.lto_rgblight_increase.f63f56e056e200e6,"",@progbits
  1840 0000 789C 5D52 		.ascii	"x\234]RMk\023Q\024\275\347\3357\311\320\370\261(\024\321,\n\245"
  1840      4D6B 1351 
  1840      14BD E7DD 
@@ -7989,7 +7989,7 @@
  1852      3FF1 07
  1853 01f8 8579 C72E 		.ascii	"\205y\307."
  1854               		.text
- 1855               		.section	.gnu.lto_rgblight_decrease.a40ae6b3f0e5204e,"",@progbits
+ 1855               		.section	.gnu.lto_rgblight_decrease.f63f56e056e200e6,"",@progbits
  1856 0000 789C 5D52 		.ascii	"x\234]RMk\023Q\024\275\347\3357\311\320\372\261P\212\037Yt\323"
  1856      4D6B 1351 
  1856      14BD E7DD 
@@ -8045,7 +8045,7 @@
  1866      EC17 4D59 
  1866      C8DB 
  1867               		.text
- 1868               		.section	.gnu.lto_rgblight_enable.a40ae6b3f0e5204e,"",@progbits
+ 1868               		.section	.gnu.lto_rgblight_enable.f63f56e056e200e6,"",@progbits
  1869 0000 789C 8D53 		.string	"x\234\215S\317k\023A\024\236of\223\254i\022kE\364\220C\256Up\033\360\342\331?\302\263z\25
  1869      CF6B 1341 
  1869      149E 6F66 
@@ -8150,7 +8150,7 @@
  1889      31F6 1BA8 
  1889      702C 62
  1890               		.text
- 1891               		.section	.gnu.lto___c.2937.a40ae6b3f0e5204e,"",@progbits
+ 1891               		.section	.gnu.lto___c.2937.f63f56e056e200e6,"",@progbits
  1892 0000 789C 6363 		.string	"x\234cc``\020\003bK\006\b\230\302\314\270\372}\323\"nE\246\371\r3\024\3460300nfTd0/JO\312
  1892      6060 1003 
  1892      624B 0608 
@@ -8159,7 +8159,7 @@
  1893 0052 00        		.string	""
  1894 0053 339A 1A0F 		.ascii	"3\232\032\017"
  1895               		.text
- 1896               		.section	.gnu.lto_rgblight_mode_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1896               		.section	.gnu.lto_rgblight_mode_noeeprom.f63f56e056e200e6,"",@progbits
  1897 0000 789C 254E 		.ascii	"x\234%N=K\003A\024|\263\357L\016\324J\b\242W\n!\215\n\376\005"
  1897      3D4B 0341 
  1897      147C B3EF 
@@ -8228,7 +8228,7 @@
  1910 0113 F53F 75F2 		.ascii	"\365?u\362Z\364"
  1910      5AF4 
  1911               		.text
- 1912               		.section	.gnu.lto_rgblight_init.a40ae6b3f0e5204e,"",@progbits
+ 1912               		.section	.gnu.lto_rgblight_init.f63f56e056e200e6,"",@progbits
  1913 0000 789C 8D57 		.string	"x\234\215W\333S[E\030\337o7\347\222\223;\224J+T\034\037\2342\216)3}q|\364\017\360\331G\36
  1913      DB53 5B45 
  1913      18DF 6F37 
@@ -8309,7 +8309,7 @@
  1930 0537 FE3C FB1F 		.ascii	"\376<\373\037\307l\007\314"
  1930      C76C 07CC 
  1931               		.text
- 1932               		.section	.gnu.lto___c.2865.a40ae6b3f0e5204e,"",@progbits
+ 1932               		.section	.gnu.lto___c.2865.f63f56e056e200e6,"",@progbits
  1933 0000 789C 6363 		.string	"x\234cc``\020\003bI\006\b\230\302\314x\376\356\277\031\034\212L\363\033f(\314af``\334\314
  1933      6060 1003 
  1933      6249 0608 
@@ -8318,7 +8318,7 @@
  1934 003d 00        		.string	""
  1935 003e 9629 0FC1 		.ascii	"\226)\017\301"
  1936               		.text
- 1937               		.section	.gnu.lto___c.2869.a40ae6b3f0e5204e,"",@progbits
+ 1937               		.section	.gnu.lto___c.2869.f63f56e056e200e6,"",@progbits
  1938 0000 789C 6363 		.string	"x\234cc``\020\003b-\006\b\230\302\314\330\326\274\257\223I\221i~\303\f\2059\314\f\f\214\2
  1938      6060 1003 
  1938      622D 0608 
@@ -8326,7 +8326,7 @@
  1938      D6BC AF93 
  1939 004d B4FE 151E 		.ascii	"\264\376\025\036"
  1940               		.text
- 1941               		.section	.gnu.lto___c.2871.a40ae6b3f0e5204e,"",@progbits
+ 1941               		.section	.gnu.lto___c.2871.f63f56e056e200e6,"",@progbits
  1942 0000 789C 6363 		.string	"x\234cc``\020\003bo\006\b\230\302\314xgF\323\"fE\246\371\r3\024\3460300nfTd\360,JO\312\31
  1942      6060 1003 
  1942      626F 0608 
@@ -8334,7 +8334,7 @@
  1942      6746 D322 
  1943 0068 795C 20B2 		.ascii	"y\\ \262"
  1944               		.text
- 1945               		.section	.gnu.lto_rgblight_enable_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 1945               		.section	.gnu.lto_rgblight_enable_noeeprom.f63f56e056e200e6,"",@progbits
  1946 0000 789C 8D53 		.string	"x\234\215S\317k\023A\024\236of\223\254i\022\253\342\217C\016\271V\301m\300\213g\377\b\317
  1946      CF6B 1341 
  1946      149E 6F66 
@@ -8414,7 +8414,7 @@
  1961      21F6 1B06 
  1961      D02C B0
  1962               		.text
- 1963               		.section	.gnu.lto___c.2942.a40ae6b3f0e5204e,"",@progbits
+ 1963               		.section	.gnu.lto___c.2942.f63f56e056e200e6,"",@progbits
  1964 0000 789C 6363 		.string	"x\234cc``\020\003bk\006\b\230\302\314\370\372\357\257\333l\212L\363\033f(\314af``\334\314
  1964      6060 1003 
  1964      626B 0608 
@@ -8428,7 +8428,7 @@
  1966 0054 00        		.string	""
  1967 0055 B2F4 1BAA 		.ascii	"\262\364\033\252"
  1968               		.text
- 1969               		.section	.gnu.lto_rgblight_update_dword.a40ae6b3f0e5204e,"",@progbits
+ 1969               		.section	.gnu.lto_rgblight_update_dword.f63f56e056e200e6,"",@progbits
  1970 0000 789C 8D51 		.ascii	"x\234\215QMk\023a\020\236g\337\335\315\332\244\361 \024\301\200"
  1970      4D6B 1361 
  1970      109E 67DF 
@@ -8509,7 +8509,7 @@
  1985      3A3E FA1B 
  1985      DEBD F78B 
  1986               		.text
- 1987               		.section	.gnu.lto_rgblight_disable.a40ae6b3f0e5204e,"",@progbits
+ 1987               		.section	.gnu.lto_rgblight_disable.f63f56e056e200e6,"",@progbits
  1988 0000 789C 8D94 		.ascii	"x\234\215\224\373O\034U\024\307\357w\356\354\203\327\026\333"
  1988      FB4F 1C55 
  1988      14C7 EF77 
@@ -8692,7 +8692,7 @@
  2023      F0EA DF
  2024 0412 DDBC 255A 		.ascii	"\335\274%Z"
  2025               		.text
- 2026               		.section	.gnu.lto___c.2947.a40ae6b3f0e5204e,"",@progbits
+ 2026               		.section	.gnu.lto___c.2947.f63f56e056e200e6,"",@progbits
  2027 0000 789C 6363 		.string	"x\234cc``\020\003b+\006\b\230\302\314x\362\304\245\031<\212L\363\033f(\314af``\334\314\25
  2027      6060 1003 
  2027      622B 0608 
@@ -8706,7 +8706,7 @@
  2029 0055 00        		.string	""
  2030 0056 6537 1ABC 		.ascii	"e7\032\274"
  2031               		.text
- 2032               		.section	.gnu.lto_rgblight_toggle.a40ae6b3f0e5204e,"",@progbits
+ 2032               		.section	.gnu.lto_rgblight_toggle.f63f56e056e200e6,"",@progbits
  2033 0000 789C 8D53 		.string	"x\234\215S[K\025Q\024^\337\354\271y;YQdH\b>)\324Q\360\037\364\037\352\271z\260\350\002\20
  2033      5B4B 1551 
  2033      145E DFEC 
@@ -8787,7 +8787,7 @@
  2048      EED4 7017 
  2049 029d 7BC2 5655 		.ascii	"{\302VU"
  2050               		.text
- 2051               		.section	.gnu.lto___c.2927.a40ae6b3f0e5204e,"",@progbits
+ 2051               		.section	.gnu.lto___c.2927.f63f56e056e200e6,"",@progbits
  2052 0000 789C 6363 		.string	"x\234cc``\020\005bK\006\b\230\302\314\370\355\377?iE\246\371\r3\024\3460300nfTd0/JO\312\3
  2052      6060 1005 
  2052      624B 0608 
@@ -8796,7 +8796,7 @@
  2053 0055 00        		.string	""
  2054 0056 4937 1A6E 		.ascii	"I7\032n"
  2055               		.text
- 2056               		.section	.gnu.lto_rgblight_disable_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 2056               		.section	.gnu.lto_rgblight_disable_noeeprom.f63f56e056e200e6,"",@progbits
  2057 0000 789C 6D54 		.string	"x\234mT]O\024W\030>\317\234\031v]`E\241\246\261k\303\r\027\232\310@B\302Eo\232\370#\232\3
  2057      5D4F 1457 
  2057      183E CF9C 
@@ -8976,7 +8976,7 @@
  2092      CB1B FF01 
  2092      F021 CA6E 
  2093               		.text
- 2094               		.section	.gnu.lto___c.2952.a40ae6b3f0e5204e,"",@progbits
+ 2094               		.section	.gnu.lto___c.2952.f63f56e056e200e6,"",@progbits
  2095 0000 789C 6363 		.string	"x\234cc``\020\003b\033\006\b\230\302\314xx\306\242\303\274\212L\363\033f(\314af``\334\314
  2095      6060 1003 
  2095      621B 0608 
@@ -8990,7 +8990,7 @@
  2097 0057 00        		.string	""
  2098 0058 897D 1B23 		.ascii	"\211}\033#"
  2099               		.text
- 2100               		.section	.gnu.lto_rgblight_toggle_noeeprom.a40ae6b3f0e5204e,"",@progbits
+ 2100               		.section	.gnu.lto_rgblight_toggle_noeeprom.f63f56e056e200e6,"",@progbits
  2101 0000 789C 8D53 		.string	"x\234\215SKO\024A\020\256oz^\274V\324h\304\020C\302\t\016,$\374\003\177\004g\365\200\306G
  2101      4B4F 1441 
  2101      10AE 6F7A 
@@ -9030,7 +9030,7 @@
  2108      8AA5 6104 
  2109 029b 3CCD 5625 		.ascii	"<\315V%"
  2110               		.text
- 2111               		.section	.gnu.lto___c.2932.a40ae6b3f0e5204e,"",@progbits
+ 2111               		.section	.gnu.lto___c.2932.f63f56e056e200e6,"",@progbits
  2112 0000 789C 6363 		.string	"x\234cc``\020\003bk\006\b\230\302\314xj\345\263#\254\212L\363\033f(\314af``\334\314\250\3
  2112      6060 1003 
  2112      626B 0608 
@@ -9044,7 +9044,7 @@
  2114 0058 00        		.string	""
  2115 0059 879F 1B24 		.ascii	"\207\237\033$"
  2116               		.text
- 2117               		.section	.gnu.lto_rgblight_timer_toggle.a40ae6b3f0e5204e,"",@progbits
+ 2117               		.section	.gnu.lto_rgblight_timer_toggle.f63f56e056e200e6,"",@progbits
  2118 0000 789C 6D52 		.string	"x\234mRKk\023Q\030\275\347\336y\231&\261\"\202\205,\n]5\210i\300\177\340\302\237\340Z]TA\
  2118      4B6B 1351 
  2118      18BD E7DE 
@@ -9094,7 +9094,7 @@
  2127      03
  2128 025a E727 1C0D 		.ascii	"\347'\034\r"
  2129               		.text
- 2130               		.section	.gnu.lto___c.3165.a40ae6b3f0e5204e,"",@progbits
+ 2130               		.section	.gnu.lto___c.3165.f63f56e056e200e6,"",@progbits
  2131 0000 789C 6363 		.string	"x\234cc``\020\003b)\006\b\230\302\3148\177\361\211\237\314\212L\363\033f(\314af``\334\314
  2131      6060 1003 
  2131      6229 0608 
@@ -9103,7 +9103,7 @@
  2132 003e 00        		.string	""
  2133 003f 98E5 0FCA 		.ascii	"\230\345\017\312"
  2134               		.text
- 2135               		.section	.gnu.lto_rgblight_show_solid_color.a40ae6b3f0e5204e,"",@progbits
+ 2135               		.section	.gnu.lto_rgblight_show_solid_color.f63f56e056e200e6,"",@progbits
  2136 0000 789C 6D90 		.ascii	"x\234m\220\313/\003Q\024\306\3177\247\035M\303B$\"t\337\330x"
  2136      CB2F 0351 
  2136      14C6 CF37 
@@ -9141,7 +9141,7 @@
  2143      DFDA 229B 
  2143      BB
  2144               		.text
- 2145               		.section	.gnu.lto_rgblight_task.a40ae6b3f0e5204e,"",@progbits
+ 2145               		.section	.gnu.lto_rgblight_task.f63f56e056e200e6,"",@progbits
  2146 0000 789C 8D58 		.string	"x\234\215X\351STI\022\257\254\367^\337\007\315\245 *\250\250\303:\242\316\304l\304F\354\3
  2146      E953 5449 
  2146      12AF ACF7 
@@ -9476,7 +9476,7 @@
  2212      1F49 D050 
  2212      E3
  2213               		.text
- 2214               		.section	.gnu.lto_RGBLED_BREATHING_INTERVALS.a40ae6b3f0e5204e,"",@progbits
+ 2214               		.section	.gnu.lto_RGBLED_BREATHING_INTERVALS.f63f56e056e200e6,"",@progbits
  2215 0000 789C 6363 		.string	"x\234cc``\350\007bF\006\b\230\302\314xr\311\256?<\335\314s\230\031\030Y\201\334C\2376,\00
  2215      6060 E807 
  2215      6246 0608 
@@ -9484,7 +9484,7 @@
  2215      72C9 AE3F 
  2216 0080 2FEE 2C96 		.ascii	"/\356,\226"
  2217               		.text
- 2218               		.section	.gnu.lto_RGBLED_RAINBOW_MOOD_INTERVALS.a40ae6b3f0e5204e,"",@progbits
+ 2218               		.section	.gnu.lto_RGBLED_RAINBOW_MOOD_INTERVALS.f63f56e056e200e6,"",@progbits
  2219 0000 789C 6363 		.string	"x\234cc``\310\004bF\006\b\230\302\314\270\253y\365\006\336n\3469\314\f\214r@\356\321\377\
  2219      6060 C804 
  2219      6246 0608 
@@ -9492,7 +9492,7 @@
  2219      AB79 F506 
  2220 0067 910B 2088 		.ascii	"\221\013 \210"
  2221               		.text
- 2222               		.section	.gnu.lto_RGBLED_RAINBOW_SWIRL_INTERVALS.a40ae6b3f0e5204e,"",@progbits
+ 2222               		.section	.gnu.lto_RGBLED_RAINBOW_SWIRL_INTERVALS.f63f56e056e200e6,"",@progbits
  2223 0000 789C 6363 		.string	"x\234cc``\310\002bF\006\b\230\302\314\370\361\317\334\355\234\335\314s\230\031\030E\200\3
  2223      6060 C802 
  2223      6246 0608 
@@ -9500,7 +9500,7 @@
  2223      F1CF DCED 
  2224 0069 04F1 21C5 		.ascii	"\004\361!\305"
  2225               		.text
- 2226               		.section	.gnu.lto_RGBLED_SNAKE_INTERVALS.a40ae6b3f0e5204e,"",@progbits
+ 2226               		.section	.gnu.lto_RGBLED_SNAKE_INTERVALS.f63f56e056e200e6,"",@progbits
  2227 0000 789C 6363 		.string	"x\234cc``\310\002bF\006\b\230\302\314\370\361\317\334\355\234\335\314s\230\031\030E\200\3
  2227      6060 C802 
  2227      6246 0608 
@@ -9508,7 +9508,7 @@
  2227      F1CF DCED 
  2228 0069 04F1 21C5 		.ascii	"\004\361!\305"
  2229               		.text
- 2230               		.section	.gnu.lto_RGBLED_KNIGHT_INTERVALS.a40ae6b3f0e5204e,"",@progbits
+ 2230               		.section	.gnu.lto_RGBLED_KNIGHT_INTERVALS.f63f56e056e200e6,"",@progbits
  2231 0000 789C 6363 		.string	"x\234cc``\310\002bF\006\b\230\302\3148y\311\272\235\274\335\314s\230\031\030\345\201\334\
  2231      6060 C802 
  2231      6246 0608 
@@ -9516,7 +9516,7 @@
  2231      79C9 BA9D 
  2232 0069 B9B7 2108 		.ascii	"\271\267!\b"
  2233               		.text
- 2234               		.section	.gnu.lto_RGBLED_RGBTEST_INTERVALS.a40ae6b3f0e5204e,"",@progbits
+ 2234               		.section	.gnu.lto_RGBLED_RGBTEST_INTERVALS.f63f56e056e200e6,"",@progbits
  2235 0000 789C 6363 		.string	"x\234cc``\320\003bF\006\b\230\302\314\370\367\332\353#\214\335\314s\230\031\030\0338\200\
  2235      6060 D003 
  2235      6246 0608 
@@ -9524,7 +9524,7 @@
  2235      F7DA EB23 
  2236 003d B41B 0F64 		.ascii	"\264\033\017d"
  2237               		.text
- 2238               		.section	.gnu.lto_.symbol_nodes.a40ae6b3f0e5204e,"",@progbits
+ 2238               		.section	.gnu.lto_.symbol_nodes.f63f56e056e200e6,"",@progbits
  2239 0000 789C 5D95 		.string	"x\234]\225\347[TW\020\306g\270,X@)\026l\240 +\342\212\275C\324\364\336{\375;\362\344\303\
  2239      E75B 5457 
  2239      10C6 67B8 
@@ -9701,7 +9701,7 @@
  2274      5FCF DA02 
  2275 05c7 18        		.ascii	"\030"
  2276               		.text
- 2277               		.section	.gnu.lto_.refs.a40ae6b3f0e5204e,"",@progbits
+ 2277               		.section	.gnu.lto_.refs.f63f56e056e200e6,"",@progbits
  2278 0000 789C 4553 		.string	"x\234ESYkSQ\020\376f\356\275\271Kl'iO\222n\326\264=vK\033m\013\325b%\340\213\313\213\342\
  2278      596B 5351 
  2278      10FE 66EE 
@@ -9814,7 +9814,7 @@
  2299      C72B E01F 
  2300 02bb 34        		.ascii	"4"
  2301               		.text
- 2302               		.section	.gnu.lto_.decls.a40ae6b3f0e5204e,"",@progbits
+ 2302               		.section	.gnu.lto_.decls.f63f56e056e200e6,"",@progbits
  2303 0000 789C AD7C 		.string	"x\234\255|\t\\U\327\265\367=w\337{\231\305\250ILB\363\322\324\367\3056\25711Mb\332\276/M\
  2303      095C 55D7 
  2303      B5F7 3D77 
@@ -12169,7 +12169,7 @@
  2784      7BB7 FF0F 
  2784      77B9 1441 
  2785               		.text
- 2786               		.section	.gnu.lto_.symtab.a40ae6b3f0e5204e,"",@progbits
+ 2786               		.section	.gnu.lto_.symtab.f63f56e056e200e6,"",@progbits
  2787 0000 7267 626C 		.string	"rgblight_set_clipping_range"
  2787      6967 6874 
  2787      5F73 6574 
@@ -14043,11 +14043,11 @@
  4262               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 rgblight.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccvrbbea.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccvrbbea.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccvrbbea.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccvrbbea.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccvrbbea.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccQzuc9o.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccQzuc9o.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccQzuc9o.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccQzuc9o.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccQzuc9o.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

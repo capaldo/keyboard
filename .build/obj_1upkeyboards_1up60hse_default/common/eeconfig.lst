@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.84cb791d1a81ce1d,"",@progbits
+   7               		.section	.gnu.lto_.profile.19b40135b626cc0b,"",@progbits
    8 0000 789C 6363 		.ascii	"x\234cc```\003bF\206\377\314\023\031\001\005\314\001\242"
    8      6060 6003 
    8      6246 86FF 
    8      CC13 1901 
    8      05CC 01A2 
    9               		.text
-  10               		.section	.gnu.lto_.icf.84cb791d1a81ce1d,"",@progbits
+  10               		.section	.gnu.lto_.icf.19b40135b626cc0b,"",@progbits
   11 0000 789C 6363 		.string	"x\234cc``\350c@"
   11      6060 E863 
   11      4000 
@@ -23,7 +23,7 @@
   13 00a2 00        		.string	""
   14 00a3 BDB1 47D5 		.ascii	"\275\261G\325"
   15               		.text
-  16               		.section	.gnu.lto_.jmpfuncs.84cb791d1a81ce1d,"",@progbits
+  16               		.section	.gnu.lto_.jmpfuncs.19b40135b626cc0b,"",@progbits
   17 0000 789C 9595 		.ascii	"x\234\225\225\317O\023A\034\305\347\355\354/KkU\210\364\320\203"
   17      CF4F 1341 
   17      1CC5 E7ED 
@@ -158,7 +158,7 @@
   43      62E2 3FAE 
   43      18BB 0D
   44               		.text
-  45               		.section	.gnu.lto_.inline.84cb791d1a81ce1d,"",@progbits
+  45               		.section	.gnu.lto_.inline.19b40135b626cc0b,"",@progbits
   46 0000 789C 8D90 		.ascii	"x\234\215\220A\016\2020\020E\377\224\332\n\026\212B\240;\256"
   46      410E 8230 
   46      1045 FF94 
@@ -195,7 +195,7 @@
   52      1B07 BA31 
   52      664C 9B23 
   53               		.text
-  54               		.section	.gnu.lto_.pureconst.84cb791d1a81ce1d,"",@progbits
+  54               		.section	.gnu.lto_.pureconst.19b40135b626cc0b,"",@progbits
   55 0000 789C 0DC3 		.string	"x\234\r\303\213\021@0\024"
   55      8B11 4030 
   55      1400 
@@ -212,7 +212,7 @@
   58 002f F641 3F42 		.ascii	"\366A?B\300\002\337"
   58      C002 DF
   59               		.text
-  60               		.section	.gnu.lto_eeconfig_enable.84cb791d1a81ce1d,"",@progbits
+  60               		.section	.gnu.lto_eeconfig_enable.19b40135b626cc0b,"",@progbits
   61 0000 789C 258F 		.ascii	"x\234%\217OK\002Q\024\305\357yW\307Y\330^\310>\200\233\374H."
   61      4F4B 0251 
   61      14C5 EF79 
@@ -272,7 +272,7 @@
   72      BB1E FD01 
   72      E9C8 5143 
   73               		.text
-  74               		.section	.gnu.lto_eeconfig_disable.84cb791d1a81ce1d,"",@progbits
+  74               		.section	.gnu.lto_eeconfig_disable.19b40135b626cc0b,"",@progbits
   75 0000 789C 258F 		.ascii	"x\234%\217?k\302P\024\305\357yWc\026wK\355\007p\321\217\324!"
   75      3F6B C250 
   75      14C5 EF79 
@@ -330,7 +330,7 @@
   85      E9D1 1F
   86 00f4 1447 51BF 		.ascii	"\024GQ\277"
   87               		.text
-  88               		.section	.gnu.lto_eeconfig_is_enabled.84cb791d1a81ce1d,"",@progbits
+  88               		.section	.gnu.lto_eeconfig_is_enabled.19b40135b626cc0b,"",@progbits
   89 0000 789C 2D50 		.ascii	"x\234-P=K\003A\020\235\267s\271\034H\254\205\\\3006\215\021\374"
   89      3D4B 0341 
   89      109D B773 
@@ -392,7 +392,7 @@
  100      10D0 2F99 
  100      E758 A3
  101               		.text
- 102               		.section	.gnu.lto_eeconfig_is_disabled.84cb791d1a81ce1d,"",@progbits
+ 102               		.section	.gnu.lto_eeconfig_is_disabled.19b40135b626cc0b,"",@progbits
  103 0000 789C 2D50 		.string	"x\234-P=K\303P\024\275\347\3354\t\210\235\005S\350\332\305\n\016\376\034\207\020E$\r\210{
  103      3D4B C350 
  103      14BD E7DD 
@@ -424,7 +424,7 @@
  108      E917 AF2E 
  108      57D5 
  109               		.text
- 110               		.section	.gnu.lto_eeconfig_read_debug.84cb791d1a81ce1d,"",@progbits
+ 110               		.section	.gnu.lto_eeconfig_read_debug.19b40135b626cc0b,"",@progbits
  111 0000 789C 2D8E 		.string	"x\234-\216\275J\003Q\020\205\317\271\243\233E\320\027\310\n6\026i\214\340\003Y,\253\210l\
  111      BD4A 0351 
  111      1085 CFB9 
@@ -470,7 +470,7 @@
  119      BA90 E217 
  119      E444 4891 
  120               		.text
- 121               		.section	.gnu.lto_eeconfig_update_debug.84cb791d1a81ce1d,"",@progbits
+ 121               		.section	.gnu.lto_eeconfig_update_debug.19b40135b626cc0b,"",@progbits
  122 0000 789C 2550 		.ascii	"x\234%P=K\003A\024|\263\357\274\034A{\301 XHHc\004\377\202\377"
  122      3D4B 0341 
  122      147C B3EF 
@@ -538,7 +538,7 @@
  135      2EFD 01C9 
  135      B05A 07
  136               		.text
- 137               		.section	.gnu.lto_eeconfig_read_default_layer.84cb791d1a81ce1d,"",@progbits
+ 137               		.section	.gnu.lto_eeconfig_read_default_layer.19b40135b626cc0b,"",@progbits
  138 0000 789C 2D8E 		.ascii	"x\234-\216\275J\003Q\020\205\317\271\243\273\333\350\013d\005"
  138      BD4A 0351 
  138      1085 CFB9 
@@ -596,7 +596,7 @@
  148      ED56 9E67 
  149 00ed 7648 CF   		.ascii	"vH\317"
  150               		.text
- 151               		.section	.gnu.lto_eeconfig_update_default_layer.84cb791d1a81ce1d,"",@progbits
+ 151               		.section	.gnu.lto_eeconfig_update_default_layer.19b40135b626cc0b,"",@progbits
  152 0000 789C 2550 		.ascii	"x\234%P=K\003A\024|\263\357\274;D{\301 \330\030\322\030\301\337"
  152      3D4B 0341 
  152      147C B3EF 
@@ -663,7 +663,7 @@
  164      5E99 59FC 
  164      03C9 7959 
  165               		.text
- 166               		.section	.gnu.lto_eeconfig_read_keymap.84cb791d1a81ce1d,"",@progbits
+ 166               		.section	.gnu.lto_eeconfig_read_keymap.19b40135b626cc0b,"",@progbits
  167 0000 789C 2D8E 		.string	"x\234-\216\275J\003Q\020\205\317\271\0237\213\242/\220\025\322X\2441\202\017d\261\254\"\2
  167      BD4A 0351 
  167      1085 CFB9 
@@ -703,7 +703,7 @@
  174      35C6 2F02 
  174      7049 33
  175               		.text
- 176               		.section	.gnu.lto_eeconfig_update_keymap.84cb791d1a81ce1d,"",@progbits
+ 176               		.section	.gnu.lto_eeconfig_update_keymap.19b40135b626cc0b,"",@progbits
  177 0000 789C 2550 		.ascii	"x\234%P\317+DQ\030\375\316\375\236\3475\330+/e\241i6F\371\027"
  177      CF2B 4451 
  177      18FD CEFD 
@@ -770,7 +770,7 @@
  189      9CFB 03DB 
  189      4F5A A1
  190               		.text
- 191               		.section	.gnu.lto_eeconfig_read_backlight.84cb791d1a81ce1d,"",@progbits
+ 191               		.section	.gnu.lto_eeconfig_read_backlight.19b40135b626cc0b,"",@progbits
  192 0000 789C 2D8E 		.string	"x\234-\216\275J\003Q\020\205\317\271\243\353\022\320\027\310\n6\026i\214\340\003Y,\253\21
  192      BD4A 0351 
  192      1085 CFB9 
@@ -817,7 +817,7 @@
  200      5B5D 48F1 
  200      0B2F AE49 
  201               		.text
- 202               		.section	.gnu.lto_eeconfig_update_backlight.84cb791d1a81ce1d,"",@progbits
+ 202               		.section	.gnu.lto_eeconfig_update_backlight.19b40135b626cc0b,"",@progbits
  203 0000 789C 2550 		.ascii	"x\234%P=K\304P\020\334y\033c\b\332\013\006\301B\216k<\301\337"
  203      3D4B C450 
  203      10DC 791B 
@@ -830,7 +830,7 @@
  204      504F 9414 
  205 0119 F25A C4   		.ascii	"\362Z\304"
  206               		.text
- 207               		.section	.gnu.lto_eeconfig_read_audio.84cb791d1a81ce1d,"",@progbits
+ 207               		.section	.gnu.lto_eeconfig_read_audio.19b40135b626cc0b,"",@progbits
  208 0000 789C 2D8E 		.string	"x\234-\2161K\003Q\020\204g\336\352\345\020\365\017\344\2044\026i\214\340\017\2628N\021\27
  208      314B 0351 
  208      1084 67DE 
@@ -873,7 +873,7 @@
  215      5B3B DB6B 
  216 00f0 3449 17   		.ascii	"4I\027"
  217               		.text
- 218               		.section	.gnu.lto_eeconfig_update_audio.84cb791d1a81ce1d,"",@progbits
+ 218               		.section	.gnu.lto_eeconfig_update_audio.19b40135b626cc0b,"",@progbits
  219 0000 789C 2550 		.ascii	"x\234%P=K\003A\024|\263\357\274\034!\366\202A\260\220\220\306"
  219      3D4B 0341 
  219      147C B3EF 
@@ -941,7 +941,7 @@
  231      13AF CC2C 
  232 011a 0E2E 5A7D 		.ascii	"\016.Z}"
  233               		.text
- 234               		.section	.gnu.lto_eeconfig_read_kb.84cb791d1a81ce1d,"",@progbits
+ 234               		.section	.gnu.lto_eeconfig_read_kb.19b40135b626cc0b,"",@progbits
  235 0000 789C 2D4E 		.ascii	"x\234-N=K\303P\024\275\347\3354\006D\373\003\032\241\203K\027"
  235      3D4B C350 
  235      14BD E7DD 
@@ -1004,7 +1004,7 @@
  246      3B0B 4B8B 
  247 00ff 204C 544E 		.ascii	" LTN"
  248               		.text
- 249               		.section	.gnu.lto_eeconfig_update_kb.84cb791d1a81ce1d,"",@progbits
+ 249               		.section	.gnu.lto_eeconfig_update_kb.19b40135b626cc0b,"",@progbits
  250 0000 789C 2550 		.ascii	"x\234%P\301JBA\024\275g\356\363%X\271-\222(\b\304M~R\304\303"
  250      C14A 4241 
  250      14BD 67EE 
@@ -1022,7 +1022,7 @@
  252      B2EE D881 
  253 012d 89C0 6422 		.ascii	"\211\300d\""
  254               		.text
- 255               		.section	.gnu.lto_eeconfig_read_user.84cb791d1a81ce1d,"",@progbits
+ 255               		.section	.gnu.lto_eeconfig_read_user.19b40135b626cc0b,"",@progbits
  256 0000 789C 2D4E 		.string	"x\234-N;K\303`\024\275'7\215\001Q\007\307F\350\342\320\305\376$\207\020E$\rH\367|\326B-\2
  256      3B4B C360 
  256      14BD 2737 
@@ -1035,7 +1035,7 @@
  257      CA81 0A9C 
  258 0100 F265 53A0 		.ascii	"\362eS\240"
  259               		.text
- 260               		.section	.gnu.lto_eeconfig_update_user.84cb791d1a81ce1d,"",@progbits
+ 260               		.section	.gnu.lto_eeconfig_update_user.19b40135b626cc0b,"",@progbits
  261 0000 789C 2550 		.string	"x\234%P=K\003A\024|\263\357r\006\342Ga\243x\210\026\022\322\230\237$rD\021M\016$\330\336\
  261      3D4B 0341 
  261      147C B3EF 
@@ -1088,7 +1088,7 @@
  270      8CA0 
  271 0131 63D1      		.ascii	"c\321"
  272               		.text
- 273               		.section	.gnu.lto_eeconfig_init_user.84cb791d1a81ce1d,"",@progbits
+ 273               		.section	.gnu.lto_eeconfig_init_user.19b40135b626cc0b,"",@progbits
  274 0000 789C 258F 		.string	"x\234%\217\275j\002Q\020\205\347\3341\273\233\"}B\342\003\330\350#Y,\233\020d]\220\364{\3
  274      BD6A 0251 
  274      1085 E7DC 
@@ -1101,7 +1101,7 @@
  275      C758 B6F7 
  276 00e4 BAE6 48F1 		.ascii	"\272\346H\361"
  277               		.text
- 278               		.section	.gnu.lto_eeconfig_init_kb.84cb791d1a81ce1d,"",@progbits
+ 278               		.section	.gnu.lto_eeconfig_init_kb.19b40135b626cc0b,"",@progbits
  279 0000 789C 6D4D 		.string	"x\234mM=K\303P\024=\347\3354\215\203\273R\375\001]\354Or\bQD\322\200\270\347\331*\255\350
  279      3D4B C350 
  279      143D E7DD 
@@ -1149,7 +1149,7 @@
  287      10BF F344 
  288 00f5 5E        		.ascii	"^"
  289               		.text
- 290               		.section	.gnu.lto_eeconfig_init_quantum.84cb791d1a81ce1d,"",@progbits
+ 290               		.section	.gnu.lto_eeconfig_init_quantum.19b40135b626cc0b,"",@progbits
  291 0000 789C 7D94 		.ascii	"x\234}\224\333k\023A\030\305\347\354\344\262\315\245\340\223"
  291      DB6B 1341 
  291      18C5 E7EC 
@@ -1235,7 +1235,7 @@
  307      28FB 0DB5 
  307      A36D 65
  308               		.text
- 309               		.section	.gnu.lto_eeconfig_init.84cb791d1a81ce1d,"",@progbits
+ 309               		.section	.gnu.lto_eeconfig_init.19b40135b626cc0b,"",@progbits
  310 0000 789C 258F 		.string	"x\234%\217\275\n\302@\020\204w\3564\006\304\007\020\361\001l\364\221,B\024\221\030\020\37
  310      BD0A C240 
  310      1084 77EE 
@@ -1281,7 +1281,7 @@
  318      05AD FB44 
  318      4F
  319               		.text
- 320               		.section	.gnu.lto_eeconfig_read_haptic.84cb791d1a81ce1d,"",@progbits
+ 320               		.section	.gnu.lto_eeconfig_read_haptic.19b40135b626cc0b,"",@progbits
  321 0000 789C 2D4E 		.ascii	"x\234-N\275K\303p\020\275\227KcPt\026\032\241\213C\027\373'9"
  321      BD4B C370 
  321      10BD 974B 
@@ -1343,7 +1343,7 @@
  332      F207 357D 
  332      543C 
  333               		.text
- 334               		.section	.gnu.lto_eeconfig_update_haptic.84cb791d1a81ce1d,"",@progbits
+ 334               		.section	.gnu.lto_eeconfig_update_haptic.19b40135b626cc0b,"",@progbits
  335 0000 789C 2550 		.ascii	"x\234%P=K\003A\024|\263\357r\036F\255#\006\321BB\032\363\223"
  335      3D4B 0341 
  335      147C B3EF 
@@ -1415,7 +1415,7 @@
  348      C21F EAC1 
  348      647D 
  349               		.text
- 350               		.section	.gnu.lto_.symbol_nodes.84cb791d1a81ce1d,"",@progbits
+ 350               		.section	.gnu.lto_.symbol_nodes.19b40135b626cc0b,"",@progbits
  351 0000 789C 5590 		.string	"x\234U\220AR\203@\020E\033&@ !\004\230$\020 \361\n\336@O\366Y\244\314\3263X9\205K\313\265
  351      4152 8340 
  351      1045 1B26 
@@ -1471,7 +1471,7 @@
  361      E40F 5836 
  361      D7E1 
  362               		.text
- 363               		.section	.gnu.lto_.refs.84cb791d1a81ce1d,"",@progbits
+ 363               		.section	.gnu.lto_.refs.19b40135b626cc0b,"",@progbits
  364 0000 789C 6363 		.string	"x\234cc```\003bF\021FQ\026\006"
  364      6060 6003 
  364      6246 1146 
@@ -1479,7 +1479,7 @@
  365 0010 0153 00   		.string	"\001S"
  366 0013 3C        		.ascii	"<"
  367               		.text
- 368               		.section	.gnu.lto_.decls.84cb791d1a81ce1d,"",@progbits
+ 368               		.section	.gnu.lto_.decls.19b40135b626cc0b,"",@progbits
  369 0000 789C 9557 		.string	"x\234\225WiPTW\026~\367]\266n\232%\306\230dd&[\271\324dF\234$\023\223Y\252R\223\037\363o~
  369      6950 5457 
  369      167E F75D 
@@ -1899,7 +1899,7 @@
  452      2AA4 6037 
  453 0b4c 4D        		.ascii	"M"
  454               		.text
- 455               		.section	.gnu.lto_.symtab.84cb791d1a81ce1d,"",@progbits
+ 455               		.section	.gnu.lto_.symtab.19b40135b626cc0b,"",@progbits
  456 0000 6565 636F 		.string	"eeconfig_enable"
  456      6E66 6967 
  456      5F65 6E61 
@@ -2491,11 +2491,11 @@
  914               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 eeconfig.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc7stIMD.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc7stIMD.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc7stIMD.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc7stIMD.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc7stIMD.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc8vqGFP.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc8vqGFP.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc8vqGFP.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc8vqGFP.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc8vqGFP.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.750bdc4eb6c16f42,"",@progbits
+   7               		.section	.gnu.lto_.profile.b7ca368f15ea948f,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\001bF\0066f"
    8      6060 6001 
    8      6246 0636 
@@ -13,7 +13,7 @@
   10 000f 8700      		.string	"\207"
   11 0011 15        		.ascii	"\025"
   12               		.text
-  13               		.section	.gnu.lto_.icf.750bdc4eb6c16f42,"",@progbits
+  13               		.section	.gnu.lto_.icf.b7ca368f15ea948f,"",@progbits
   14 0000 789C 6363 		.string	"x\234cc``\020a@"
   14      6060 1061 
   14      4000 
@@ -24,7 +24,7 @@
   15      96A3 8F79 
   16 0020 643E 097E 		.ascii	"d>\t~"
   17               		.text
-  18               		.section	.gnu.lto_.jmpfuncs.750bdc4eb6c16f42,"",@progbits
+  18               		.section	.gnu.lto_.jmpfuncs.b7ca368f15ea948f,"",@progbits
   19 0000 789C 6363 		.string	"x\234cc``\220b@"
   19      6060 9062 
   19      4000 
@@ -35,7 +35,7 @@
   20      00
   21 001b 18F6 021A 		.ascii	"\030\366\002\032"
   22               		.text
-  23               		.section	.gnu.lto_.inline.750bdc4eb6c16f42,"",@progbits
+  23               		.section	.gnu.lto_.inline.b7ca368f15ea948f,"",@progbits
   24 0000 789C 6363 		.string	"x\234cc``\260`@"
   24      6060 B060 
   24      4000 
@@ -46,7 +46,7 @@
   25      112E 0C11 
   26 0020 52FA 02C2 		.ascii	"R\372\002\302"
   27               		.text
-  28               		.section	.gnu.lto_.pureconst.750bdc4eb6c16f42,"",@progbits
+  28               		.section	.gnu.lto_.pureconst.b7ca368f15ea948f,"",@progbits
   29 0000 789C 6363 		.string	"x\234cc``\020\007bn\006\006F\t&\tf\t\026\tV\t6\tv\t\016\tN\006.\006"
   29      6060 1007 
   29      626E 0606 
@@ -54,7 +54,7 @@
   29      6609 1609 
   30 0021 0EFB 0120 		.ascii	"\016\373\001 "
   31               		.text
-  32               		.section	.gnu.lto_USB_Event_Stub.750bdc4eb6c16f42,"",@progbits
+  32               		.section	.gnu.lto_USB_Event_Stub.b7ca368f15ea948f,"",@progbits
   33 0000 789C 6363 		.string	"x\234cc``\250\005b- \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\206
   33      6060 A805 
   33      622D 2096 
@@ -78,7 +78,7 @@
   37      A2BE 4FA8 
   38 00ba 193B 384A 		.ascii	"\031;8J"
   39               		.text
-  40               		.section	.gnu.lto_USB_Event_Stub_2.750bdc4eb6c16f42,"",@progbits
+  40               		.section	.gnu.lto_USB_Event_Stub_2.b7ca368f15ea948f,"",@progbits
   41 0000 789C 6363 		.string	"x\234cc``\330\n\304\272@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\21
   41      6060 D80A 
   41      C4BA 402C 
@@ -101,7 +101,7 @@
   44      10F3 18B7 
   45 00f2 1D05 4A64 		.ascii	"\035\005Jd"
   46               		.text
-  47               		.section	.gnu.lto_USB_Event_Stub_3.750bdc4eb6c16f42,"",@progbits
+  47               		.section	.gnu.lto_USB_Event_Stub_3.b7ca368f15ea948f,"",@progbits
   48 0000 789C 6363 		.string	"x\234cc``x\013\304\006@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\214
   48      6060 780B 
   48      C406 402C 
@@ -134,7 +134,7 @@
   53      A569 89FA 
   54 0112 2285 5BEF 		.ascii	"\"\205[\357"
   55               		.text
-  56               		.section	.gnu.lto_.symbol_nodes.750bdc4eb6c16f42,"",@progbits
+  56               		.section	.gnu.lto_.symbol_nodes.b7ca368f15ea948f,"",@progbits
   57 0000 789C 6363 		.string	"x\234cc``\330\013\304\fL\022\365\f\f\023\31610"
   57      6060 D80B 
   57      C40C 4C12 
@@ -147,7 +147,7 @@
   58      B09E 0955 
   59 0053 16D2 2ACD 		.ascii	"\026\322*\315"
   60               		.text
-  61               		.section	.gnu.lto_.refs.750bdc4eb6c16f42,"",@progbits
+  61               		.section	.gnu.lto_.refs.b7ca368f15ea948f,"",@progbits
   62 0000 789C 6363 		.string	"x\234cc``\320\004bFFf \301\004\"\230A\004\013\210`\005\021l \202\035Dp"
   62      6060 D004 
   62      6246 4666 
@@ -157,7 +157,7 @@
   64 0022 0DA4 00   		.string	"\r\244"
   65 0025 74        		.ascii	"t"
   66               		.text
-  67               		.section	.gnu.lto_.decls.750bdc4eb6c16f42,"",@progbits
+  67               		.section	.gnu.lto_.decls.b7ca368f15ea948f,"",@progbits
   68 0000 789C 9D95 		.ascii	"x\234\235\225]LTG\024\307\347\334\273\013\364R\300\230\306\222"
   68      5D4C 5447 
   68      14C7 E7DC 
@@ -417,7 +417,7 @@
  120 057d 2F28 2E4C 		.ascii	"/(.Lu"
  120      75
  121               		.text
- 122               		.section	.gnu.lto_.symtab.750bdc4eb6c16f42,"",@progbits
+ 122               		.section	.gnu.lto_.symtab.b7ca368f15ea948f,"",@progbits
  123 0000 5553 425F 		.string	"USB_Event_Stub"
  123      4576 656E 
  123      745F 5374 
@@ -643,11 +643,11 @@
  294               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 Events.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cce0t8IU.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cce0t8IU.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cce0t8IU.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cce0t8IU.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cce0t8IU.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccFTWQjV.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccFTWQjV.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccFTWQjV.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccFTWQjV.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccFTWQjV.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

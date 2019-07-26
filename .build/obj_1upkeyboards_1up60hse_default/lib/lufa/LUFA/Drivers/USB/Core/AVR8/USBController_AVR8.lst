@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.e3afd0d5058bed6d,"",@progbits
+   7               		.section	.gnu.lto_.profile.1b49694b3d89b900,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\005bF\206.Fw"
    8      6060 6005 
    8      6246 862E 
@@ -12,7 +12,7 @@
    9 000f 0274 00   		.string	"\002t"
   10 0012 DF        		.ascii	"\337"
   11               		.text
-  12               		.section	.gnu.lto_.icf.e3afd0d5058bed6d,"",@progbits
+  12               		.section	.gnu.lto_.icf.1b49694b3d89b900,"",@progbits
   13 0000 789C 6363 		.string	"x\234cc``\220b@"
   13      6060 9062 
   13      4000 
@@ -23,7 +23,7 @@
   14      1B33 8FF1 
   15 0027 B29C 0CE3 		.ascii	"\262\234\f\343"
   16               		.text
-  17               		.section	.gnu.lto_.jmpfuncs.e3afd0d5058bed6d,"",@progbits
+  17               		.section	.gnu.lto_.jmpfuncs.1b49694b3d89b900,"",@progbits
   18 0000 789C 6363 		.string	"x\234cc``(b@"
   18      6060 2862 
   18      4000 
@@ -34,7 +34,7 @@
   19      CC0C 8C0C 
   20 0053 E3BD 168E 		.ascii	"\343\275\026\216"
   21               		.text
-  22               		.section	.gnu.lto_.inline.e3afd0d5058bed6d,"",@progbits
+  22               		.section	.gnu.lto_.inline.1b49694b3d89b900,"",@progbits
   23 0000 789C 6363 		.string	"x\234cc``(g@"
   23      6060 2867 
   23      4000 
@@ -48,7 +48,7 @@
   26 004c 00        		.string	""
   27 004d 1BBB 0B2C 		.ascii	"\033\273\013,"
   28               		.text
-  29               		.section	.gnu.lto_.pureconst.e3afd0d5058bed6d,"",@progbits
+  29               		.section	.gnu.lto_.pureconst.1b49694b3d89b900,"",@progbits
   30 0000 789C 6363 		.string	"x\234cc``\340\004b\026\006)V)v)\016)"
   30      6060 E004 
   30      6216 0629 
@@ -57,7 +57,7 @@
   31 0013 02FA 00   		.string	"\002\372"
   32 0016 90        		.ascii	"\220"
   33               		.text
-  34               		.section	.gnu.lto_USB_Init_Device.e3afd0d5058bed6d,"",@progbits
+  34               		.section	.gnu.lto_USB_Init_Device.1b49694b3d89b900,"",@progbits
   35 0000 789C 9D96 		.string	"x\234\235\226[L\224G\024\307\277\363\315\336\330eY\355[\033b}\250i}q\233\264\0176\351\013
   35      5B4C 9447 
   35      14C7 BFF3 
@@ -261,7 +261,7 @@
   75      889A 2DFD 
   75      0763 6A5A 
   76               		.text
-  77               		.section	.gnu.lto_USB_Disable.e3afd0d5058bed6d,"",@progbits
+  77               		.section	.gnu.lto_USB_Disable.1b49694b3d89b900,"",@progbits
   78 0000 789C 8D94 		.ascii	"x\234\215\224KLSA\024\206\347\334\351}P\212$\256L\304\235\033"
   78      4B4C 5341 
   78      1486 E7DC 
@@ -381,7 +381,7 @@
  101      2EB0 BF45 
  101      09C5 BD
  102               		.text
- 103               		.section	.gnu.lto_USB_ResetInterface.e3afd0d5058bed6d,"",@progbits
+ 103               		.section	.gnu.lto_USB_ResetInterface.1b49694b3d89b900,"",@progbits
  104 0000 789C 8D53 		.ascii	"x\234\215SKh\023Q\024}w^f\222f\"\025\021\024\354R\301n2[]\306"
  104      4B68 1351 
  104      147D 775E 
@@ -481,7 +481,7 @@
  124      93EC 0F14 
  124      A08E 3B
  125               		.text
- 126               		.section	.gnu.lto_USB_Init.e3afd0d5058bed6d,"",@progbits
+ 126               		.section	.gnu.lto_USB_Init.1b49694b3d89b900,"",@progbits
  127 0000 789C 8D92 		.string	"x\234\215\222Mh\023Q\020\307g\366e?H\254\036E\332\243\227^\262W=\306\212'OJ\275\212J\304B
  127      4D68 1351 
  127      10C7 67F6 
@@ -605,7 +605,7 @@
  153      6FC7 C828 
  153      F3
  154               		.text
- 155               		.section	.gnu.lto_.symbol_nodes.e3afd0d5058bed6d,"",@progbits
+ 155               		.section	.gnu.lto_.symbol_nodes.1b49694b3d89b900,"",@progbits
  156 0000 789C 558B 		.string	"x\234U\213\311\r\3020\020"
  156      C90D C230 
  156      1000 
@@ -640,7 +640,7 @@
  162      CBBE E20B 
  162      A8BF 3745 
  163               		.text
- 164               		.section	.gnu.lto_.refs.e3afd0d5058bed6d,"",@progbits
+ 164               		.section	.gnu.lto_.refs.1b49694b3d89b900,"",@progbits
  165 0000 789C 6363 		.string	"x\234cc``\220\004b\026\006F `bbdffdaaded\023`\344`d\343`"
  165      6060 9004 
  165      6216 0646 
@@ -650,7 +650,7 @@
  167 0022 06DA 00   		.string	"\006\332"
  168 0025 71        		.ascii	"q"
  169               		.text
- 170               		.section	.gnu.lto_.decls.e3afd0d5058bed6d,"",@progbits
+ 170               		.section	.gnu.lto_.decls.1b49694b3d89b900,"",@progbits
  171 0000 789C 9D96 		.string	"x\234\235\226{PT\327\031\300\357\331\263\260\313\302\002\265\216\265\031F\255\323\314\370
  171      7B50 54D7 
  171      19C0 EFD9 
@@ -920,7 +920,7 @@
  225      5F01 54C1 
  225      F3
  226               		.text
- 227               		.section	.gnu.lto_.symtab.e3afd0d5058bed6d,"",@progbits
+ 227               		.section	.gnu.lto_.symtab.1b49694b3d89b900,"",@progbits
  228 0000 5553 425F 		.string	"USB_Disable"
  228      4469 7361 
  228      626C 6500 
@@ -1143,11 +1143,11 @@
  400               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 USBController_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctowxnr.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctowxnr.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctowxnr.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctowxnr.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctowxnr.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccDaXrsR.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccDaXrsR.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccDaXrsR.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccDaXrsR.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccDaXrsR.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

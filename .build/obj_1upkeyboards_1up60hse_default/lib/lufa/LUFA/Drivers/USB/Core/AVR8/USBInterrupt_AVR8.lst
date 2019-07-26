@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.cc35139c225a6a40,"",@progbits
+   7               		.section	.gnu.lto_.profile.a6e1856c8bfceb78,"",@progbits
    8 0000 789C 6363 		.ascii	"x\234cc```\003bF\206'\2143\030\001\005h\001\214"
    8      6060 6003 
    8      6246 8627 
    8      8C33 1801 
    8      0568 018C 
    9               		.text
-  10               		.section	.gnu.lto_.icf.cc35139c225a6a40,"",@progbits
+  10               		.section	.gnu.lto_.icf.a6e1856c8bfceb78,"",@progbits
   11 0000 789C 6363 		.string	"x\234cc``\220d@"
   11      6060 9064 
   11      4000 
@@ -22,7 +22,7 @@
   12      A7AE 31B1 
   13 0026 A37B 0C66 		.ascii	"\243{\ff"
   14               		.text
-  15               		.section	.gnu.lto_.jmpfuncs.cc35139c225a6a40,"",@progbits
+  15               		.section	.gnu.lto_.jmpfuncs.a6e1856c8bfceb78,"",@progbits
   16 0000 789C 6363 		.string	"x\234cc``(f@"
   16      6060 2866 
   16      4000 
@@ -38,7 +38,7 @@
   18      60DC 8221 
   19 0053 6166 1683 		.ascii	"af\026\203"
   20               		.text
-  21               		.section	.gnu.lto_.inline.cc35139c225a6a40,"",@progbits
+  21               		.section	.gnu.lto_.inline.a6e1856c8bfceb78,"",@progbits
   22 0000 789C 6363 		.string	"x\234cc``\250c@"
   22      6060 A863 
   22      4000 
@@ -50,7 +50,7 @@
   24 004e 00        		.string	""
   25 004f 7895 0BBF 		.ascii	"x\225\013\277"
   26               		.text
-  27               		.section	.gnu.lto_.pureconst.cc35139c225a6a40,"",@progbits
+  27               		.section	.gnu.lto_.pureconst.a6e1856c8bfceb78,"",@progbits
   28 0000 789C 6363 		.string	"x\234cc``\340\002b\026\006)F)&)\326]\214"
   28      6060 E002 
   28      6216 0629 
@@ -58,7 +58,7 @@
   28      D65D 8C00 
   29 0014 049B 0126 		.ascii	"\004\233\001&"
   30               		.text
-  31               		.section	.gnu.lto_USB_INT_DisableAllInterrupts.cc35139c225a6a40,"",@progbits
+  31               		.section	.gnu.lto_USB_INT_DisableAllInterrupts.a6e1856c8bfceb78,"",@progbits
   32 0000 789C 7D90 		.string	"x\234}\220;H\003A\020\206\347\337\325S\324t6\242\210\205M\032\257\261\bvQ\021\004+E[Q\211
   32      3B48 0341 
   32      1086 E7DF 
@@ -76,7 +76,7 @@
   34      8B59 EBB5 
   35 016d 36A8 8F75 		.ascii	"6\250\217u"
   36               		.text
-  37               		.section	.gnu.lto_USB_INT_ClearAllInterrupts.cc35139c225a6a40,"",@progbits
+  37               		.section	.gnu.lto_USB_INT_ClearAllInterrupts.a6e1856c8bfceb78,"",@progbits
   38 0000 789C 6363 		.string	"x\234cc``Ped`\260\002\322\322@\314\310\314\300\3104\341\034\003C#\007\023##\210\321\300\3
   38      6060 5065 
   38      6460 B002 
@@ -94,7 +94,7 @@
   40      3E04 A93F 
   41 013d AE8C 76AA 		.ascii	"\256\214v\252"
   42               		.text
-  43               		.section	.gnu.lto___vector_10.cc35139c225a6a40,"",@progbits
+  43               		.section	.gnu.lto___vector_10.a6e1856c8bfceb78,"",@progbits
   44 0000 789C A55A 		.string	"x\234\245ZkTU\325\026\336k\255\363\200\303KQA\364hVZj&fVff\276\2624\263\306\355\326\337;\
   44      6B54 55D5 
   44      16DE 6BAD 
@@ -697,7 +697,7 @@
  165      0120 C9BF 
  165      F1
  166               		.text
- 167               		.section	.gnu.lto___vector_11.cc35139c225a6a40,"",@progbits
+ 167               		.section	.gnu.lto___vector_11.a6e1856c8bfceb78,"",@progbits
  168 0000 789C 9555 		.string	"x\234\225U]L\\U\020>s\317\275w\027\330\205\206\364A\315>\2641<\264\017\254\211>\220hT\254
  168      5D4C 5C55 
  168      103E 73CF 
@@ -749,7 +749,7 @@
  177      FE03 90D9 
  177      2CFE 
  178               		.text
- 179               		.section	.gnu.lto_.symbol_nodes.cc35139c225a6a40,"",@progbits
+ 179               		.section	.gnu.lto_.symbol_nodes.a6e1856c8bfceb78,"",@progbits
  180 0000 789C 55CB 		.ascii	"x\234U\313;\016\001Q\024\207\361\357\236kf<\327@\324\026\240"
  180      3B0E 0151 
  180      1487 F1EF 
@@ -793,7 +793,7 @@
  188 00a3 65DE B5F5 		.ascii	"e\336\265\365IR"
  188      4952 
  189               		.text
- 190               		.section	.gnu.lto_.refs.cc35139c225a6a40,"",@progbits
+ 190               		.section	.gnu.lto_.refs.a6e1856c8bfceb78,"",@progbits
  191 0000 789C 6363 		.string	"x\234cc``P\004b\016&Ff\035Ff}F\346\323\f\f,\357\031\030\231?\002\3617 \356ddd\351bd"
  191      6060 5004 
  191      620E 2646 
@@ -802,7 +802,7 @@
  192 0028 00        		.string	""
  193 0029 553D 0564 		.ascii	"U=\005d"
  194               		.text
- 195               		.section	.gnu.lto_.decls.cc35139c225a6a40,"",@progbits
+ 195               		.section	.gnu.lto_.decls.a6e1856c8bfceb78,"",@progbits
  196 0000 789C A598 		.string	"x\234\245\230kPTG\026\200o\337\036\004fx\270\304$V$\2261\233Z\177d\031\335d\243\311&\265*
  196      6B50 5447 
  196      1680 6FDF 
@@ -1331,7 +1331,7 @@
  301      2090 FF01 
  301      111F CD82 
  302               		.text
- 303               		.section	.gnu.lto_.symtab.cc35139c225a6a40,"",@progbits
+ 303               		.section	.gnu.lto_.symtab.a6e1856c8bfceb78,"",@progbits
  304 0000 5553 425F 		.string	"USB_INT_DisableAllInterrupts"
  304      494E 545F 
  304      4469 7361 
@@ -1611,11 +1611,11 @@
  521               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 USBInterrupt_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciUtQnw.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciUtQnw.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciUtQnw.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciUtQnw.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciUtQnw.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccCuZKbg.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccCuZKbg.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccCuZKbg.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccCuZKbg.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccCuZKbg.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.ca4def603de3aa95,"",@progbits
+   7               		.section	.gnu.lto_.profile.4144a9dfc763e04,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\004b\006"
    8      6060 6004 
    8      6206 00
@@ -12,7 +12,7 @@
   10 000c 4400      		.string	"D"
   11 000e 08        		.ascii	"\b"
   12               		.text
-  13               		.section	.gnu.lto_.icf.ca4def603de3aa95,"",@progbits
+  13               		.section	.gnu.lto_.icf.4144a9dfc763e04,"",@progbits
   14 0000 789C 6363 		.string	"x\234cc``\340`@"
   14      6060 E060 
   14      4000 
@@ -22,7 +22,7 @@
   16 0013 00        		.string	""
   17 0014 104A 0369 		.ascii	"\020J\003i"
   18               		.text
-  19               		.section	.gnu.lto_.inline.ca4def603de3aa95,"",@progbits
+  19               		.section	.gnu.lto_.inline.4144a9dfc763e04,"",@progbits
   20 0000 789C 6363 		.string	"x\234cc```b@\006"
   20      6060 6062 
   20      4006 00
@@ -30,7 +30,7 @@
   22 000c 9A00      		.string	"\232"
   23 000e 09        		.ascii	"\t"
   24               		.text
-  25               		.section	.gnu.lto_.pureconst.ca4def603de3aa95,"",@progbits
+  25               		.section	.gnu.lto_.pureconst.4144a9dfc763e04,"",@progbits
   26 0000 789C 6363 		.string	"x\234cc```\004b\006"
   26      6060 6004 
   26      6206 00
@@ -38,7 +38,7 @@
   28 000c 4400      		.string	"D"
   29 000e 08        		.ascii	"\b"
   30               		.text
-  31               		.section	.gnu.lto_debug_config.ca4def603de3aa95,"",@progbits
+  31               		.section	.gnu.lto_debug_config.4144a9dfc763e04,"",@progbits
   32 0000 789C 6363 		.string	"x\234cc``(\002bF\006\b\230\302\3148\255\365\320y\366n\3469\314@Ad.#\230\373\347\347\3759l
   32      6060 2802 
   32      6246 0608 
@@ -47,7 +47,7 @@
   33 005f 00        		.string	""
   34 0060 693C 2294 		.ascii	"i<\"\224"
   35               		.text
-  36               		.section	.gnu.lto_.symbol_nodes.ca4def603de3aa95,"",@progbits
+  36               		.section	.gnu.lto_.symbol_nodes.4144a9dfc763e04,"",@progbits
   37 0000 789C 6363 		.string	"x\234cc``\340\002b\006VF\206F%\020\003"
   37      6060 E002 
   37      6206 5646 
@@ -56,7 +56,7 @@
   38 0012 04EF 00   		.string	"\004\357"
   39 0015 BA        		.ascii	"\272"
   40               		.text
-  41               		.section	.gnu.lto_.refs.ca4def603de3aa95,"",@progbits
+  41               		.section	.gnu.lto_.refs.4144a9dfc763e04,"",@progbits
   42 0000 789C 6363 		.string	"x\234cc```\004b\006"
   42      6060 6004 
   42      6206 00
@@ -64,7 +64,7 @@
   44 000c 4400      		.string	"D"
   45 000e 08        		.ascii	"\b"
   46               		.text
-  47               		.section	.gnu.lto_.decls.ca4def603de3aa95,"",@progbits
+  47               		.section	.gnu.lto_.decls.4144a9dfc763e04,"",@progbits
   48 0000 789C 7D53 		.string	"x\234}SYLSA\024\235\373\246\224R6\023H\344\2431~\324\244?\366!j\220\304D#&\376\351\217\37
   48      594C 5341 
   48      149D FBA6 
@@ -164,7 +164,7 @@
   67      9DFC 02F3 
   68 0374 9F83      		.ascii	"\237\203"
   69               		.text
-  70               		.section	.gnu.lto_.symtab.ca4def603de3aa95,"",@progbits
+  70               		.section	.gnu.lto_.symtab.4144a9dfc763e04,"",@progbits
   71 0000 6465 6275 		.string	"debug_config"
   71      675F 636F 
   71      6E66 6967 
@@ -201,11 +201,11 @@
   93               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 debug.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccfkrnhf.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccfkrnhf.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccfkrnhf.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccfkrnhf.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccfkrnhf.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccRdiStf.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccRdiStf.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccRdiStf.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccRdiStf.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccRdiStf.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

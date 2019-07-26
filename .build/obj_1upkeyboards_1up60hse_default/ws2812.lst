@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.4414bc8e93c551e2,"",@progbits
+   7               		.section	.gnu.lto_.profile.4a65b5756bd0c5e5,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\001bF\2064["
    8      6060 6001 
    8      6246 8634 
@@ -12,7 +12,7 @@
    9 000e 0181 00   		.string	"\001\201"
   10 0011 AF        		.ascii	"\257"
   11               		.text
-  12               		.section	.gnu.lto_.icf.4414bc8e93c551e2,"",@progbits
+  12               		.section	.gnu.lto_.icf.4a65b5756bd0c5e5,"",@progbits
   13 0000 789C 6363 		.string	"x\234cc``P`@"
   13      6060 5060 
   13      4000 
@@ -24,7 +24,7 @@
   15 0029 00        		.string	""
   16 002a EAC6 0E25 		.ascii	"\352\306\016%"
   17               		.text
-  18               		.section	.gnu.lto_.jmpfuncs.4414bc8e93c551e2,"",@progbits
+  18               		.section	.gnu.lto_.jmpfuncs.4a65b5756bd0c5e5,"",@progbits
   19 0000 789C 8D4F 		.ascii	"x\234\215O;\n\302P\020\334y\233\017\244\361\002\271\207'\360"
   19      3B0A C250 
   19      10DC 799B 
@@ -81,7 +81,7 @@
   29      09B0 7E63 
   29      6F
   30               		.text
-  31               		.section	.gnu.lto_.inline.4414bc8e93c551e2,"",@progbits
+  31               		.section	.gnu.lto_.inline.4a65b5756bd0c5e5,"",@progbits
   32 0000 789C 6363 		.string	"x\234cc``\330\305\200"
   32      6060 D8C5 
   32      8000 
@@ -92,7 +92,7 @@
   33      82D9 EAC7 
   34 0061 1020 153E 		.ascii	"\020 \025>"
   35               		.text
-  36               		.section	.gnu.lto_.pureconst.4414bc8e93c551e2,"",@progbits
+  36               		.section	.gnu.lto_.pureconst.4a65b5756bd0c5e5,"",@progbits
   37 0000 789C 6363 		.string	"x\234cc``\340\001bV\206]\214\214RL\022\314R,\022"
   37      6060 E001 
   37      6256 865D 
@@ -100,7 +100,7 @@
   37      12CC 522C 
   38 0016 0A91 0141 		.ascii	"\n\221\001A"
   39               		.text
-  40               		.section	.gnu.lto_ws2812_sendarray_mask.4414bc8e93c551e2,"",@progbits
+  40               		.section	.gnu.lto_ws2812_sendarray_mask.4a65b5756bd0c5e5,"",@progbits
   41 0000 789C 8555 		.string	"x\234\205UkL\\U\020>s\317\335\367\256@\200F\0234K\"\222\246\204\002\325\26416Q\177i\242\3
   41      6B4C 5C55 
   41      103E 73CF 
@@ -289,7 +289,7 @@
   79 0508 D2AB EC3F 		.ascii	"\322\253\354?\351W{\326"
   79      E957 7BD6 
   80               		.text
-  81               		.section	.gnu.lto_ws2812_setleds_pin.4414bc8e93c551e2,"",@progbits
+  81               		.section	.gnu.lto_ws2812_setleds_pin.4a65b5756bd0c5e5,"",@progbits
   82 0000 789C 7D53 		.string	"x\234}S[LSA\020\335\271{{[(\017cb|\241\301\030$|\330\"\232`\342\217\211\237~\033?\233\246
   82      5B4C 5341 
   82      10DD B97B 
@@ -432,7 +432,7 @@
  109      8E86 
  110 0363 85        		.ascii	"\205"
  111               		.text
- 112               		.section	.gnu.lto_ws2812_setleds.4414bc8e93c551e2,"",@progbits
+ 112               		.section	.gnu.lto_ws2812_setleds.4a65b5756bd0c5e5,"",@progbits
  113 0000 789C 5D50 		.string	"x\234]P1K\202Q\024\275\347\275\317O\311\244\226\"\310\245!\304\241$\247~H\320l\351\0204}\
  113      314B 8251 
  113      14BD E7BD 
@@ -458,7 +458,7 @@
  117      06D1 1F65 
  117      A97E 1C
  118               		.text
- 119               		.section	.gnu.lto_ws2812_setleds_rgbw.4414bc8e93c551e2,"",@progbits
+ 119               		.section	.gnu.lto_ws2812_setleds_rgbw.4a65b5756bd0c5e5,"",@progbits
  120 0000 789C 7D53 		.string	"x\234}S[KTQ\024\336\353\354\2719\243\243\004A\224\206\021&>\3501\t\fz\t\372\r\321\3430\31
  120      5B4B 5451 
  120      14DE EBEC 
@@ -492,7 +492,7 @@
  126      1BE1 DE47 
  127 033e CD95 7D31 		.ascii	"\315\225}1"
  128               		.text
- 129               		.section	.gnu.lto_ws2812_sendarray.4414bc8e93c551e2,"",@progbits
+ 129               		.section	.gnu.lto_ws2812_sendarray.4a65b5756bd0c5e5,"",@progbits
  130 0000 789C 5D50 		.ascii	"x\234]P\277/CQ\024>\337=\257O\203\246\026I\023e14]\210N\006\177"
  130      BF2F 4351 
  130      143E DF3D 
@@ -577,7 +577,7 @@
  146      E407 0997 
  146      7BF1 
  147               		.text
- 148               		.section	.gnu.lto_.symbol_nodes.4414bc8e93c551e2,"",@progbits
+ 148               		.section	.gnu.lto_.symbol_nodes.4a65b5756bd0c5e5,"",@progbits
  149 0000 789C 55C8 		.string	"x\234U\310\273\r\2000\020\004\3219\037\346+j\240\025\250\354\034\021\223\221#\252\240\bj\
  149      BB0D 8030 
  149      1004 D139 
@@ -592,7 +592,7 @@
  151      3EA4 D225 
  151      DD
  152               		.text
- 153               		.section	.gnu.lto_.refs.4414bc8e93c551e2,"",@progbits
+ 153               		.section	.gnu.lto_.refs.4a65b5756bd0c5e5,"",@progbits
  154 0000 789C 6363 		.string	"x\234cc```\004b\006"
  154      6060 6004 
  154      6206 00
@@ -600,7 +600,7 @@
  156 000c 4400      		.string	"D"
  157 000e 08        		.ascii	"\b"
  158               		.text
- 159               		.section	.gnu.lto_.decls.4414bc8e93c551e2,"",@progbits
+ 159               		.section	.gnu.lto_.decls.4a65b5756bd0c5e5,"",@progbits
  160 0000 789C 9556 		.string	"x\234\225V[PTW\026\275\373\236\346\3254`\300\244\254\251\376\260,\252\350\237\320hfF\223|
  160      5B50 5457 
  160      16BD FB9E 
@@ -896,7 +896,7 @@
  220 07c3 3F36 2D1B 		.ascii	"?6-\033\332"
  220      DA
  221               		.text
- 222               		.section	.gnu.lto_.symtab.4414bc8e93c551e2,"",@progbits
+ 222               		.section	.gnu.lto_.symtab.4a65b5756bd0c5e5,"",@progbits
  223 0000 7773 3238 		.string	"ws2812_sendarray_mask"
  223      3132 5F73 
  223      656E 6461 
@@ -1009,11 +1009,11 @@
  305               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 ws2812.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrLDjR.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrLDjR.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrLDjR.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrLDjR.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrLDjR.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccjTbPlu.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccjTbPlu.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccjTbPlu.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccjTbPlu.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccjTbPlu.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

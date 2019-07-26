@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.90e16da50cc7e5db,"",@progbits
+   7               		.section	.gnu.lto_.profile.abdbe785812d202b,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\003bF\206~\306FF"
    8      6060 6003 
    8      6246 867E 
    8      C646 4600 
    9 0010 03E6 0120 		.ascii	"\003\346\001 "
   10               		.text
-  11               		.section	.gnu.lto_.icf.90e16da50cc7e5db,"",@progbits
+  11               		.section	.gnu.lto_.icf.abdbe785812d202b,"",@progbits
   12 0000 789C 6363 		.string	"x\234cc``P`@"
   12      6060 5060 
   12      4000 
@@ -22,7 +22,7 @@
   13      8AF9 67B9 
   14 002d FCC0 0F73 		.ascii	"\374\300\017s"
   15               		.text
-  16               		.section	.gnu.lto_.jmpfuncs.90e16da50cc7e5db,"",@progbits
+  16               		.section	.gnu.lto_.jmpfuncs.abdbe785812d202b,"",@progbits
   17 0000 789C 4D8D 		.ascii	"x\234M\215!\016\203@\020E\377\333\t \367\002\334\025A\252\260"
   17      210E 8340 
   17      1045 FFDB 
@@ -49,7 +49,7 @@
   21      53FC AA1D 
   21      4E33 20C3 
   22               		.text
-  23               		.section	.gnu.lto_.inline.90e16da50cc7e5db,"",@progbits
+  23               		.section	.gnu.lto_.inline.abdbe785812d202b,"",@progbits
   24 0000 789C 6363 		.string	"x\234cc``hc@"
   24      6060 6863 
   24      4000 
@@ -71,7 +71,7 @@
   28 006f 00        		.string	""
   29 0070 AF99 1538 		.ascii	"\257\231\0258"
   30               		.text
-  31               		.section	.gnu.lto_.pureconst.90e16da50cc7e5db,"",@progbits
+  31               		.section	.gnu.lto_.pureconst.abdbe785812d202b,"",@progbits
   32 0000 789C 6363 		.string	"x\234cc``\340\006bV\006)FK&)f)6)"
   32      6060 E006 
   32      6256 0629 
@@ -80,7 +80,7 @@
   33 0015 04F0 00   		.string	"\004\360"
   34 0018 C4        		.ascii	"\304"
   35               		.text
-  36               		.section	.gnu.lto_Endpoint_ConfigureEndpoint_Prv.90e16da50cc7e5db,"",@progbits
+  36               		.section	.gnu.lto_Endpoint_ConfigureEndpoint_Prv.abdbe785812d202b,"",@progbits
   37 0000 789C 8D56 		.string	"x\234\215VkLTG\024\236s\347\356\275\313\356\312\242i\212\350\n\376\2501\376\021\233\232\3
   37      6B4C 5447 
   37      149E 73E7 
@@ -213,7 +213,7 @@
   65 064a FD07 03A8 		.ascii	"\375\007\003\250\300\341"
   65      C0E1 
   66               		.text
-  67               		.section	.gnu.lto_Endpoint_ConfigureEndpointTable.90e16da50cc7e5db,"",@progbits
+  67               		.section	.gnu.lto_Endpoint_ConfigureEndpointTable.abdbe785812d202b,"",@progbits
   68 0000 789C 8D56 		.ascii	"x\234\215V}PTU\024\277\347\335}o\337\276\375B\301\017tE\3041"
   68      7D50 5455 
   68      14BF E7DD 
@@ -491,7 +491,7 @@
  123      3397 FE0B 
  123      7624 B4D2 
  124               		.text
- 125               		.section	.gnu.lto_Endpoint_ClearEndpoints.90e16da50cc7e5db,"",@progbits
+ 125               		.section	.gnu.lto_Endpoint_ClearEndpoints.abdbe785812d202b,"",@progbits
  126 0000 789C 8D94 		.string	"x\234\215\224IL\024A\024\206\353u\365\364,,s\361\340\201 \027\016\\\030\023M\364\240\007T
  126      494C 1441 
  126      1486 EB75 
@@ -565,7 +565,7 @@
  140      A12E B25F 
  140      CAD2 A7F6 
  141               		.text
- 142               		.section	.gnu.lto_Endpoint_ClearStatusStage.90e16da50cc7e5db,"",@progbits
+ 142               		.section	.gnu.lto_Endpoint_ClearStatusStage.abdbe785812d202b,"",@progbits
  143 0000 789C 8D54 		.string	"x\234\215T[H\024a\024>g\376\271\354\316\356\254F\004=\370\320K`\024\016D\017=\370b\267\24
  143      5B48 1461 
  143      143E 67FE 
@@ -672,7 +672,7 @@
  164      5F50 DCEB 
  164      9A
  165               		.text
- 166               		.section	.gnu.lto_Endpoint_WaitUntilReady.90e16da50cc7e5db,"",@progbits
+ 166               		.section	.gnu.lto_Endpoint_WaitUntilReady.abdbe785812d202b,"",@progbits
  167 0000 789C 9555 		.string	"x\234\225U[LTW\024\335\373\236\231;w\346\316\200BcL\2354\376\030cL\230&6\3264\376X\255\03
  167      5B4C 5457 
  167      14DD FB9E 
@@ -790,7 +790,7 @@
  192 0564 C03F B35E 		.ascii	"\300?\263^\372\336"
  192      FADE 
  193               		.text
- 194               		.section	.gnu.lto_.symbol_nodes.90e16da50cc7e5db,"",@progbits
+ 194               		.section	.gnu.lto_.symbol_nodes.abdbe785812d202b,"",@progbits
  195 0000 789C 6363 		.string	"x\234cc``(\005b\006\246k\f\365\f\f\023\3161\200\250]\r\216@\221\253\f\365\214\250\"\327\0
  195      6060 2805 
  195      6206 A66B 
@@ -803,7 +803,7 @@
  196      C8C0 F0E8 
  197 004c EA3E 1D4C 		.ascii	"\352>\035L"
  198               		.text
- 199               		.section	.gnu.lto_.refs.90e16da50cc7e5db,"",@progbits
+ 199               		.section	.gnu.lto_.refs.abdbe785812d202b,"",@progbits
  200 0000 789C 6363 		.string	"x\234cc``\020\004bff\006\026F\006V\026\006V\036F6\006Va\006"
  200      6060 1004 
  200      6266 6606 
@@ -812,7 +812,7 @@
  201 001b 03F0 00   		.string	"\003\360"
  202 001e 5C        		.ascii	"\\"
  203               		.text
- 204               		.section	.gnu.lto_.decls.90e16da50cc7e5db,"",@progbits
+ 204               		.section	.gnu.lto_.decls.abdbe785812d202b,"",@progbits
  205 0000 789C 9D58 		.string	"x\234\235XkPTG\026\276}{\0360\200\030q\023\26351)\313TQ[Y\306<*\211[\251\212\257<\314\032
  205      6B50 5447 
  205      16BE 7D7B 
@@ -1107,7 +1107,7 @@
  264 0bcb F27F 0BD4 		.ascii	"\362\177\013\324)\215"
  264      298D 
  265               		.text
- 266               		.section	.gnu.lto_.symtab.90e16da50cc7e5db,"",@progbits
+ 266               		.section	.gnu.lto_.symtab.abdbe785812d202b,"",@progbits
  267 0000 456E 6470 		.string	"Endpoint_ConfigureEndpoint_Prv"
  267      6F69 6E74 
  267      5F43 6F6E 
@@ -1256,11 +1256,11 @@
  377               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 Endpoint_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccc6cKRI.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccc6cKRI.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccc6cKRI.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccc6cKRI.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccc6cKRI.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctlrZqI.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctlrZqI.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctlrZqI.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctlrZqI.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cctlrZqI.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 
