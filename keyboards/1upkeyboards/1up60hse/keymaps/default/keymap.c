@@ -38,12 +38,13 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 
 // ——————————————————————————————————————————————————————————————————
       
-    // VIMESCAPE
-     case VIMESCAPE:
+    // AUTOSINGLEQUOTES
+     case AUTOSINGLEQUOTES:
       if (record->event.pressed) {
-	  SEND_STRING(";;");
+	  SEND_STRING("''");
       } 
       else {
+	  SEND_STRING(SS_TAP(X_LEFT));
       }
       break;
 
@@ -61,13 +62,12 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 
 // ——————————————————————————————————————————————————————————————————
       
-    // AUTOSINGLEQUOTES
-     case AUTOSINGLEQUOTES:
+    // VIMESCAPE
+     case VIMESCAPE:
       if (record->event.pressed) {
-	  SEND_STRING("''");
+	  SEND_STRING(";;");
       } 
       else {
-	  SEND_STRING(SS_TAP(X_LEFT));
       }
       break;
 
