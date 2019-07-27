@@ -53,7 +53,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     // AUTODOUBLEQUOTES
      case AUTODOUBLEQUOTES:
       if (record->event.pressed) {
-	  SEND_STRING("""");
+	  SEND_STRING("\"\"");
       } 
       else {
 	  SEND_STRING(SS_TAP(X_LEFT));
@@ -324,6 +324,10 @@ void matrix_scan_user(void) {
 // W
 // ————————————————————————————————————————
 
+    // wtf to what the fuck
+    SEQ_THREE_KEYS(KC_W, KC_T, KC_F) {
+	SEND_STRING("what the fuck");
+    }
 
 // X
 // ————————————————————————————————————————
