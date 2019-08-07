@@ -186,6 +186,13 @@ void matrix_scan_user(void) {
 	leading = false;
 	leader_end();
 
+// #
+// ————————————————————————————————————————
+     // superscript 1
+     SEQ_THREE_KEYS(KC_S, KC_P, KC_1) {
+	 SEND_STRING(); // TODO
+     }
+        
 // A
 // ————————————————————————————————————————
 
