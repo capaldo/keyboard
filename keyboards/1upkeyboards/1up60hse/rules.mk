@@ -76,3 +76,4 @@ LEADER_ENABLE = yes
 
 # enable unicode
 UNICODE_ENABLE = yes
+UNICODEMAP_ENABLE = yes
