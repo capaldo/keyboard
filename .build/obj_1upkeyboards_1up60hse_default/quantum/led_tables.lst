@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.bf3143f4ea49c9b4,"",@progbits
+   7               		.section	.gnu.lto_.profile.e1f0323a4d020c74,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\004b\006"
    8      6060 6004 
    8      6206 00
@@ -12,7 +12,7 @@
   10 000c 4400      		.string	"D"
   11 000e 08        		.ascii	"\b"
   12               		.text
-  13               		.section	.gnu.lto_.icf.bf3143f4ea49c9b4,"",@progbits
+  13               		.section	.gnu.lto_.icf.e1f0323a4d020c74,"",@progbits
   14 0000 789C 6363 		.string	"x\234cc``\340c@"
   14      6060 E063 
   14      4000 
@@ -22,7 +22,7 @@
   15      144E 0600 
   16 001a 2F69 0606 		.ascii	"/i\006\006"
   17               		.text
-  18               		.section	.gnu.lto_.inline.bf3143f4ea49c9b4,"",@progbits
+  18               		.section	.gnu.lto_.inline.e1f0323a4d020c74,"",@progbits
   19 0000 789C 6363 		.string	"x\234cc```b@\006"
   19      6060 6062 
   19      4006 00
@@ -30,7 +30,7 @@
   21 000c 9A00      		.string	"\232"
   22 000e 09        		.ascii	"\t"
   23               		.text
-  24               		.section	.gnu.lto_.pureconst.bf3143f4ea49c9b4,"",@progbits
+  24               		.section	.gnu.lto_.pureconst.e1f0323a4d020c74,"",@progbits
   25 0000 789C 6363 		.string	"x\234cc```\004b\006"
   25      6060 6004 
   25      6206 00
@@ -38,7 +38,7 @@
   27 000c 4400      		.string	"D"
   28 000e 08        		.ascii	"\b"
   29               		.text
-  30               		.section	.gnu.lto_LED_BREATHING_TABLE.bf3143f4ea49c9b4,"",@progbits
+  30               		.section	.gnu.lto_LED_BREATHING_TABLE.e1f0323a4d020c74,"",@progbits
   31 0000 789C 5558 		.string	"x\234UXWW\\\311\021\276\325H\332\274\353\260\353(\347\270N\353\335\265\327\353\374j\277\3
   31      5757 5CC9 
   31      11BE D548 
@@ -607,7 +607,7 @@
  146 0e89 07DA 738E 		.ascii	"\007\332s\216\204"
  146      84
  147               		.text
- 148               		.section	.gnu.lto_CIE1931_CURVE.bf3143f4ea49c9b4,"",@progbits
+ 148               		.section	.gnu.lto_CIE1931_CURVE.e1f0323a4d020c74,"",@progbits
  149 0000 789C 5598 		.ascii	"x\234U\230Ww\\\313q\205O\221\324\225n\224eKr\242-[\301\266\254"
  149      5777 5CCB 
  149      7185 4F91 
@@ -1280,7 +1280,7 @@
  285      7C61 FD3F 
  285      548F BD04 
  286               		.text
- 287               		.section	.gnu.lto_.symbol_nodes.bf3143f4ea49c9b4,"",@progbits
+ 287               		.section	.gnu.lto_.symbol_nodes.e1f0323a4d020c74,"",@progbits
  288 0000 789C 6363 		.string	"x\234cc``\020\002b\006V&\206F%\020\315\310\b\246\031"
  288      6060 1002 
  288      6206 5626 
@@ -1288,7 +1288,7 @@
  288      CDC8 08A6 
  289 0016 0F6B 016D 		.ascii	"\017k\001m"
  290               		.text
- 291               		.section	.gnu.lto_.refs.bf3143f4ea49c9b4,"",@progbits
+ 291               		.section	.gnu.lto_.refs.e1f0323a4d020c74,"",@progbits
  292 0000 789C 6363 		.string	"x\234cc```\004b\006"
  292      6060 6004 
  292      6206 00
@@ -1296,7 +1296,7 @@
  294 000c 4400      		.string	"D"
  295 000e 08        		.ascii	"\b"
  296               		.text
- 297               		.section	.gnu.lto_.decls.bf3143f4ea49c9b4,"",@progbits
+ 297               		.section	.gnu.lto_.decls.e1f0323a4d020c74,"",@progbits
  298 0000 789C 6363 		.string	"x\234cc``\310eb`X\f\244[\200\370?\0200\003\351\203\f\250"
  298      6060 C865 
  298      6260 580C 
@@ -1333,7 +1333,7 @@
  304      9EC6 8823 
  305 024f 41C1 F4EB 		.ascii	"A\301\364\353"
  306               		.text
- 307               		.section	.gnu.lto_.symtab.bf3143f4ea49c9b4,"",@progbits
+ 307               		.section	.gnu.lto_.symtab.e1f0323a4d020c74,"",@progbits
  308 0000 4C45 445F 		.string	"LED_BREATHING_TABLE"
  308      4252 4541 
  308      5448 494E 
@@ -1389,11 +1389,11 @@
  345               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 led_tables.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccXOFdpd.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccXOFdpd.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccXOFdpd.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccXOFdpd.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccXOFdpd.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciis7v3.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciis7v3.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciis7v3.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciis7v3.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cciis7v3.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

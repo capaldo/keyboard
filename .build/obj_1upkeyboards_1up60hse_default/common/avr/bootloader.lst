@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.230747b2b23fb4d2,"",@progbits
+   7               		.section	.gnu.lto_.profile.8e01728b26f3689c,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\001bF\006S\r"
    8      6060 6001 
    8      6246 0653 
@@ -12,7 +12,7 @@
    9 000e 010A 00   		.string	"\001\n"
   10 0011 69        		.ascii	"i"
   11               		.text
-  12               		.section	.gnu.lto_.icf.230747b2b23fb4d2,"",@progbits
+  12               		.section	.gnu.lto_.icf.8e01728b26f3689c,"",@progbits
   13 0000 789C 6363 		.string	"x\234cc``\020a@"
   13      6060 1061 
   13      4000 
@@ -24,7 +24,7 @@
   15 0020 00        		.string	""
   16 0021 6E2A 0A11 		.ascii	"n*\n\021"
   17               		.text
-  18               		.section	.gnu.lto_.jmpfuncs.230747b2b23fb4d2,"",@progbits
+  18               		.section	.gnu.lto_.jmpfuncs.8e01728b26f3689c,"",@progbits
   19 0000 789C 6363 		.string	"x\234cc``\320g@"
   19      6060 D067 
   19      4000 
@@ -35,7 +35,7 @@
   20      1918 1B3E 
   21 0031 222C 0AF6 		.ascii	"\",\n\366"
   22               		.text
-  23               		.section	.gnu.lto_.inline.230747b2b23fb4d2,"",@progbits
+  23               		.section	.gnu.lto_.inline.8e01728b26f3689c,"",@progbits
   24 0000 789C 6363 		.string	"x\234cc``0a@"
   24      6060 3061 
   24      4000 
@@ -46,14 +46,14 @@
   25      0606 4646 
   26 0034 8A0F 04E8 		.ascii	"\212\017\004\350"
   27               		.text
-  28               		.section	.gnu.lto_.pureconst.230747b2b23fb4d2,"",@progbits
+  28               		.section	.gnu.lto_.pureconst.8e01728b26f3689c,"",@progbits
   29 0000 789C 6363 		.ascii	"x\234cc```\007b&\206\255\214L\273\030\001\005\314\001\203"
   29      6060 6007 
   29      6226 86AD 
   29      8C4C BB18 
   29      0105 CC01 
   30               		.text
-  31               		.section	.gnu.lto_bootloader_jump.230747b2b23fb4d2,"",@progbits
+  31               		.section	.gnu.lto_bootloader_jump.8e01728b26f3689c,"",@progbits
   32 0000 789C 9594 		.string	"x\234\225\224_L[U\030\300\317w\317mK/P\324\0073\0230%\031\017K\220\342\237\004\023_4\306\
   32      5F4C 5B55 
   32      18C0 CF77 
@@ -186,7 +186,7 @@
   58      1FA1 BE52 
   58      F20F 29C5 
   59               		.text
-  60               		.section	.gnu.lto_bootloader_jump_after_watchdog_reset.230747b2b23fb4d2,"",@progbits
+  60               		.section	.gnu.lto_bootloader_jump_after_watchdog_reset.8e01728b26f3689c,"",@progbits
   61 0000 789C 8D94 		.string	"x\234\215\224_L[U\034\307\317\357\236{\373\347\322\202\017>\354\001\023n\264\017L\244\235
   61      5F4C 5B55 
   61      1CC7 CFEF 
@@ -333,7 +333,7 @@
   90      C8DF 5129 
   91 041b C9        		.ascii	"\311"
   92               		.text
-  93               		.section	.gnu.lto_.symbol_nodes.230747b2b23fb4d2,"",@progbits
+  93               		.section	.gnu.lto_.symbol_nodes.8e01728b26f3689c,"",@progbits
   94 0000 789C 6363 		.string	"x\234cc``\310\006b\006\246\347\f\365\f\f\023\3161\200\250]\r\212\f\f\254\317\030\030\032\
   94      6060 C806 
   94      6206 A6E7 
@@ -342,7 +342,7 @@
   95 0066 00        		.string	""
   96 0067 5547 1DED 		.ascii	"UG\035\355"
   97               		.text
-  98               		.section	.gnu.lto_.refs.230747b2b23fb4d2,"",@progbits
+  98               		.section	.gnu.lto_.refs.8e01728b26f3689c,"",@progbits
   99 0000 789C 6363 		.string	"x\234cc``\340\003bF\006FFn&&\006F\026FF6\006"
   99      6060 E003 
   99      6246 0646 
@@ -351,7 +351,7 @@
  100 0018 0278 00   		.string	"\002x"
  101 001b 34        		.ascii	"4"
  102               		.text
- 103               		.section	.gnu.lto_.decls.230747b2b23fb4d2,"",@progbits
+ 103               		.section	.gnu.lto_.decls.8e01728b26f3689c,"",@progbits
  104 0000 789C 9555 		.ascii	"x\234\225U]P\023W\024\336\263\033\bl\002X\307:\264\223\007`\332"
  104      5D50 1357 
  104      14DE B31B 
@@ -652,7 +652,7 @@
  164      01F2 1EA2 
  164      7C
  165               		.text
- 166               		.section	.gnu.lto_.symtab.230747b2b23fb4d2,"",@progbits
+ 166               		.section	.gnu.lto_.symtab.8e01728b26f3689c,"",@progbits
  167 0000 626F 6F74 		.string	"bootloader_jump"
  167      6C6F 6164 
  167      6572 5F6A 
@@ -725,11 +725,11 @@
  219               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 bootloader.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccmQHSe5.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccmQHSe5.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccmQHSe5.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccmQHSe5.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccmQHSe5.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccT6InKy.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccT6InKy.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccT6InKy.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccT6InKy.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccT6InKy.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

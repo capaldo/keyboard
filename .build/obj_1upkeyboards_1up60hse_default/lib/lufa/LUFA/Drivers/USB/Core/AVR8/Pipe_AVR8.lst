@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.d1f1e04406517eaf,"",@progbits
+   7               		.section	.gnu.lto_.profile.124dbaf31d1bce3b,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\004b\006"
    8      6060 6004 
    8      6206 00
@@ -12,7 +12,7 @@
   10 000c 4400      		.string	"D"
   11 000e 08        		.ascii	"\b"
   12               		.text
-  13               		.section	.gnu.lto_.icf.d1f1e04406517eaf,"",@progbits
+  13               		.section	.gnu.lto_.icf.124dbaf31d1bce3b,"",@progbits
   14 0000 789C 6363 		.string	"x\234cc```b@\006"
   14      6060 6062 
   14      4006 00
@@ -20,7 +20,7 @@
   16 000c 9A00      		.string	"\232"
   17 000e 09        		.ascii	"\t"
   18               		.text
-  19               		.section	.gnu.lto_.inline.d1f1e04406517eaf,"",@progbits
+  19               		.section	.gnu.lto_.inline.124dbaf31d1bce3b,"",@progbits
   20 0000 789C 6363 		.string	"x\234cc```b@\006"
   20      6060 6062 
   20      4006 00
@@ -28,7 +28,7 @@
   22 000c 9A00      		.string	"\232"
   23 000e 09        		.ascii	"\t"
   24               		.text
-  25               		.section	.gnu.lto_.pureconst.d1f1e04406517eaf,"",@progbits
+  25               		.section	.gnu.lto_.pureconst.124dbaf31d1bce3b,"",@progbits
   26 0000 789C 6363 		.string	"x\234cc```\004b\006"
   26      6060 6004 
   26      6206 00
@@ -36,7 +36,7 @@
   28 000c 4400      		.string	"D"
   29 000e 08        		.ascii	"\b"
   30               		.text
-  31               		.section	.gnu.lto_.symbol_nodes.d1f1e04406517eaf,"",@progbits
+  31               		.section	.gnu.lto_.symbol_nodes.124dbaf31d1bce3b,"",@progbits
   32 0000 789C 6363 		.string	"x\234cc```b"
   32      6060 6062 
   32      00
@@ -45,7 +45,7 @@
   35 000c 5200      		.string	"R"
   36 000e 09        		.ascii	"\t"
   37               		.text
-  38               		.section	.gnu.lto_.refs.d1f1e04406517eaf,"",@progbits
+  38               		.section	.gnu.lto_.refs.124dbaf31d1bce3b,"",@progbits
   39 0000 789C 6363 		.string	"x\234cc```\004b\006"
   39      6060 6004 
   39      6206 00
@@ -53,7 +53,7 @@
   41 000c 4400      		.string	"D"
   42 000e 08        		.ascii	"\b"
   43               		.text
-  44               		.section	.gnu.lto_.decls.d1f1e04406517eaf,"",@progbits
+  44               		.section	.gnu.lto_.decls.124dbaf31d1bce3b,"",@progbits
   45 0000 789C 6363 		.string	"x\234cc\200"
   45      8000 
   46 0006 4620 5601 		.string	"F V\001\342\377@"
@@ -63,7 +63,7 @@
   48 0013 00        		.string	""
   49 0014 BE7C 04EA 		.ascii	"\276|\004\352"
   50               		.text
-  51               		.section	.gnu.lto_.symtab.d1f1e04406517eaf,"",@progbits
+  51               		.section	.gnu.lto_.symtab.124dbaf31d1bce3b,"",@progbits
   52               		.text
   53               		.section	.gnu.lto_.opts,"",@progbits
   54 0000 272D 666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-m"
@@ -82,11 +82,11 @@
   59               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 Pipe_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc9pg4MV.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc9pg4MV.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc9pg4MV.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc9pg4MV.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc9pg4MV.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.aa8850216ca561cb,"",@progbits
+   7               		.section	.gnu.lto_.profile.143df43ae98cb385,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\005bF\206&F\027"
    8      6060 6005 
    8      6246 8626 
@@ -12,7 +12,7 @@
    9 000f 0259 00   		.string	"\002Y"
   10 0012 D4        		.ascii	"\324"
   11               		.text
-  12               		.section	.gnu.lto_.icf.aa8850216ca561cb,"",@progbits
+  12               		.section	.gnu.lto_.icf.143df43ae98cb385,"",@progbits
   13 0000 789C 6363 		.string	"x\234cc``P`@"
   13      6060 5060 
   13      4000 
@@ -23,7 +23,7 @@
   14      D6EF 295C 
   15 002d FE5A 0F2E 		.ascii	"\376Z\017."
   16               		.text
-  17               		.section	.gnu.lto_.jmpfuncs.aa8850216ca561cb,"",@progbits
+  17               		.section	.gnu.lto_.jmpfuncs.143df43ae98cb385,"",@progbits
   18 0000 789C 8D8F 		.string	"x\234\215\217\301\r\2000\f\003\355$\224'+\260\nc\365\305\"\f\303f\305\225\020\264}5\222\2
   18      C10D 8030 
   18      0C03 ED24 
@@ -31,7 +31,7 @@
   18      0A63 F5C5 
   19 0063 2A35 4284 		.ascii	"*5B\204"
   20               		.text
-  21               		.section	.gnu.lto_.inline.aa8850216ca561cb,"",@progbits
+  21               		.section	.gnu.lto_.inline.143df43ae98cb385,"",@progbits
   22 0000 789C 6363 		.string	"x\234cc``8\302\200"
   22      6060 38C2 
   22      8000 
@@ -42,7 +42,7 @@
   23      8DF7 442A 
   24 0092 A109 1FE6 		.ascii	"\241\t\037\346"
   25               		.text
-  26               		.section	.gnu.lto_.pureconst.aa8850216ca561cb,"",@progbits
+  26               		.section	.gnu.lto_.pureconst.143df43ae98cb385,"",@progbits
   27 0000 789C 6363 		.string	"x\234cc``\340\006bV\006)FK&)fI\026)"
   27      6060 E006 
   27      6256 0629 
@@ -51,7 +51,7 @@
   28 0015 04E9 00   		.string	"\004\351"
   29 0018 C1        		.ascii	"\301"
   30               		.text
-  31               		.section	.gnu.lto_USB_GetNextDescriptor.aa8850216ca561cb,"",@progbits
+  31               		.section	.gnu.lto_USB_GetNextDescriptor.143df43ae98cb385,"",@progbits
   32 0000 789C 7D52 		.ascii	"x\234}RMHTQ\024\276\347\335\367f\33683(.\302\205\013!Dt\321["
   32      4D48 5451 
   32      14BE E7DD 
@@ -170,7 +170,7 @@
   55      FC01 5B03 
   55      5AE4 
   56               		.text
-  57               		.section	.gnu.lto_USB_GetNextDescriptorOfType.aa8850216ca561cb,"",@progbits
+  57               		.section	.gnu.lto_USB_GetNextDescriptorOfType.143df43ae98cb385,"",@progbits
   58 0000 789C 6D92 		.ascii	"x\234m\222]H\024Q\024\307\317\177\356\314\354\270\037\346c\301"
   58      5D48 1451 
   58      14C7 CF7F 
@@ -236,7 +236,7 @@
   70      96C8 5F12 
   70      6705 4C
   71               		.text
-  72               		.section	.gnu.lto_USB_GetNextDescriptorOfTypeBefore.aa8850216ca561cb,"",@progbits
+  72               		.section	.gnu.lto_USB_GetNextDescriptorOfTypeBefore.143df43ae98cb385,"",@progbits
   73 0000 789C 6593 		.string	"x\234e\223MHTQ\024\307\357y\367}\315\227E\253\310Y\264\0237M`\270\r?he\033K\332\264)\033c
   73      4D48 5451 
   73      14C7 EF79 
@@ -259,7 +259,7 @@
   76      21DB 034B 
   77 02d9 DE1C 40C1 		.ascii	"\336\034@\301"
   78               		.text
-  79               		.section	.gnu.lto_USB_GetNextDescriptorOfTypeAfter.aa8850216ca561cb,"",@progbits
+  79               		.section	.gnu.lto_USB_GetNextDescriptorOfTypeAfter.143df43ae98cb385,"",@progbits
   80 0000 789C 7592 		.string	"x\234u\222MHTQ\024\307\317\377\2357o\236\246\330Rb\212v\"DS\030m\303\017Z\331\306\262M\25
   80      4D48 5451 
   80      14C7 CFFF 
@@ -331,7 +331,7 @@
   93      F70B 5179 
   93      EE28 
   94               		.text
-  95               		.section	.gnu.lto_USB_GetNextDescriptorComp.aa8850216ca561cb,"",@progbits
+  95               		.section	.gnu.lto_USB_GetNextDescriptorComp.143df43ae98cb385,"",@progbits
   96 0000 789C 6D54 		.string	"x\234mT]l\024U\024>g\316\314\316\354\316\226bECH#}i\032^\\M\023_\r\024}\302\304`\360\325\
   96      5D6C 1455 
   96      143E 67CE 
@@ -430,7 +430,7 @@
  115      99F4 0F15 
  115      F3BB 7F
  116               		.text
- 117               		.section	.gnu.lto_.symbol_nodes.aa8850216ca561cb,"",@progbits
+ 117               		.section	.gnu.lto_.symbol_nodes.143df43ae98cb385,"",@progbits
  118 0000 789C 6363 		.string	"x\234cc``\350\005b\006\246\353\f\365\f\f\023\3161\200\250\231\r\007\033\330\200b7\030\352
  118      6060 E805 
  118      6206 A6EB 
@@ -439,7 +439,7 @@
  119 0064 00        		.string	""
  120 0065 8982 261B 		.ascii	"\211\202&\033"
  121               		.text
- 122               		.section	.gnu.lto_.refs.aa8850216ca561cb,"",@progbits
+ 122               		.section	.gnu.lto_.refs.143df43ae98cb385,"",@progbits
  123 0000 789C 6363 		.string	"x\234cc```\004b\006"
  123      6060 6004 
  123      6206 00
@@ -447,7 +447,7 @@
  125 000c 4400      		.string	"D"
  126 000e 08        		.ascii	"\b"
  127               		.text
- 128               		.section	.gnu.lto_.decls.aa8850216ca561cb,"",@progbits
+ 128               		.section	.gnu.lto_.decls.143df43ae98cb385,"",@progbits
  129 0000 789C AD96 		.string	"x\234\255\226mLSW\030\307\357so)\245\0240\276ll\3532f\370\320d\033\305\271L\375\262\250\2
  129      6D4C 5357 
  129      18C7 EF73 
@@ -715,7 +715,7 @@
  182      4604 FC2F 
  182      19E1 C87E 
  183               		.text
- 184               		.section	.gnu.lto_.symtab.aa8850216ca561cb,"",@progbits
+ 184               		.section	.gnu.lto_.symtab.143df43ae98cb385,"",@progbits
  185 0000 5553 425F 		.string	"USB_GetNextDescriptorOfType"
  185      4765 744E 
  185      6578 7444 
@@ -810,11 +810,11 @@
  252               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 ConfigDescriptors.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc2Edz2s.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc2Edz2s.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc2Edz2s.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc2Edz2s.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc2Edz2s.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccb5aclh.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccb5aclh.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccb5aclh.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccb5aclh.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccb5aclh.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

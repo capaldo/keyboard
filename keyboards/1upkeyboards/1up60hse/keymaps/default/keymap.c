@@ -188,10 +188,6 @@ void matrix_scan_user(void) {
 
 // #
 // ————————————————————————————————————————
-     // superscript 1
-     SEQ_THREE_KEYS(KC_S, KC_P, KC_1) {
-	 SEND_STRING(); // TODO
-     }
         
 // A
 // ————————————————————————————————————————
@@ -320,6 +316,10 @@ void matrix_scan_user(void) {
 	SEND_STRING("through");
     }
 
+    // ty to thank you
+    SEQ_TWO_KEYS(KC_T, KC_Y) {
+	SEND_STRING("thank you");
+    }
 // U
 // ————————————————————————————————————————
 

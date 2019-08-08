@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.e7c7ecdcbdc33f68,"",@progbits
+   7               		.section	.gnu.lto_.profile.838a58cbd4a3b4aa,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\003bF\206V\256\363\354"
    8      6060 6003 
    8      6246 8656 
    8      AEF3 EC00 
    9 0010 047B 0173 		.ascii	"\004{\001s"
   10               		.text
-  11               		.section	.gnu.lto_.icf.e7c7ecdcbdc33f68,"",@progbits
+  11               		.section	.gnu.lto_.icf.838a58cbd4a3b4aa,"",@progbits
   12 0000 789C 6363 		.string	"x\234cc``he@"
   12      6060 6865 
   12      4000 
@@ -22,7 +22,7 @@
   13      7BBE 9187 
   14 0099 9D30 433D 		.ascii	"\2350C="
   15               		.text
-  16               		.section	.gnu.lto_.jmpfuncs.e7c7ecdcbdc33f68,"",@progbits
+  16               		.section	.gnu.lto_.jmpfuncs.838a58cbd4a3b4aa,"",@progbits
   17 0000 789C 9590 		.ascii	"x\234\225\220\201\016\2020\fD\357V\004A\023\025t|.?\302\307\370"
   17      810E 8230 
   17      0C44 EF56 
@@ -55,7 +55,7 @@
   22      0B2E 3764 
   23 0084 F0        		.ascii	"\360"
   24               		.text
-  25               		.section	.gnu.lto_.inline.e7c7ecdcbdc33f68,"",@progbits
+  25               		.section	.gnu.lto_.inline.838a58cbd4a3b4aa,"",@progbits
   26 0000 789C B594 		.string	"x\234\265\224\273N\033A\030\205\317?\273;^\262\226Xl\302-\b\020\227\340\212\213\350\t\017
   26      BB4E 1B41 
   26      1885 CF3F 
@@ -161,7 +161,7 @@
   46      60F0 0FC9 
   46      ACF2 26
   47               		.text
-  48               		.section	.gnu.lto_.pureconst.e7c7ecdcbdc33f68,"",@progbits
+  48               		.section	.gnu.lto_.pureconst.838a58cbd4a3b4aa,"",@progbits
   49 0000 789C 0DC3 		.ascii	"x\234\r\303\211\r\200 \020E\301\375\036\240h\242\034B\362\272"
   49      890D 8020 
   49      1045 C1FD 
@@ -176,7 +176,7 @@
   51      061F 8EAA 
   51      0607 
   52               		.text
-  53               		.section	.gnu.lto_Endpoint_Discard_Stream.e7c7ecdcbdc33f68,"",@progbits
+  53               		.section	.gnu.lto_Endpoint_Discard_Stream.838a58cbd4a3b4aa,"",@progbits
   54 0000 789C 8D55 		.string	"x\234\215UkLTW\020\236\271\347>v\357>x\205\210\2725&fCl\023\327\244M\333\230\366\207\212M
   54      6B4C 5457 
   54      109E B9E7 
@@ -331,7 +331,7 @@
   84      0AF8 174E 
   84      1ABB 4F
   85               		.text
-  86               		.section	.gnu.lto_Endpoint_Null_Stream.e7c7ecdcbdc33f68,"",@progbits
+  86               		.section	.gnu.lto_Endpoint_Null_Stream.838a58cbd4a3b4aa,"",@progbits
   87 0000 789C 8D55 		.string	"x\234\215UmL\325U\030\177\236\377\371\277\334\373\277/(\214D\300\215\3151f\037\274n\265r\
   87      6D4C D555 
   87      187F 9EFF 
@@ -449,7 +449,7 @@
  111      EF5F A2BD 
  111      B922 
  112               		.text
- 113               		.section	.gnu.lto_Endpoint_Write_Stream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 113               		.section	.gnu.lto_Endpoint_Write_Stream_LE.838a58cbd4a3b4aa,"",@progbits
  114 0000 789C 8D56 		.string	"x\234\215VkLTG\024\236s\347\336\273w\357>\264\212\002\001-\212\204\350\017hb\323\232\246\
  114      6B4C 5447 
  114      149E 73E7 
@@ -672,7 +672,7 @@
  158      F9FB 179B 
  158      A729 5F
  159               		.text
- 160               		.section	.gnu.lto_Endpoint_Write_Stream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 160               		.section	.gnu.lto_Endpoint_Write_Stream_BE.838a58cbd4a3b4aa,"",@progbits
  161 0000 789C 8D56 		.string	"x\234\215VkLTG\024\236s\347\336\335\275wwy\230*\b[\202\342\206\350\017hb\323\232\246\177|
  161      6B4C 5447 
  161      149E 73E7 
@@ -880,7 +880,7 @@
  202      652A D9FB 
  202      0F26 3F45 
  203               		.text
- 204               		.section	.gnu.lto_Endpoint_Read_Stream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 204               		.section	.gnu.lto_Endpoint_Read_Stream_LE.838a58cbd4a3b4aa,"",@progbits
  205 0000 789C 8D56 		.string	"x\234\215VkLTG\024\236s\347\276\366\356.\026\037\001\002*\212\033\242?\240\211M\3334\375\
  205      6B4C 5447 
  205      149E 73E7 
@@ -1058,7 +1058,7 @@
  241 05e5 5F92 BE0C 		.ascii	"_\222\276\f3"
  241      33
  242               		.text
- 243               		.section	.gnu.lto_Endpoint_Read_Stream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 243               		.section	.gnu.lto_Endpoint_Read_Stream_BE.838a58cbd4a3b4aa,"",@progbits
  244 0000 789C 8D56 		.string	"x\234\215VkLTW\020>s\317\275\273\367\336\335\345\221\240\020\330\022\024\021\365\0074\261
  244      6B4C 5457 
  244      103E 73CF 
@@ -1217,7 +1217,7 @@
  275      B455 EC3F 
  275      0DB6 26EE 
  276               		.text
- 277               		.section	.gnu.lto_Endpoint_Write_PStream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 277               		.section	.gnu.lto_Endpoint_Write_PStream_LE.838a58cbd4a3b4aa,"",@progbits
  278 0000 789C 8D56 		.string	"x\234\215ViLTW\024\276\347\335\367\336\314\274\231\301]\320L\025\304\211K\032\261\261\261
  278      694C 5457 
  278      14BE E7DD 
@@ -1424,7 +1424,7 @@
  320      0B3D 0982 
  320      E2
  321               		.text
- 322               		.section	.gnu.lto_Endpoint_Write_PStream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 322               		.section	.gnu.lto_Endpoint_Write_PStream_BE.838a58cbd4a3b4aa,"",@progbits
  323 0000 789C 8D56 		.ascii	"x\234\215ViLTW\024\276\347\335\367f\336\274Y\300D\213\313\020"
  323      694C 5457 
  323      14BE E7DD 
@@ -1719,7 +1719,7 @@
  382 0717 3F7F 439E 		.ascii	"?\177C\236\300"
  382      C0
  383               		.text
- 384               		.section	.gnu.lto_Endpoint_Write_EStream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 384               		.section	.gnu.lto_Endpoint_Write_EStream_LE.838a58cbd4a3b4aa,"",@progbits
  385 0000 789C 8D56 		.string	"x\234\215ViLUG\024\236s\347\336\373\336\273o\241U\024\b\240(\022\242?\240\211]L\323?nm\23
  385      694C 5547 
  385      149E 73E7 
@@ -1945,7 +1945,7 @@
  430 0619 92BF 7F01 		.ascii	"\222\277\177\0017\231\"\200"
  430      3799 2280 
  431               		.text
- 432               		.section	.gnu.lto_Endpoint_Write_EStream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 432               		.section	.gnu.lto_Endpoint_Write_EStream_BE.838a58cbd4a3b4aa,"",@progbits
  433 0000 789C 8D56 		.string	"x\234\215VkLTG\024\236s\347\336}\334\273\013b\252 l\t\006W\242?\240\211Mk\232\376\361\325
  433      6B4C 5447 
  433      149E 73E7 
@@ -2125,7 +2125,7 @@
  469 0647 F71F 0C26 		.ascii	"\367\037\f&>R"
  469      3E52 
  470               		.text
- 471               		.section	.gnu.lto_Endpoint_Read_EStream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 471               		.section	.gnu.lto_Endpoint_Read_EStream_LE.838a58cbd4a3b4aa,"",@progbits
  472 0000 789C 8D56 		.string	"x\234\215VkL\024W\024\276g\356\314\354\354\354.\212\217"
  472      6B4C 1457 
  472      14BE 67EE 
@@ -2381,7 +2381,7 @@
  523      B192 FD0B 
  523      A1AC 04EE 
  524               		.text
- 525               		.section	.gnu.lto_Endpoint_Read_EStream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 525               		.section	.gnu.lto_Endpoint_Read_EStream_BE.838a58cbd4a3b4aa,"",@progbits
  526 0000 789C 8D56 		.ascii	"x\234\215ViLTW\024\276\347\335\367f\336\274\231aIP(L\t.\270\375"
  526      694C 5457 
  526      14BE E7DD 
@@ -2514,7 +2514,7 @@
  553      F61F 36EC 
  553      1FA8 
  554               		.text
- 555               		.section	.gnu.lto_Endpoint_Write_Control_Stream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 555               		.section	.gnu.lto_Endpoint_Write_Control_Stream_LE.838a58cbd4a3b4aa,"",@progbits
  556 0000 789C 8D57 		.string	"x\234\215WkPUG\022\236>s\357\271\347\276y\277$\276\242A\215r}\256\251\224\265U>\222\252\3
  556      6B50 5547 
  556      129E 3E73 
@@ -2877,7 +2877,7 @@
  628      CC42 98FF 
  628      0397 E266 
  629               		.text
- 630               		.section	.gnu.lto_Endpoint_Write_Control_Stream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 630               		.section	.gnu.lto_Endpoint_Write_Control_Stream_BE.838a58cbd4a3b4aa,"",@progbits
  631 0000 789C 8D57 		.string	"x\234\215WkPTG\026\356s{\346\316\235'o\030\036I4\212\257\030\306\2671\246R\0255\251J\255\
  631      6B50 5447 
  631      16EE 737B 
@@ -3231,7 +3231,7 @@
  702 09a6 2C84 F93F 		.ascii	",\204\371?CK{\354"
  702      434B 7BEC 
  703               		.text
- 704               		.section	.gnu.lto_Endpoint_Read_Control_Stream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 704               		.section	.gnu.lto_Endpoint_Read_Control_Stream_LE.838a58cbd4a3b4aa,"",@progbits
  705 0000 789C 8D56 		.string	"x\234\215Vgl\024W\020~\263ow\257\355\335\331\347\002\030\3231\006\241\340D\251\212\242H\2
  705      676C 1457 
  705      107E B36F 
@@ -3573,7 +3573,7 @@
  773 072c EC3F 5221 		.ascii	"\354?R!\375\307"
  773      FDC7 
  774               		.text
- 775               		.section	.gnu.lto_Endpoint_Read_Control_Stream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 775               		.section	.gnu.lto_Endpoint_Read_Control_Stream_BE.838a58cbd4a3b4aa,"",@progbits
  776 0000 789C 8D56 		.string	"x\234\215Vip\024U\020~=ofv\366\316&\233\005\302r\t!\204*\210\226gY\226U\b\352\017)\255\00
  776      6970 1455 
  776      107E 3D6F 
@@ -3792,7 +3792,7 @@
  819      FE01 6E11 
  819      13DD 
  820               		.text
- 821               		.section	.gnu.lto_Endpoint_Write_Control_PStream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 821               		.section	.gnu.lto_Endpoint_Write_Control_PStream_LE.838a58cbd4a3b4aa,"",@progbits
  822 0000 789C 8D57 		.string	"x\234\215W{l\225U\022?s\316w\277\373\335w\337/\252\026\264\251(\266 \302\022\243\233(h\26
  822      7B6C 9555 
  822      123F 73CE 
@@ -4196,7 +4196,7 @@
  903      FF01 E955 
  903      BB09 
  904               		.text
- 905               		.section	.gnu.lto_Endpoint_Write_Control_PStream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 905               		.section	.gnu.lto_Endpoint_Write_Control_PStream_BE.838a58cbd4a3b4aa,"",@progbits
  906 0000 789C 8D57 		.ascii	"x\234\215WyP\225\327\025\277\347\273\357}\357{+\373N\0220\022"
  906      7950 95D7 
  906      15BF E7BB 
@@ -4580,7 +4580,7 @@
  982      1FEE CAD1 
  982      04
  983               		.text
- 984               		.section	.gnu.lto_Endpoint_Write_Control_EStream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 984               		.section	.gnu.lto_Endpoint_Write_Control_EStream_LE.838a58cbd4a3b4aa,"",@progbits
  985 0000 789C 8D57 		.string	"x\234\215WkPTG\026\356s{\346\316\235\367\360~Z\232(\242\245a|\233JY[\345#\251J\255\265\26
  985      6B50 5447 
  985      16EE 737B 
@@ -4915,7 +4915,7 @@
  1051      E65F 
  1052 097b A9        		.ascii	"\251"
  1053               		.text
- 1054               		.section	.gnu.lto_Endpoint_Write_Control_EStream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 1054               		.section	.gnu.lto_Endpoint_Write_Control_EStream_BE.838a58cbd4a3b4aa,"",@progbits
  1055 0000 789C 8D57 		.string	"x\234\215WkPTG\026\356s{\346\316\235'o\030\036jL\202h\3340\032\3371\225*\037I\325\326Z[[k
  1055      6B50 5447 
  1055      16EE 737B 
@@ -5341,7 +5341,7 @@
  1142 09a0 1F5B 9775 		.ascii	"\037[\227u\207"
  1142      87
  1143               		.text
- 1144               		.section	.gnu.lto_Endpoint_Read_Control_EStream_LE.e7c7ecdcbdc33f68,"",@progbits
+ 1144               		.section	.gnu.lto_Endpoint_Read_Control_EStream_LE.838a58cbd4a3b4aa,"",@progbits
  1145 0000 789C 8D56 		.ascii	"x\234\215ViLTW\024\276\347\3357o\266730l\212XWDc*m\272\246i\232"
  1145      694C 5457 
  1145      14BE E7DD 
@@ -5640,7 +5640,7 @@
  1204      60FF 01AD 
  1204      6CF6 E6
  1205               		.text
- 1206               		.section	.gnu.lto_Endpoint_Read_Control_EStream_BE.e7c7ecdcbdc33f68,"",@progbits
+ 1206               		.section	.gnu.lto_Endpoint_Read_Control_EStream_BE.838a58cbd4a3b4aa,"",@progbits
  1207 0000 789C 8D56 		.string	"x\234\215Vkl\024U\024\276g\356\314\354\354\273\333n\027(\013\242PJI\240\032\2371\306\004\
  1207      6B6C 1455 
  1207      14BE 67EE 
@@ -5890,7 +5890,7 @@
  1257      0F43 
  1258 074b AE0C FB   		.ascii	"\256\f\373"
  1259               		.text
- 1260               		.section	.gnu.lto_.symbol_nodes.e7c7ecdcbdc33f68,"",@progbits
+ 1260               		.section	.gnu.lto_.symbol_nodes.838a58cbd4a3b4aa,"",@progbits
  1261 0000 789C 55CF 		.string	"x\234U\3179N\303`\024\004\340\261\377\330\261\023v\2628\251\350Q\304\025\340\004\324\024\
  1261      394E C360 
  1261      1404 E0B1 
@@ -5954,7 +5954,7 @@
  1273 0129 1BB4 F00B 		.ascii	"\033\264\360\013\314\247\314\205"
  1273      CCA7 CC85 
  1274               		.text
- 1275               		.section	.gnu.lto_.refs.e7c7ecdcbdc33f68,"",@progbits
+ 1275               		.section	.gnu.lto_.refs.838a58cbd4a3b4aa,"",@progbits
  1276 0000 789C 4DCB 		.ascii	"x\234M\313\313\t\2000\024\005\321!\217\210Hr\375k\033\301\256"
  1276      CB09 8030 
  1276      1405 D121 
@@ -5975,7 +5975,7 @@
  1279      FA79 1EDC 
  1279      AF08 AB
  1280               		.text
- 1281               		.section	.gnu.lto_.decls.e7c7ecdcbdc33f68,"",@progbits
+ 1281               		.section	.gnu.lto_.decls.838a58cbd4a3b4aa,"",@progbits
  1282 0000 789C B598 		.string	"x\234\265\230{PT\327\031\300\357\271\007\\X\0260\304\032\3230m\352\230\031f\232J2i\243i\3
  1282      7B50 54D7 
  1282      19C0 EFB9 
@@ -6682,7 +6682,7 @@
  1425 0eb4 FF07 E2AD 		.ascii	"\377\007\342\255\377a"
  1425      FF61 
  1426               		.text
- 1427               		.section	.gnu.lto_.symtab.e7c7ecdcbdc33f68,"",@progbits
+ 1427               		.section	.gnu.lto_.symtab.838a58cbd4a3b4aa,"",@progbits
  1428 0000 456E 6470 		.string	"Endpoint_Discard_Stream"
  1428      6F69 6E74 
  1428      5F44 6973 
@@ -7202,11 +7202,11 @@
  1829               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 EndpointStream_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccufxM5m.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccufxM5m.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccufxM5m.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccufxM5m.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccufxM5m.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccY71Enn.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccY71Enn.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccY71Enn.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccY71Enn.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccY71Enn.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

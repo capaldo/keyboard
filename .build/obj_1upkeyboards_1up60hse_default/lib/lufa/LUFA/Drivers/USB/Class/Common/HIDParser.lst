@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.75bdcb192aa1644e,"",@progbits
+   7               		.section	.gnu.lto_.profile.29a6fc77e7a8f4d8,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\003bF\206\273L'\231"
    8      6060 6003 
    8      6246 86BB 
    8      4C27 9900 
    9 0010 05B2 01B8 		.ascii	"\005\262\001\270"
   10               		.text
-  11               		.section	.gnu.lto_.icf.75bdcb192aa1644e,"",@progbits
+  11               		.section	.gnu.lto_.icf.29a6fc77e7a8f4d8,"",@progbits
   12 0000 789C 6363 		.string	"x\234cc``\220d@"
   12      6060 9064 
   12      4000 
@@ -23,7 +23,7 @@
   14 0025 00        		.string	""
   15 0026 963D 0B29 		.ascii	"\226=\013)"
   16               		.text
-  17               		.section	.gnu.lto_.jmpfuncs.75bdcb192aa1644e,"",@progbits
+  17               		.section	.gnu.lto_.jmpfuncs.29a6fc77e7a8f4d8,"",@progbits
   18 0000 789C 7D51 		.string	"x\234}Q\253\016\302@\020\334\271-=P\374\300}A%\216OCQSCmC\020\365|"
   18      AB0E C240 
   18      10DC B92D 
@@ -70,7 +70,7 @@
   26      6741 4FA6 
   26      7162 09
   27               		.text
-  28               		.section	.gnu.lto_.inline.75bdcb192aa1644e,"",@progbits
+  28               		.section	.gnu.lto_.inline.29a6fc77e7a8f4d8,"",@progbits
   29 0000 789C A552 		.string	"x\234\245R\241N\003A\024\234y\273w]h\013\007\002uIKBH\r?@\020\375\202Z<\262\375\001\344\0
   29      A14E 0341 
   29      149C 79BB 
@@ -124,7 +124,7 @@
   39 0112 049F BB6D 		.ascii	"\004\237\273mO\201"
   39      4F81 
   40               		.text
-  41               		.section	.gnu.lto_.pureconst.75bdcb192aa1644e,"",@progbits
+  41               		.section	.gnu.lto_.pureconst.29a6fc77e7a8f4d8,"",@progbits
   42 0000 789C 6363 		.string	"x\234cc``\340\004b\026\006)F)&)f\006"
   42      6060 E004 
   42      6216 0629 
@@ -133,7 +133,7 @@
   43 0013 02AA 00   		.string	"\002\252"
   44 0016 68        		.ascii	"h"
   45               		.text
-  46               		.section	.gnu.lto_USB_ProcessHIDReport.75bdcb192aa1644e,"",@progbits
+  46               		.section	.gnu.lto_USB_ProcessHIDReport.29a6fc77e7a8f4d8,"",@progbits
   47 0000 789C A57B 		.ascii	"x\234\245{\007XU\307\266\377\236\275\317\201C\227\003\n**\306"
   47      0758 55C7 
   47      B6FF 9EBD 
@@ -1203,7 +1203,7 @@
  269 2072 5084 FE1F 		.ascii	"P\204\376\037o\351$\247"
  269      6FE9 24A7 
  270               		.text
- 271               		.section	.gnu.lto_USB_GetHIDReportItemInfo.75bdcb192aa1644e,"",@progbits
+ 271               		.section	.gnu.lto_USB_GetHIDReportItemInfo.29a6fc77e7a8f4d8,"",@progbits
  272 0000 789C 9D56 		.ascii	"x\234\235V\177LUU\034?\337{\356\275\357\276{\337\343\2015R|\261"
  272      7F4C 5555 
  272      1C3F DF7B 
@@ -1455,7 +1455,7 @@
  322      0203 05F6 
  322      CC
  323               		.text
- 324               		.section	.gnu.lto_USB_SetHIDReportItemInfo.75bdcb192aa1644e,"",@progbits
+ 324               		.section	.gnu.lto_USB_SetHIDReportItemInfo.29a6fc77e7a8f4d8,"",@progbits
  325 0000 789C 9556 		.string	"x\234\225V{L[U\030?\337=\367\325\333\322Bb\b\020\302\313\020\262hvM4\032\377\334 \306%31s
  325      7B4C 5B55 
  325      183F DF3D 
@@ -1602,7 +1602,7 @@
  354      F11F 57FA 
  354      C597 
  355               		.text
- 356               		.section	.gnu.lto_USB_GetHIDReportSize.75bdcb192aa1644e,"",@progbits
+ 356               		.section	.gnu.lto_USB_GetHIDReportSize.29a6fc77e7a8f4d8,"",@progbits
  357 0000 789C 8554 		.string	"x\234\205T]lTE\024\2363s\377\366\366v[\215\t\304l\204\3044\r>\2706\020\337\201\306\210\36
  357      5D6C 5445 
  357      149E 3373 
@@ -1760,7 +1760,7 @@
  389 0411 3526 FE04 		.ascii	"5&\376\004\f\203\344\r"
  389      0C83 E40D 
  390               		.text
- 391               		.section	.gnu.lto_.symbol_nodes.75bdcb192aa1644e,"",@progbits
+ 391               		.section	.gnu.lto_.symbol_nodes.29a6fc77e7a8f4d8,"",@progbits
  392 0000 789C 6363 		.string	"x\234cc``X\001\304\fL\002\365\f\f\023\31610"
  392      6060 5801 
  392      C40C 4C02 
@@ -1778,7 +1778,7 @@
  394      3333 B032 
  395 0068 AF58 2942 		.ascii	"\257X)B"
  396               		.text
- 397               		.section	.gnu.lto_.refs.75bdcb192aa1644e,"",@progbits
+ 397               		.section	.gnu.lto_.refs.29a6fc77e7a8f4d8,"",@progbits
  398 0000 789C 6363 		.string	"x\234cc```\004b\006"
  398      6060 6004 
  398      6206 00
@@ -1786,7 +1786,7 @@
  400 000c 4400      		.string	"D"
  401 000e 08        		.ascii	"\b"
  402               		.text
- 403               		.section	.gnu.lto_.decls.75bdcb192aa1644e,"",@progbits
+ 403               		.section	.gnu.lto_.decls.29a6fc77e7a8f4d8,"",@progbits
  404 0000 789C 9559 		.string	"x\234\225YyTTW\232\257\373n-P\024\340 \235\361L\350\211i=\221\330\0311IOk\322\246\323\321
  404      7954 5457 
  404      9AAF FB6E 
@@ -2272,7 +2272,7 @@
  507      A0FF 07D5 
  508 13b1 31C7 A3   		.ascii	"1\307\243"
  509               		.text
- 510               		.section	.gnu.lto_.symtab.75bdcb192aa1644e,"",@progbits
+ 510               		.section	.gnu.lto_.symtab.29a6fc77e7a8f4d8,"",@progbits
  511 0000 5553 425F 		.string	"USB_ProcessHIDReport"
  511      5072 6F63 
  511      6573 7348 
@@ -2381,11 +2381,11 @@
  588               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 HIDParser.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccMuS5lP.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccMuS5lP.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccMuS5lP.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccMuS5lP.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccMuS5lP.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccEDvIkg.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccEDvIkg.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccEDvIkg.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccEDvIkg.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccEDvIkg.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.93f26d109d703fbb,"",@progbits
+   7               		.section	.gnu.lto_.profile.3af09337ca1f4510,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\003bF\206f\346\205\214"
    8      6060 6003 
    8      6246 8666 
    8      E685 8C00 
    9 0010 03FC 0136 		.ascii	"\003\374\0016"
   10               		.text
-  11               		.section	.gnu.lto_.icf.93f26d109d703fbb,"",@progbits
+  11               		.section	.gnu.lto_.icf.3af09337ca1f4510,"",@progbits
   12 0000 789C 6363 		.string	"x\234cc``\310`@"
   12      6060 C860 
   12      4000 
@@ -22,7 +22,7 @@
   13      5D07 9EF3 
   14 007a 70A7 32BF 		.ascii	"p\2472\277"
   15               		.text
-  16               		.section	.gnu.lto_.jmpfuncs.93f26d109d703fbb,"",@progbits
+  16               		.section	.gnu.lto_.jmpfuncs.3af09337ca1f4510,"",@progbits
   17 0000 789C 95D2 		.string	"x\234\225\322\273\n\3020\024\006\340\363'\266\242\242\350\346 \270\213K\237\260.N\256\342
   17      BB0A C230 
   17      1406 E0F3 
@@ -69,7 +69,7 @@
   25      869F 8C8D 
   25      B5E3 
   26               		.text
-  27               		.section	.gnu.lto_.inline.93f26d109d703fbb,"",@progbits
+  27               		.section	.gnu.lto_.inline.3af09337ca1f4510,"",@progbits
   28 0000 789C 6363 		.string	"x\234cc``\350ed\200\003.\006\0061CF\006&\211\003k\030\031\330\026\3103\201\004\231\270\03
   28      6060 E865 
   28      6480 032E 
@@ -88,7 +88,7 @@
   32 00c5 00        		.string	""
   33 00c6 B2F2 303F 		.ascii	"\262\3620?"
   34               		.text
-  35               		.section	.gnu.lto_.pureconst.93f26d109d703fbb,"",@progbits
+  35               		.section	.gnu.lto_.pureconst.3af09337ca1f4510,"",@progbits
   36 0000 789C 6363 		.string	"x\234cc``\020\005b.\006\t&\tV\tv\tN\tn\t^\026>\t\001\tA\026"
   36      6060 1005 
   36      622E 0609 
@@ -96,7 +96,7 @@
   36      7609 4E09 
   37 001f 0F38 014C 		.ascii	"\0178\001L"
   38               		.text
-  39               		.section	.gnu.lto_backlight_init.93f26d109d703fbb,"",@progbits
+  39               		.section	.gnu.lto_backlight_init.3af09337ca1f4510,"",@progbits
   40 0000 789C 8D94 		.ascii	"x\234\215\224\333KTQ\024\306\327\267\367\271y\231\222|I\030B"
   40      DB4B 5451 
   40      14C6 D7B7 
@@ -183,7 +183,7 @@
   56      FD21 FA0B 
   57 02c5 965C      		.ascii	"\226\\"
   58               		.text
-  59               		.section	.gnu.lto_backlight_increase.93f26d109d703fbb,"",@progbits
+  59               		.section	.gnu.lto_backlight_increase.3af09337ca1f4510,"",@progbits
   60 0000 789C 8D94 		.ascii	"x\234\215\224\313O\023Q\024\306\3577wf:m\001\361\225hl\f;\203"
   60      CB4F 1351 
   60      14C6 EF37 
@@ -317,7 +317,7 @@
   86      65EC F6
   87 0327 09        		.ascii	"\t"
   88               		.text
-  89               		.section	.gnu.lto___c.1783.93f26d109d703fbb,"",@progbits
+  89               		.section	.gnu.lto___c.1783.3af09337ca1f4510,"",@progbits
   90 0000 789C 6363 		.string	"x\234cc``\020\003b)\006\b\230\302\314\330\367\371\324!~E\246\371\r3\024\3460300nfTd\220HJ
   90      6060 1003 
   90      6229 0608 
@@ -326,7 +326,7 @@
   91 003e 00        		.string	""
   92 003f 9A0C 0F83 		.ascii	"\232\f\017\203"
   93               		.text
-  94               		.section	.gnu.lto_backlight_decrease.93f26d109d703fbb,"",@progbits
+  94               		.section	.gnu.lto_backlight_decrease.3af09337ca1f4510,"",@progbits
   95 0000 789C 8D55 		.string	"x\234\215U[oTU\024\336\337\336\3476\323\231\341\232@\223\t\364\025\037\034\232\370\350\23
   95      5B6F 5455 
   95      14DE DFDE 
@@ -444,7 +444,7 @@
  117      6B32 2C20 
  118 0385 C41F 5E86 		.ascii	"\304\037^\206"
  119               		.text
- 120               		.section	.gnu.lto___c.1788.93f26d109d703fbb,"",@progbits
+ 120               		.section	.gnu.lto___c.1788.3af09337ca1f4510,"",@progbits
  121 0000 789C 6363 		.string	"x\234cc``\020\003b)\006\b\230\302\314\370\343\320\232\331\254\212L\363\033f(\314af``\334\
  121      6060 1003 
  121      6229 0608 
@@ -453,7 +453,7 @@
  122 003e 00        		.string	""
  123 003f 967D 0F5F 		.ascii	"\226}\017_"
  124               		.text
- 125               		.section	.gnu.lto_backlight_enable.93f26d109d703fbb,"",@progbits
+ 125               		.section	.gnu.lto_backlight_enable.3af09337ca1f4510,"",@progbits
  126 0000 789C 8D54 		.string	"x\234\215T[OSA\020\336\331=7ZZ\020_\024\033C\342\023\304X\210\376\003\177\210\321\306[\02
  126      5B4F 5341 
  126      10DE D93D 
@@ -565,7 +565,7 @@
  147      FCE8 B1AA 
  147      3D1E F617 
  148               		.text
- 149               		.section	.gnu.lto_backlight_disable.93f26d109d703fbb,"",@progbits
+ 149               		.section	.gnu.lto_backlight_disable.3af09337ca1f4510,"",@progbits
  150 0000 789C 8D94 		.string	"x\234\215\224\337K\024Q\024\307\317\367\336\231\331q\325\325z*\230\302W#Z\027z\355\251\34
  150      DF4B 1451 
  150      14C7 CFF7 
@@ -625,7 +625,7 @@
  161      C5E9 2F01 
  161      8A66 C4
  162               		.text
- 163               		.section	.gnu.lto_backlight_toggle.93f26d109d703fbb,"",@progbits
+ 163               		.section	.gnu.lto_backlight_toggle.3af09337ca1f4510,"",@progbits
  164 0000 789C 6D53 		.string	"x\234mSkK\024Q\030>\3179sku7\353S\302R\202\030\350\207V\251\177\320\217\350c\350&\025\336
  164      6B4B 1451 
  164      183E CF39 
@@ -693,7 +693,7 @@
  177      BAF2 C82F 
  177      03E3 459D 
  178               		.text
- 179               		.section	.gnu.lto_is_backlight_enabled.93f26d109d703fbb,"",@progbits
+ 179               		.section	.gnu.lto_is_backlight_enabled.3af09337ca1f4510,"",@progbits
  180 0000 789C 3D4E 		.ascii	"x\234=N\317+\004Q\034\377~\336cf.F9)\023{\335\213Q\376 1\t\255"
  180      CF2B 0451 
  180      1CFF 7EDE 
@@ -762,7 +762,7 @@
  193 011f 8C7A F40B 		.ascii	"\214z\364\013\001Dc["
  193      0144 635B 
  194               		.text
- 195               		.section	.gnu.lto_backlight_step.93f26d109d703fbb,"",@progbits
+ 195               		.section	.gnu.lto_backlight_step.3af09337ca1f4510,"",@progbits
  196 0000 789C 8D95 		.ascii	"x\234\215\225\311o\023I\024\306\353\353\352-\266\263\020\020"
  196      C96F 1349 
  196      14C6 EBEB 
@@ -924,7 +924,7 @@
  228 0383 9F01 569D 		.ascii	"\237\001V\235_?"
  228      5F3F 
  229               		.text
- 230               		.section	.gnu.lto_backlight_level.93f26d109d703fbb,"",@progbits
+ 230               		.section	.gnu.lto_backlight_level.3af09337ca1f4510,"",@progbits
  231 0000 789C 8D53 		.ascii	"x\234\215S]K\024Q\030>\317\234\231\235\321\374\200 \350bA\241"
  231      5D4B 1451 
  231      183E CF9C 
@@ -978,7 +978,7 @@
  241      B9F5 279B 
  242 02ad EF7B 4C   		.ascii	"\357{L"
  243               		.text
- 244               		.section	.gnu.lto_get_backlight_level.93f26d109d703fbb,"",@progbits
+ 244               		.section	.gnu.lto_get_backlight_level.3af09337ca1f4510,"",@progbits
  245 0000 789C 3D8E 		.string	"x\234=\2161K\003A\020\205\347\355\306\344@\214\235\215\207\244\r\210'\370\203D\017Q\2111 
  245      314B 0341 
  245      1085 E7ED 
@@ -1037,7 +1037,7 @@
  256 012f 5CFA 011B 		.ascii	"\\\372\001\033\210h\267"
  256      8868 B7
  257               		.text
- 258               		.section	.gnu.lto_.symbol_nodes.93f26d109d703fbb,"",@progbits
+ 258               		.section	.gnu.lto_.symbol_nodes.3af09337ca1f4510,"",@progbits
  259 0000 789C 5590 		.string	"x\234U\220AN\3030\020E\177<u\0347mZ\3226\351\016\304\272\342\fp\262\tR\224He\303\031PN\30
  259      414E C330 
  259      1045 7F3C 
@@ -1075,7 +1075,7 @@
  265      75F8 05CF 
  266 0112 7729      		.ascii	"w)"
  267               		.text
- 268               		.section	.gnu.lto_.refs.93f26d109d703fbb,"",@progbits
+ 268               		.section	.gnu.lto_.refs.3af09337ca1f4510,"",@progbits
  269 0000 789C 558E 		.ascii	"x\234U\216I\016\003A\b\003]0\275\316>\371\377S\362\267\320i\345"
  269      490E 0341 
  269      0803 5D30 
@@ -1107,7 +1107,7 @@
  274      1E0B 3E94 
  274      2B03 A9
  275               		.text
- 276               		.section	.gnu.lto_.decls.93f26d109d703fbb,"",@progbits
+ 276               		.section	.gnu.lto_.decls.3af09337ca1f4510,"",@progbits
  277 0000 789C A558 		.string	"x\234\245X{PT\327\031\277g\317.\254\273<\024\211!\tM45S\246\235\21216j\246m\222\2463\375/
  277      7B50 54D7 
  277      19BF 67CF 
@@ -1683,7 +1683,7 @@
  394      BF24 C92C 
  394      1E
  395               		.text
- 396               		.section	.gnu.lto_.symtab.93f26d109d703fbb,"",@progbits
+ 396               		.section	.gnu.lto_.symtab.3af09337ca1f4510,"",@progbits
  397 0000 6261 636B 		.string	"backlight_init"
  397      6C69 6768 
  397      745F 696E 
@@ -2033,11 +2033,11 @@
  671               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 backlight.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccKjcGCm.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccKjcGCm.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccKjcGCm.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccKjcGCm.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccKjcGCm.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cckJxYkP.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cckJxYkP.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cckJxYkP.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cckJxYkP.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cckJxYkP.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

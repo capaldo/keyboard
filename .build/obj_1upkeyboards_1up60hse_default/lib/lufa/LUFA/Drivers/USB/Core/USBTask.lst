@@ -4,7 +4,7 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.13841deb15600de2,"",@progbits
+   7               		.section	.gnu.lto_.profile.4a38908647b18199,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\001bF\006MQ"
    8      6060 6001 
    8      6246 064D 
@@ -13,7 +13,7 @@
   10 000f DF00      		.string	"\337"
   11 0011 4A        		.ascii	"J"
   12               		.text
-  13               		.section	.gnu.lto_.icf.13841deb15600de2,"",@progbits
+  13               		.section	.gnu.lto_.icf.4a38908647b18199,"",@progbits
   14 0000 789C 6363 		.string	"x\234cc``\020a@"
   14      6060 1061 
   14      4000 
@@ -24,7 +24,7 @@
   15      DFF7 CF79 
   16 0020 6171 0993 		.ascii	"aq\t\223"
   17               		.text
-  18               		.section	.gnu.lto_.jmpfuncs.13841deb15600de2,"",@progbits
+  18               		.section	.gnu.lto_.jmpfuncs.4a38908647b18199,"",@progbits
   19 0000 789C 6363 		.string	"x\234cc``\340b@"
   19      6060 E062 
   19      4000 
@@ -32,7 +32,7 @@
   21 000e 01B0 00   		.string	"\001\260"
   22 0011 15        		.ascii	"\025"
   23               		.text
-  24               		.section	.gnu.lto_.inline.13841deb15600de2,"",@progbits
+  24               		.section	.gnu.lto_.inline.4a38908647b18199,"",@progbits
   25 0000 789C 6363 		.string	"x\234cc``0b@"
   25      6060 3062 
   25      4000 
@@ -43,7 +43,7 @@
   26      9940 828C 
   27 002a 7239 0362 		.ascii	"r9\003b"
   28               		.text
-  29               		.section	.gnu.lto_.pureconst.13841deb15600de2,"",@progbits
+  29               		.section	.gnu.lto_.pureconst.4a38908647b18199,"",@progbits
   30 0000 789C 6363 		.string	"x\234cc```\005b&\006)&\t"
   30      6060 6005 
   30      6226 0629 
@@ -52,7 +52,7 @@
   32 0010 FC00      		.string	"\374"
   33 0012 42        		.ascii	"B"
   34               		.text
-  35               		.section	.gnu.lto_USB_DeviceTask.13841deb15600de2,"",@progbits
+  35               		.section	.gnu.lto_USB_DeviceTask.4a38908647b18199,"",@progbits
   36 0000 789C 9554 		.ascii	"x\234\225T]L\\U\020>\337=\367\217e\227m\223\032\377\366\241\211"
   36      5D4C 5C55 
   36      103E DF3D 
@@ -182,7 +182,7 @@
   62      BA3A 5253 
   63 03f2 618E 141A 		.ascii	"a\216\024\032"
   64               		.text
-  65               		.section	.gnu.lto_USB_USBTask.13841deb15600de2,"",@progbits
+  65               		.section	.gnu.lto_USB_USBTask.4a38908647b18199,"",@progbits
   66 0000 789C 6363 		.string	"x\234cc``X\016\304\332@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\214
   66      6060 580E 
   66      C4DA 402C 
@@ -206,7 +206,7 @@
   70 00de 00        		.string	""
   71 00df DE4C 46F6 		.ascii	"\336LF\366"
   72               		.text
-  73               		.section	.gnu.lto_.symbol_nodes.13841deb15600de2,"",@progbits
+  73               		.section	.gnu.lto_.symbol_nodes.4a38908647b18199,"",@progbits
   74 0000 789C 35CA 		.ascii	"x\2345\312\273\r\2000\020\004\321\361Yv!T\002\275\320\207\017"
   74      BB0D 8030 
   74      1004 D1F1 
@@ -231,7 +231,7 @@
   78      17DA C117 
   78      E7
   79               		.text
-  80               		.section	.gnu.lto_.refs.13841deb15600de2,"",@progbits
+  80               		.section	.gnu.lto_.refs.4a38908647b18199,"",@progbits
   81 0000 789C 6363 		.string	"x\234cc```\003bF bd"
   81      6060 6003 
   81      6246 2062 
@@ -241,7 +241,7 @@
   84 0010 A900      		.string	"\251"
   85 0012 10        		.ascii	"\020"
   86               		.text
-  87               		.section	.gnu.lto_.decls.13841deb15600de2,"",@progbits
+  87               		.section	.gnu.lto_.decls.4a38908647b18199,"",@progbits
   88 0000 789C 8D56 		.string	"x\234\215V{P\224U\024\377\316w\227eY^\246N1\0235\214C34c\254MNj\217\311\302\036\316X\343\
   88      7B50 9455 
   88      14FF CE77 
@@ -550,7 +550,7 @@
  149      616D FF01 
  149      D996 EEA2 
  150               		.text
- 151               		.section	.gnu.lto_.symtab.13841deb15600de2,"",@progbits
+ 151               		.section	.gnu.lto_.symtab.4a38908647b18199,"",@progbits
  152 0000 5553 425F 		.string	"USB_DeviceState"
  152      4465 7669 
  152      6365 5374 
@@ -658,11 +658,11 @@
  231               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 USBTask.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrbZqe.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrbZqe.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrbZqe.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrbZqe.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccTrbZqe.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccz9RhYH.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccz9RhYH.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccz9RhYH.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccz9RhYH.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccz9RhYH.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

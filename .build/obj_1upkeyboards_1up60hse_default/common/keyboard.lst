@@ -4,14 +4,14 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.2b3bb9fb797ac04e,"",@progbits
+   7               		.section	.gnu.lto_.profile.fa363f8c92988ce6,"",@progbits
    8 0000 789C 6363 		.string	"x\234cc```\005bF\206\227Le"
    8      6060 6005 
    8      6246 8697 
    8      4C65 00
    9 000f 03C2 016E 		.ascii	"\003\302\001n"
   10               		.text
-  11               		.section	.gnu.lto_.icf.2b3bb9fb797ac04e,"",@progbits
+  11               		.section	.gnu.lto_.icf.fa363f8c92988ce6,"",@progbits
   12 0000 789C 6363 		.string	"x\234cc``Hb@"
   12      6060 4862 
   12      4000 
@@ -23,7 +23,7 @@
   14 0068 00        		.string	""
   15 0069 439D 2FED 		.ascii	"C\235/\355"
   16               		.text
-  17               		.section	.gnu.lto_.jmpfuncs.2b3bb9fb797ac04e,"",@progbits
+  17               		.section	.gnu.lto_.jmpfuncs.fa363f8c92988ce6,"",@progbits
   18 0000 789C 8591 		.ascii	"x\234\205\221;\n\302@\020\206\347\337\211ID\024K\213\234\300"
   18      3B0A C240 
   18      1086 E7DF 
@@ -74,7 +74,7 @@
   27      C0CE AAEF 
   27      217B 65DA 
   28               		.text
-  29               		.section	.gnu.lto_.inline.2b3bb9fb797ac04e,"",@progbits
+  29               		.section	.gnu.lto_.inline.fa363f8c92988ce6,"",@progbits
   30 0000 789C 6363 		.string	"x\234cc``Hed\200\003n\006\006N\016F\006&\236\007\261\fl\013\344\231@b\214\f\314L@! \013&\
   30      6060 4865 
   30      6480 036E 
@@ -94,7 +94,7 @@
   34 008d 483F 00   		.string	"H?"
   35 0090 A45A 16B8 		.ascii	"\244Z\026\270"
   36               		.text
-  37               		.section	.gnu.lto_.pureconst.2b3bb9fb797ac04e,"",@progbits
+  37               		.section	.gnu.lto_.pureconst.fa363f8c92988ce6,"",@progbits
   38 0000 789C 6363 		.string	"x\234cc``\020\007bn\006)F\t&\tf\t\026\tV\t6\tv\t\016\tN\t>\t"
   38      6060 1007 
   38      626E 0629 
@@ -102,7 +102,7 @@
   38      6609 1609 
   39 0021 1185 016E 		.ascii	"\021\205\001n"
   40               		.text
-  41               		.section	.gnu.lto_disable_jtag.2b3bb9fb797ac04e,"",@progbits
+  41               		.section	.gnu.lto_disable_jtag.fa363f8c92988ce6,"",@progbits
   42 0000 789C 9591 		.string	"x\234\225\221\273JCA\020\206\347\3379\306\020H/\030\3016\215y\017[\037@4\246\212\361@\260
   42      BB4A 4341 
   42      1086 E7DF 
@@ -130,7 +130,7 @@
   47 013d 3217 A75F 		.ascii	"2\027\247_\345\021\224\201"
   47      E511 9481 
   48               		.text
-  49               		.section	.gnu.lto_matrix_setup.2b3bb9fb797ac04e,"",@progbits
+  49               		.section	.gnu.lto_matrix_setup.fa363f8c92988ce6,"",@progbits
   50 0000 789C 6363 		.string	"x\234cc``\250\003bY \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\206
   50      6060 A803 
   50      6259 2096 
@@ -143,7 +143,7 @@
   51      4180 7133 
   52 00ae A827 3574 		.ascii	"\250'5t"
   53               		.text
-  54               		.section	.gnu.lto_keyboard_pre_init_user.2b3bb9fb797ac04e,"",@progbits
+  54               		.section	.gnu.lto_keyboard_pre_init_user.fa363f8c92988ce6,"",@progbits
   55 0000 789C 6363 		.string	"x\234cc``\250\001bY \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\206
   55      6060 A801 
   55      6259 2096 
@@ -156,7 +156,7 @@
   56      4180 7133 
   57 00ab 033B 3406 		.ascii	"\003;4\006"
   58               		.text
-  59               		.section	.gnu.lto_keyboard_pre_init_kb.2b3bb9fb797ac04e,"",@progbits
+  59               		.section	.gnu.lto_keyboard_pre_init_kb.fa363f8c92988ce6,"",@progbits
   60 0000 789C 6363 		.string	"x\234cc``X\005\304\262@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\214
   60      6060 5805 
   60      C4B2 402C 
@@ -179,7 +179,7 @@
   63      393F 3737 
   64 00d4 9310 43DD 		.ascii	"\223\020C\335"
   65               		.text
-  66               		.section	.gnu.lto_keyboard_post_init_user.2b3bb9fb797ac04e,"",@progbits
+  66               		.section	.gnu.lto_keyboard_post_init_user.fa363f8c92988ce6,"",@progbits
   67 0000 789C 6363 		.string	"x\234cc``\250\001bY \226\006bFf\006F\246\t\347\030\030\0329\230\030\031A\214\006\016F\206
   67      6060 A801 
   67      6259 2096 
@@ -192,7 +192,7 @@
   68      4180 7133 
   69 00ab DBC8 33B1 		.ascii	"\333\3103\261"
   70               		.text
-  71               		.section	.gnu.lto_keyboard_post_init_kb.2b3bb9fb797ac04e,"",@progbits
+  71               		.section	.gnu.lto_keyboard_post_init_kb.fa363f8c92988ce6,"",@progbits
   72 0000 789C 6363 		.string	"x\234cc``X\005\304\262@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\214
   72      6060 5805 
   72      C4B2 402C 
@@ -210,7 +210,7 @@
   74      6DF6 FABF 
   75 00d5 EBCF 447F 		.ascii	"\353\317D\177"
   76               		.text
-  77               		.section	.gnu.lto_keyboard_setup.2b3bb9fb797ac04e,"",@progbits
+  77               		.section	.gnu.lto_keyboard_setup.fa363f8c92988ce6,"",@progbits
   78 0000 789C 6363 		.string	"x\234cc``\370\005\304\262@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
   78      6060 F805 
   78      C4B2 402C 
@@ -233,7 +233,7 @@
   81      E4FC DCDC 
   82 00ed EDEA 5F32 		.ascii	"\355\352_2"
   83               		.text
-  84               		.section	.gnu.lto_is_keyboard_master.2b3bb9fb797ac04e,"",@progbits
+  84               		.section	.gnu.lto_is_keyboard_master.fa363f8c92988ce6,"",@progbits
   85 0000 789C 6363 		.string	"x\234cc``\230\016\304\262@,\r\304\214\314\f\214L\023\316104r012\202\030\r\034\214\f\365L\
   85      6060 980E 
   85      C4B2 402C 
@@ -242,7 +242,7 @@
   86 00ca 00        		.string	""
   87 00cb 3E88 3D41 		.ascii	">\210=A"
   88               		.text
-  89               		.section	.gnu.lto_keyboard_init.2b3bb9fb797ac04e,"",@progbits
+  89               		.section	.gnu.lto_keyboard_init.fa363f8c92988ce6,"",@progbits
   90 0000 789C 6363 		.string	"x\234cc``(bd`\220\005\322\322@\314\310\314\300\3104\341\034\003C#\007\023##\210\321\300\3
   90      6060 2862 
   90      6460 9005 
@@ -255,7 +255,7 @@
   91      A01D 0CEB 
   92 010e CC11 83EB 		.ascii	"\314\021\203\353"
   93               		.text
-  94               		.section	.gnu.lto_keyboard_set_leds.2b3bb9fb797ac04e,"",@progbits
+  94               		.section	.gnu.lto_keyboard_set_leds.fa363f8c92988ce6,"",@progbits
   95 0000 789C 8D94 		.ascii	"x\234\215\224[O\023A\030\206\347\335\331S9\024D\215\032\033C"
   95      5B4F 1341 
   95      1886 E7DD 
@@ -375,7 +375,7 @@
  118      BF56 03F2 
  118      A1
  119               		.text
- 120               		.section	.gnu.lto_keyboard_task.2b3bb9fb797ac04e,"",@progbits
+ 120               		.section	.gnu.lto_keyboard_task.fa363f8c92988ce6,"",@progbits
  121 0000 789C 8D57 		.string	"x\234\215W\351OTW\024\277\347\335y\363\336\354\003\n2\210\226\017\216\325F\035H\233tK\372
  121      E94F 5457 
  121      14BF E7DD 
@@ -634,7 +634,7 @@
  172      90F7 1FA5 
  172      F70D A1
  173               		.text
- 174               		.section	.gnu.lto_.symbol_nodes.2b3bb9fb797ac04e,"",@progbits
+ 174               		.section	.gnu.lto_.symbol_nodes.fa363f8c92988ce6,"",@progbits
  175 0000 789C 558E 		.string	"x\234U\216\271N\303@\024E\257\347y\034;\313dq\022\333\331\311\227\300\227=\013Y\024T\210\
  175      B94E C340 
  175      1445 AFE7 
@@ -700,7 +700,7 @@
  187      89B0 B7C4 
  187      2F4B 099F 
  188               		.text
- 189               		.section	.gnu.lto_.refs.2b3bb9fb797ac04e,"",@progbits
+ 189               		.section	.gnu.lto_.refs.fa363f8c92988ce6,"",@progbits
  190 0000 789C 6363 		.string	"x\234cc``\320\004b6N\006.F&n6\006.v&\036n\006.\036&^~6>\006~\2400/\003\277\n#\277\032\203
  190      6060 D004 
  190      6236 4E06 
@@ -708,7 +708,7 @@
  190      3606 2E76 
  191 0032 2394 01FF 		.ascii	"#\224\001\377"
  192               		.text
- 193               		.section	.gnu.lto_.decls.2b3bb9fb797ac04e,"",@progbits
+ 193               		.section	.gnu.lto_.decls.fa363f8c92988ce6,"",@progbits
  194 0000 789C 8D58 		.string	"x\234\215X\tT\224Yv\256\367\277*\226b3\302\264L\207$\275\3209$\343"
  194      0954 9459 
  194      76AE F7BF 
@@ -1185,7 +1185,7 @@
  291      C5
  292 1000 72DE      		.ascii	"r\336"
  293               		.text
- 294               		.section	.gnu.lto_.symtab.2b3bb9fb797ac04e,"",@progbits
+ 294               		.section	.gnu.lto_.symtab.fa363f8c92988ce6,"",@progbits
  295 0000 6469 7361 		.string	"disable_jtag"
  295      626C 655F 
  295      6A74 6167 
@@ -1661,11 +1661,11 @@
  686               		.ident	"GCC: (GNU) 7.4.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 keyboard.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccremjtC.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccremjtC.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccremjtC.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccremjtC.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccremjtC.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccoylCBK.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccoylCBK.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccoylCBK.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccoylCBK.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//ccoylCBK.s:6      *ABS*:0000000000000001 __zero_reg__
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

@@ -74,6 +74,3 @@ LAYOUTS = 60_ansi
 # enable leader key
 LEADER_ENABLE = yes
 
-# enable unicode
-UNICODE_ENABLE = yes
-UNICODEMAP_ENABLE = yes
