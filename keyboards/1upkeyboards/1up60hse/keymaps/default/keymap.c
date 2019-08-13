@@ -232,6 +232,12 @@ void matrix_scan_user(void) {
 // ————————————————————————————————————————
 // G
 // ————————————————————————————————————————
+
+    // gn to goodnight
+    SEQ_TWO_KEYS(KC_G, KC_N) {
+	SEND_STRING("goodnight");
+    }
+
 // H
 // ————————————————————————————————————————
 
@@ -283,6 +289,11 @@ void matrix_scan_user(void) {
 // N
 // ————————————————————————————————————————
 
+    // nvm to nevermind
+    SEQ_THREE_KEYS(KC_N, KC_V, KC_M) {
+	SEND_STRING("nevermind");
+    }
+
 // O
 // ————————————————————————————————————————
 
@@ -320,6 +331,12 @@ void matrix_scan_user(void) {
     SEQ_TWO_KEYS(KC_T, KC_Y) {
 	SEND_STRING("thank you");
     }
+    
+    // tn to tonight
+    SEQ_TWO_KEYS(KC_T, KC_N) {
+	SEND_STRING("tonight");
+    }
+
 // U
 // ————————————————————————————————————————
 
