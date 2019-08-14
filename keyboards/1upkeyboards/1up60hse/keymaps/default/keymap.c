@@ -282,6 +282,12 @@ void matrix_scan_user(void) {
 
 // L
 // ————————————————————————————————————————
+    
+    // lmk to let me know
+    SEQ_THREE_KEYS(KC_L, KC_M, KC_K) {
+	SEND_STRING("let me know");
+    }
+ 
 
 // M
 // ————————————————————————————————————————
@@ -310,6 +316,11 @@ void matrix_scan_user(void) {
 
 // R
 // ————————————————————————————————————————
+    
+    // rn to right now
+    SEQ_TWO_KEYS(KC_R, KC_N) {
+	SEND_STRING("right now");
+    }
 
 // S
 // ————————————————————————————————————————
