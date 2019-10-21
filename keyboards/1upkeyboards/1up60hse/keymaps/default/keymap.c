@@ -348,6 +348,10 @@ void matrix_scan_user(void) {
 	SEND_STRING("tonight");
     }
 
+    // tbh to to be honest
+    SEQ_THREE_KEYS(KC_T, KC_B, KC_H) {
+	SEND_STRING("to be honest");
+    }
 // U
 // ————————————————————————————————————————
 
