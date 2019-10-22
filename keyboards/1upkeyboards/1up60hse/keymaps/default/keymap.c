@@ -249,6 +249,11 @@ void matrix_scan_user(void) {
 	SEND_STRING("I dont think");
     }
 
+    // idk to I dont know
+    SEQ_THREE_KEYS(KC_I, KC_D, KC_K) {
+	SEND_STRING("I dont know");
+    }
+    
     // idts to I dont think
     SEQ_FOUR_KEYS(KC_I, KC_D, KC_T, KC_S) {
 	SEND_STRING("I dont think so");

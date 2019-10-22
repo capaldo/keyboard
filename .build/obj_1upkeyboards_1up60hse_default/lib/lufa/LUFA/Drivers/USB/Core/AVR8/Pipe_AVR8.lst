@@ -4,89 +4,268 @@
    4               	__SREG__ = 0x3f
    5               	__tmp_reg__ = 0
    6               	__zero_reg__ = 1
-   7               		.section	.gnu.lto_.profile.124dbaf31d1bce3b,"",@progbits
-   8 0000 789C 6363 		.string	"x\234cc```\004b\006"
-   8      6060 6004 
-   8      6206 00
-   9 000b 00        		.string	""
-  10 000c 4400      		.string	"D"
-  11 000e 08        		.ascii	"\b"
-  12               		.text
-  13               		.section	.gnu.lto_.icf.124dbaf31d1bce3b,"",@progbits
-  14 0000 789C 6363 		.string	"x\234cc```b@\006"
-  14      6060 6062 
-  14      4006 00
-  15 000b 00        		.string	""
-  16 000c 9A00      		.string	"\232"
-  17 000e 09        		.ascii	"\t"
-  18               		.text
-  19               		.section	.gnu.lto_.inline.124dbaf31d1bce3b,"",@progbits
-  20 0000 789C 6363 		.string	"x\234cc```b@\006"
-  20      6060 6062 
-  20      4006 00
-  21 000b 00        		.string	""
-  22 000c 9A00      		.string	"\232"
-  23 000e 09        		.ascii	"\t"
-  24               		.text
-  25               		.section	.gnu.lto_.pureconst.124dbaf31d1bce3b,"",@progbits
-  26 0000 789C 6363 		.string	"x\234cc```\004b\006"
-  26      6060 6004 
-  26      6206 00
-  27 000b 00        		.string	""
-  28 000c 4400      		.string	"D"
-  29 000e 08        		.ascii	"\b"
-  30               		.text
-  31               		.section	.gnu.lto_.symbol_nodes.124dbaf31d1bce3b,"",@progbits
-  32 0000 789C 6363 		.string	"x\234cc```b"
-  32      6060 6062 
-  32      00
-  33 0009 0100      		.string	"\001"
-  34 000b 00        		.string	""
-  35 000c 5200      		.string	"R"
-  36 000e 09        		.ascii	"\t"
-  37               		.text
-  38               		.section	.gnu.lto_.refs.124dbaf31d1bce3b,"",@progbits
-  39 0000 789C 6363 		.string	"x\234cc```\004b\006"
-  39      6060 6004 
-  39      6206 00
-  40 000b 00        		.string	""
-  41 000c 4400      		.string	"D"
-  42 000e 08        		.ascii	"\b"
-  43               		.text
-  44               		.section	.gnu.lto_.decls.124dbaf31d1bce3b,"",@progbits
-  45 0000 789C 6363 		.string	"x\234cc\200"
-  45      8000 
-  46 0006 4620 5601 		.string	"F V\001\342\377@"
-  46      E2FF 4000 
-  47 000e 621F 6420 		.string	"b\037d "
-  47      00
-  48 0013 00        		.string	""
-  49 0014 BE7C 04EA 		.ascii	"\276|\004\352"
-  50               		.text
-  51               		.section	.gnu.lto_.symtab.124dbaf31d1bce3b,"",@progbits
-  52               		.text
-  53               		.section	.gnu.lto_.opts,"",@progbits
-  54 0000 272D 666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-m"
-  54      6174 682D 
-  54      6572 726E 
-  54      6F27 2027 
-  54      2D66 7369 
-  55 002d 6174 6827 		.string	"ath' '-fno-trapv' '-fno-openmp' '-fno-openacc' '-mn-flash=1' '-mno-skip-bug' '-mmcu=avr5'
-  55      2027 2D66 
-  55      6E6F 2D74 
-  55      7261 7076 
-  55      2720 272D 
-  56               		.text
-  57               		.comm	__gnu_lto_v1,1,1
-  58               		.comm	__gnu_lto_slim,1,1
-  59               		.ident	"GCC: (GNU) 7.4.0"
+   7               		.section	.gnu.debuglto_.debug_info,"e",@progbits
+   8               	.Ldebug_info0:
+   9               		.hidden	Pipe_AVR8.c.8430b352
+  10               		.weak	Pipe_AVR8.c.8430b352
+  11               	Pipe_AVR8.c.8430b352:
+  12 0000 5200 0000 		.long	0x52
+  13 0004 0200      		.word	0x2
+  14 0006 0000 0000 		.long	.Ldebug_abbrev0
+  15 000a 04        		.byte	0x4
+  16 000b 01        		.uleb128 0x1
+  17 000c 0000 0000 		.long	.LASF7
+  18 0010 0C        		.byte	0xc
+  19 0011 0000 0000 		.long	.LASF8
+  20 0015 0000 0000 		.long	.LASF9
+  21 0019 0000 0000 		.long	.Ldebug_line0
+  22 001d 02        		.uleb128 0x2
+  23 001e 01        		.byte	0x1
+  24 001f 06        		.byte	0x6
+  25 0020 0000 0000 		.long	.LASF0
+  26 0024 02        		.uleb128 0x2
+  27 0025 01        		.byte	0x1
+  28 0026 08        		.byte	0x8
+  29 0027 0000 0000 		.long	.LASF1
+  30 002b 03        		.uleb128 0x3
+  31 002c 02        		.byte	0x2
+  32 002d 05        		.byte	0x5
+  33 002e 696E 7400 		.string	"int"
+  34 0032 02        		.uleb128 0x2
+  35 0033 02        		.byte	0x2
+  36 0034 07        		.byte	0x7
+  37 0035 0000 0000 		.long	.LASF2
+  38 0039 02        		.uleb128 0x2
+  39 003a 04        		.byte	0x4
+  40 003b 05        		.byte	0x5
+  41 003c 0000 0000 		.long	.LASF3
+  42 0040 02        		.uleb128 0x2
+  43 0041 04        		.byte	0x4
+  44 0042 07        		.byte	0x7
+  45 0043 0000 0000 		.long	.LASF4
+  46 0047 02        		.uleb128 0x2
+  47 0048 08        		.byte	0x8
+  48 0049 05        		.byte	0x5
+  49 004a 0000 0000 		.long	.LASF5
+  50 004e 02        		.uleb128 0x2
+  51 004f 08        		.byte	0x8
+  52 0050 07        		.byte	0x7
+  53 0051 0000 0000 		.long	.LASF6
+  54 0055 00        		.byte	0
+  55               		.section	.gnu.debuglto_.debug_abbrev,"e",@progbits
+  56               	.Ldebug_abbrev0:
+  57 0000 01        		.uleb128 0x1
+  58 0001 11        		.uleb128 0x11
+  59 0002 01        		.byte	0x1
+  60 0003 25        		.uleb128 0x25
+  61 0004 0E        		.uleb128 0xe
+  62 0005 13        		.uleb128 0x13
+  63 0006 0B        		.uleb128 0xb
+  64 0007 03        		.uleb128 0x3
+  65 0008 0E        		.uleb128 0xe
+  66 0009 1B        		.uleb128 0x1b
+  67 000a 0E        		.uleb128 0xe
+  68 000b 10        		.uleb128 0x10
+  69 000c 06        		.uleb128 0x6
+  70 000d 00        		.byte	0
+  71 000e 00        		.byte	0
+  72 000f 02        		.uleb128 0x2
+  73 0010 24        		.uleb128 0x24
+  74 0011 00        		.byte	0
+  75 0012 0B        		.uleb128 0xb
+  76 0013 0B        		.uleb128 0xb
+  77 0014 3E        		.uleb128 0x3e
+  78 0015 0B        		.uleb128 0xb
+  79 0016 03        		.uleb128 0x3
+  80 0017 0E        		.uleb128 0xe
+  81 0018 00        		.byte	0
+  82 0019 00        		.byte	0
+  83 001a 03        		.uleb128 0x3
+  84 001b 24        		.uleb128 0x24
+  85 001c 00        		.byte	0
+  86 001d 0B        		.uleb128 0xb
+  87 001e 0B        		.uleb128 0xb
+  88 001f 3E        		.uleb128 0x3e
+  89 0020 0B        		.uleb128 0xb
+  90 0021 03        		.uleb128 0x3
+  91 0022 08        		.uleb128 0x8
+  92 0023 00        		.byte	0
+  93 0024 00        		.byte	0
+  94 0025 00        		.byte	0
+  95               		.section	.gnu.debuglto_.debug_line,"e",@progbits
+  96               	.Ldebug_line0:
+  97 0000 1900 0000 		.long	.LELT0-.LSLT0
+  98               	.LSLT0:
+  99 0004 0200      		.word	0x2
+ 100 0006 1300 0000 		.long	.LELTP0-.LASLTP0
+ 101               	.LASLTP0:
+ 102 000a 01        		.byte	0x1
+ 103 000b 01        		.byte	0x1
+ 104 000c F6        		.byte	0xf6
+ 105 000d F2        		.byte	0xf2
+ 106 000e 0D        		.byte	0xd
+ 107 000f 00        		.byte	0
+ 108 0010 01        		.byte	0x1
+ 109 0011 01        		.byte	0x1
+ 110 0012 01        		.byte	0x1
+ 111 0013 01        		.byte	0x1
+ 112 0014 00        		.byte	0
+ 113 0015 00        		.byte	0
+ 114 0016 00        		.byte	0
+ 115 0017 01        		.byte	0x1
+ 116 0018 00        		.byte	0
+ 117 0019 00        		.byte	0
+ 118 001a 01        		.byte	0x1
+ 119 001b 00        		.byte	0
+ 120 001c 00        		.byte	0
+ 121               	.LELTP0:
+ 122               	.LELT0:
+ 123               		.section	.gnu.debuglto_.debug_str,"eMS",@progbits,1
+ 124               	.LASF2:
+ 125 0000 756E 7369 		.string	"unsigned int"
+ 125      676E 6564 
+ 125      2069 6E74 
+ 125      00
+ 126               	.LASF4:
+ 127 000d 6C6F 6E67 		.string	"long unsigned int"
+ 127      2075 6E73 
+ 127      6967 6E65 
+ 127      6420 696E 
+ 127      7400 
+ 128               	.LASF9:
+ 129 001f 2F55 7365 		.string	"/Users/tars/Desktop/keyboards"
+ 129      7273 2F74 
+ 129      6172 732F 
+ 129      4465 736B 
+ 129      746F 702F 
+ 130               	.LASF0:
+ 131 003d 7369 676E 		.string	"signed char"
+ 131      6564 2063 
+ 131      6861 7200 
+ 132               	.LASF6:
+ 133 0049 6C6F 6E67 		.string	"long long unsigned int"
+ 133      206C 6F6E 
+ 133      6720 756E 
+ 133      7369 676E 
+ 133      6564 2069 
+ 134               	.LASF1:
+ 135 0060 756E 7369 		.string	"unsigned char"
+ 135      676E 6564 
+ 135      2063 6861 
+ 135      7200 
+ 136               	.LASF3:
+ 137 006e 6C6F 6E67 		.string	"long int"
+ 137      2069 6E74 
+ 137      00
+ 138               	.LASF8:
+ 139 0077 6C69 622F 		.string	"lib/lufa/LUFA/Drivers/USB/Core/AVR8/Pipe_AVR8.c"
+ 139      6C75 6661 
+ 139      2F4C 5546 
+ 139      412F 4472 
+ 139      6976 6572 
+ 140               	.LASF7:
+ 141 00a7 474E 5520 		.string	"GNU C99 9.2.0 -mn-flash=1 -mno-skip-bug -mmcu=avr5 -gdwarf-2 -Os -std=gnu99 -funsigned-ch
+ 141      4339 3920 
+ 141      392E 322E 
+ 141      3020 2D6D 
+ 141      6E2D 666C 
+ 142               	.LASF5:
+ 143 018f 6C6F 6E67 		.string	"long long int"
+ 143      206C 6F6E 
+ 143      6720 696E 
+ 143      7400 
+ 144               		.text
+ 145               		.section	.gnu.lto_.profile.2a8d518a18fbaa31,"e",@progbits
+ 146 0000 789C E360 		.string	"x\234\343``\004B "
+ 146      6004 4220 
+ 146      00
+ 147 0009 00        		.string	""
+ 148 000a 00        		.string	""
+ 149 000b 5D00      		.string	"]"
+ 150 000d 0B        		.ascii	"\013"
+ 151               		.text
+ 152               		.section	.gnu.lto_.icf.2a8d518a18fbaa31,"e",@progbits
+ 153 0000 789C E360 		.string	"x\234\343``d`b@\006"
+ 153      6064 6062 
+ 153      4006 00
+ 154 000b 00        		.string	""
+ 155 000c CE00      		.string	"\316"
+ 156 000e 0C        		.ascii	"\f"
+ 157               		.text
+ 158               		.section	.gnu.lto_.jmpfuncs.2a8d518a18fbaa31,"e",@progbits
+ 159 0000 789C E360 		.string	"x\234\343``d`b@\006"
+ 159      6064 6062 
+ 159      4006 00
+ 160 000b 00        		.string	""
+ 161 000c CE00      		.string	"\316"
+ 162 000e 0C        		.ascii	"\f"
+ 163               		.text
+ 164               		.section	.gnu.lto_.inline.2a8d518a18fbaa31,"e",@progbits
+ 165 0000 789C E360 		.string	"x\234\343``d`b@\006"
+ 165      6064 6062 
+ 165      4006 00
+ 166 000b 00        		.string	""
+ 167 000c CE00      		.string	"\316"
+ 168 000e 0C        		.ascii	"\f"
+ 169               		.text
+ 170               		.section	.gnu.lto_.pureconst.2a8d518a18fbaa31,"e",@progbits
+ 171 0000 789C E360 		.string	"x\234\343``\004B "
+ 171      6004 4220 
+ 171      00
+ 172 0009 00        		.string	""
+ 173 000a 00        		.string	""
+ 174 000b 5D00      		.string	"]"
+ 175 000d 0B        		.ascii	"\013"
+ 176               		.text
+ 177               		.section	.gnu.lto_.symbol_nodes.2a8d518a18fbaa31,"e",@progbits
+ 178 0000 789C E360 		.string	"x\234\343``d`b"
+ 178      6064 6062 
+ 178      00
+ 179 0009 0100      		.string	"\001"
+ 180 000b 00        		.string	""
+ 181 000c 6E00      		.string	"n"
+ 182 000e 0C        		.ascii	"\f"
+ 183               		.text
+ 184               		.section	.gnu.lto_.refs.2a8d518a18fbaa31,"e",@progbits
+ 185 0000 789C E360 		.string	"x\234\343``\004B "
+ 185      6004 4220 
+ 185      00
+ 186 0009 00        		.string	""
+ 187 000a 00        		.string	""
+ 188 000b 5D00      		.string	"]"
+ 189 000d 0B        		.ascii	"\013"
+ 190               		.text
+ 191               		.section	.gnu.lto_.decls.2a8d518a18fbaa31,"e",@progbits
+ 192 0000 789C E360 		.string	"x\234\343``d"
+ 192      6064 00
+ 193 0007 0110 A902 		.string	"\001\020\251\002\304\377\201"
+ 193      C4FF 8100 
+ 194 000f C4BE C840 		.string	"\304\276\310@"
+ 194      00
+ 195 0014 00        		.string	""
+ 196 0015 00        		.string	""
+ 197 0016 C135 04FD 		.ascii	"\3015\004\375"
+ 198               		.text
+ 199               		.section	.gnu.lto_.symtab.2a8d518a18fbaa31,"e",@progbits
+ 200               		.text
+ 201               		.section	.gnu.lto_.opts,"e",@progbits
+ 202 0000 272D 666E 		.string	"'-fno-openmp' '-fno-openacc' '-fno-pie' '-mn-flash=1' '-mno-skip-bug' '-mmcu=avr5' '-Os' 
+ 202      6F2D 6F70 
+ 202      656E 6D70 
+ 202      2720 272D 
+ 202      666E 6F2D 
+ 203               		.text
+ 204               		.comm	__gnu_lto_v1,1,1
+ 205               		.comm	__gnu_lto_slim,1,1
+ 206               		.ident	"GCC: (GNU) 9.2.0"
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 Pipe_AVR8.c
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:2      *ABS*:000000000000003e __SP_H__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:3      *ABS*:000000000000003d __SP_L__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:4      *ABS*:000000000000003f __SREG__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:5      *ABS*:0000000000000000 __tmp_reg__
-/var/folders/7d/r_phv7rx6m99qllr_nm2m9c80000gn/T//cc520U8r.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/xx/3qcqnrxj7md526g3lvyld9680000gn/T//ccG0Ayhq.s:2      *ABS*:000000000000003e __SP_H__
+/var/folders/xx/3qcqnrxj7md526g3lvyld9680000gn/T//ccG0Ayhq.s:3      *ABS*:000000000000003d __SP_L__
+/var/folders/xx/3qcqnrxj7md526g3lvyld9680000gn/T//ccG0Ayhq.s:4      *ABS*:000000000000003f __SREG__
+/var/folders/xx/3qcqnrxj7md526g3lvyld9680000gn/T//ccG0Ayhq.s:5      *ABS*:0000000000000000 __tmp_reg__
+/var/folders/xx/3qcqnrxj7md526g3lvyld9680000gn/T//ccG0Ayhq.s:6      *ABS*:0000000000000001 __zero_reg__
+/var/folders/xx/3qcqnrxj7md526g3lvyld9680000gn/T//ccG0Ayhq.s:11     .gnu.debuglto_.debug_info:0000000000000000 Pipe_AVR8.c.8430b352
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 
