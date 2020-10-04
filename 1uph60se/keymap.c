@@ -4,76 +4,74 @@
 // macro definitions
 // ——————————————————————————————————————————————————————————————————
 enum custom_keycodes {
-  AUTOPARENTHESIS = SAFE_RANGE,
-  AUTOBRACKETS,
-  AUTODOUBLEQUOTES,
-  AUTOSINGLEQUOTES,
-  VIMESCAPE
+    AUTOPARENTHESIS = SAFE_RANGE,
+    AUTOBRACKETS,
+    AUTODOUBLEQUOTES,
+    AUTOSINGLEQUOTES,
+    VIMESCAPE
 };
+
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
-  switch (keycode) {
-// ——————————————————————————————————————————————————————————————————
- 
-    // AUTOPARENTHESIS
-     case AUTOPARENTHESIS:
-      if (record->event.pressed) {
-	  SEND_STRING("()");
-      } 
-      else {
-	  SEND_STRING(SS_TAP(X_LEFT));
-      }
-      break;
+    switch (keycode) {
 
-// ——————————————————————————————————————————————————————————————————
+	// AUTOPARENTHESIS
+	case AUTOPARENTHESIS:
+	    if (record->event.pressed) {
+		SEND_STRING("()");
+	    } 
+	    else {
+		SEND_STRING(SS_TAP(X_LEFT));
+	    }
+	    break;
 
-    // AUTOBRACKETS
-     case AUTOBRACKETS:
-      if (record->event.pressed) {
-	  SEND_STRING("[]");
-      } 
-      else {
-	  SEND_STRING(SS_TAP(X_LEFT));
-      }
-      break;
+	// AUTOBRACKETS
+	case AUTOBRACKETS:
+	    if (record->event.pressed) {
+		SEND_STRING("[]");
+	    } 
+	    else {
+		SEND_STRING(SS_TAP(X_LEFT));
+	    }
+	    break;
 
-// ——————————————————————————————————————————————————————————————————
-      
-    // AUTOSINGLEQUOTES
-     case AUTOSINGLEQUOTES:
-      if (record->event.pressed) {
-	  SEND_STRING("''");
-      } 
-      else {
-	  SEND_STRING(SS_TAP(X_LEFT));
-      }
-      break;
+	    // ——————————————————————————————————————————————————————————————————
 
-// ——————————————————————————————————————————————————————————————————
-      
-    // AUTODOUBLEQUOTES
-     case AUTODOUBLEQUOTES:
-      if (record->event.pressed) {
-	  SEND_STRING("\"\"");
-      } 
-      else {
-	  SEND_STRING(SS_TAP(X_LEFT));
-      }
-      break;
+	    // AUTOSINGLEQUOTES
+	case AUTOSINGLEQUOTES:
+	    if (record->event.pressed) {
+		SEND_STRING("''");
+	    } 
+	    else {
+		SEND_STRING(SS_TAP(X_LEFT));
+	    }
+	    break;
 
-// ——————————————————————————————————————————————————————————————————
-      
-    // VIMESCAPE
-     case VIMESCAPE:
-      if (record->event.pressed) {
-	  SEND_STRING(";;");
-      } 
-      else {
-      }
-      break;
+	    // ——————————————————————————————————————————————————————————————————
 
-// ——————————————————————————————————————————————————————————————————
-  }
-  return true;
+	    // AUTODOUBLEQUOTES
+	case AUTODOUBLEQUOTES:
+	    if (record->event.pressed) {
+		SEND_STRING("\"\"");
+	    } 
+	    else {
+		SEND_STRING(SS_TAP(X_LEFT));
+	    }
+	    break;
+
+	    // ——————————————————————————————————————————————————————————————————
+
+	    // VIMESCAPE
+	case VIMESCAPE:
+	    if (record->event.pressed) {
+		SEND_STRING(";;");
+	    } 
+	    else {
+	    }
+	    break;
+
+	    // ——————————————————————————————————————————————————————————————————
+    }
+    return true;
 };
 // ——————————————————————————————————————————————————————————————————
 
@@ -134,45 +132,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	    MEH(KC_NO), KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
 	    // 8 keys
 	    KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS
-	    ),
-    // ipados default TODO
-    [4] = LAYOUT_60_ansi(
-	    // 14 keys
-	    KC_ESC, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6, KC_7, KC_8, KC_9, KC_0, KC_MINS, KC_EQL, KC_BSPC, 
-	    // 14 keys
-	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LBRC, KC_RBRC, KC_BSLS, 
-	    // 13 keys
-	    HYPR(KC_NO), KC_A, KC_S, KC_D, KC_F, KC_G, KC_H, KC_J, KC_K, KC_L, KC_SCLN, KC_QUOT, KC_ENT, 
-	    // 12 keys
-	    KC_LSFT, KC_Z, KC_X, KC_C, KC_V, KC_B, KC_N, KC_M, KC_COMM, KC_DOT, KC_SLSH, KC_RSFT, 
-	    // 8 keys
-	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, KC_RGUI, KC_RCTL, MO(1)
-	    ),
-    // ipados blink TODO
-    [5] = LAYOUT_60_ansi(
-	    // 14 keys
-	    KC_ESC, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6, KC_7, KC_8, KC_9, KC_0, KC_MINS, KC_EQL, KC_BSPC, 
-	    // 14 keys
-	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LBRC, KC_RBRC, KC_BSLS, 
-	    // 13 keys
-	    HYPR(KC_NO), KC_A, KC_S, KC_D, KC_F, KC_G, KC_H, KC_J, KC_K, KC_L, KC_SCLN, KC_QUOT, KC_ENT, 
-	    // 12 keys
-	    KC_LSFT, KC_Z, KC_X, KC_C, KC_V, KC_B, KC_N, KC_M, KC_COMM, KC_DOT, KC_SLSH, KC_RSFT, 
-	    // 8 keys
-	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, KC_RGUI, KC_RCTL, MO(1)
-	    ),
-    // ipados macros TODO
-    [6] = LAYOUT_60_ansi(
-	    // 14 keys
-	    KC_ESC, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6, KC_7, KC_8, KC_9, KC_0, KC_MINS, KC_EQL, KC_BSPC, 
-	    // 14 keys
-	    KC_TAB, KC_Q, KC_W, KC_E, KC_R, KC_T, KC_Y, KC_U, KC_I, KC_O, KC_P, KC_LBRC, KC_RBRC, KC_BSLS, 
-	    // 13 keys
-	    HYPR(KC_NO), KC_A, KC_S, KC_D, KC_F, KC_G, KC_H, KC_J, KC_K, KC_L, KC_SCLN, KC_QUOT, KC_ENT, 
-	    // 12 keys
-	    KC_LSFT, KC_Z, KC_X, KC_C, KC_V, KC_B, KC_N, KC_M, KC_COMM, KC_DOT, KC_SLSH, KC_RSFT, 
-	    // 8 keys
-	    KC_LCTL, KC_LGUI, KC_LALT, KC_SPC, KC_RALT, KC_RGUI, KC_RCTL, MO(1)
 	    )
 };
 
@@ -186,204 +145,41 @@ void matrix_scan_user(void) {
 	leading = false;
 	leader_end();
 
-// #
-// ————————————————————————————————————————
-        
-// A
-// ————————————————————————————————————————
+	SEQ_ONE_KEY(KC_I) {
+	    SEND_STRING(SS_LGUI(SS_TAP(X_LEFT)));
+	}
 
-// B
-// ————————————————————————————————————————
+	SEQ_ONE_KEY(KC_A) {
+	    SEND_STRING(SS_LGUI(SS_TAP(X_RIGHT)));
+	}
+	
+	SEQ_ONE_KEY(KC_W) {
+	    SEND_STRING(SS_LALT(SS_TAP(X_RIGHT)));
+	}
+	
+	SEQ_ONE_KEY(KC_B) {
+	    SEND_STRING(SS_LALT(SS_TAP(X_LEFT)));
+	}
 
-    // bc to because
-    SEQ_TWO_KEYS(KC_B, KC_C) {
-	SEND_STRING("because");
+	SEQ_TWO_KEYS(KC_2, KC_W) {
+	    SEND_STRING(SS_LALT(SS_TAP(X_RIGHT)));
+	    SEND_STRING(SS_LALT(SS_TAP(X_RIGHT)));
+	}
+	
+	SEQ_TWO_KEYS(KC_S, KC_R) {
+	    SEND_STRING(SS_DOWN(X_LGUI));
+	    SEND_STRING(SS_DOWN(X_LSHIFT));
+	    SEND_STRING(SS_TAP(X_RIGHT));
+	    SEND_STRING(SS_UP(X_LGUI));
+	    SEND_STRING(SS_UP(X_LSHIFT));
+	}
+
+	SEQ_TWO_KEYS(KC_S, KC_L) {
+	    SEND_STRING(SS_DOWN(X_LGUI));
+	    SEND_STRING(SS_DOWN(X_LSHIFT));
+	    SEND_STRING(SS_TAP(X_LEFT));
+	    SEND_STRING(SS_UP(X_LGUI));
+	    SEND_STRING(SS_UP(X_LSHIFT));
+	}
     }
-
-    // btw to by the way
-    SEQ_THREE_KEYS(KC_B, KC_T, KC_W) {
-	SEND_STRING("by the way");
-    }
-
-    // brb to be right back
-    SEQ_THREE_KEYS(KC_B, KC_R, KC_B) {
-	SEND_STRING("be right back");
-    }
-
-    // bw to between
-    SEQ_TWO_KEYS(KC_B, KC_W) {
-	SEND_STRING("between");
-    }
-
-// C
-// ————————————————————————————————————————
-
-// D
-// ————————————————————————————————————————
-
-    // dn to do not
-    SEQ_TWO_KEYS(KC_D, KC_N) {
-	SEND_STRING("do not");
-    }
-
-// E
-// ————————————————————————————————————————
-// F
-// ————————————————————————————————————————
-// G
-// ————————————————————————————————————————
-
-    // gn to goodnight
-    SEQ_TWO_KEYS(KC_G, KC_N) {
-	SEND_STRING("goodnight");
-    }
-
-// H
-// ————————————————————————————————————————
-
-// I
-// ————————————————————————————————————————
-
-    // idt to I dont think
-    SEQ_THREE_KEYS(KC_I, KC_D, KC_T) {
-	SEND_STRING("I dont think");
-    }
-
-    // idk to I dont know
-    SEQ_THREE_KEYS(KC_I, KC_D, KC_K) {
-	SEND_STRING("I dont know");
-    }
-    
-    // idts to I dont think
-    SEQ_FOUR_KEYS(KC_I, KC_D, KC_T, KC_S) {
-	SEND_STRING("I dont think so");
-    }
-
-    // ily to I love you
-    SEQ_THREE_KEYS(KC_I, KC_L, KC_Y) {
-	SEND_STRING("I love you");
-    }
-
-    // ilyt to I love you too
-    SEQ_FOUR_KEYS(KC_I, KC_L, KC_Y, KC_T) {
-	SEND_STRING("I love you too");
-    }
-
-    // info to information
-    SEQ_FOUR_KEYS(KC_I, KC_N, KC_F, KC_O) {
-	SEND_STRING("information");
-    }
-
-// J
-// ————————————————————————————————————————
-
-    // jk to just kidding
-    SEQ_TWO_KEYS(KC_J, KC_K) {
-	SEND_STRING("just kidding");
-    }
-
-// K
-// ————————————————————————————————————————
-
-// L
-// ————————————————————————————————————————
-    
-    // lmk to let me know
-    SEQ_THREE_KEYS(KC_L, KC_M, KC_K) {
-	SEND_STRING("let me know");
-    }
- 
-
-// M
-// ————————————————————————————————————————
-
-// N
-// ————————————————————————————————————————
-
-    // nvm to nevermind
-    SEQ_THREE_KEYS(KC_N, KC_V, KC_M) {
-	SEND_STRING("nevermind");
-    }
-
-// O
-// ————————————————————————————————————————
-
-// P
-// ————————————————————————————————————————
-
-    // prob to probably
-    SEQ_FOUR_KEYS(KC_P, KC_R, KC_O, KC_B) {
-	SEND_STRING("probably");
-    }
-
-// Q
-// ————————————————————————————————————————
-
-// R
-// ————————————————————————————————————————
-    
-    // rn to right now
-    SEQ_TWO_KEYS(KC_R, KC_N) {
-	SEND_STRING("right now");
-    }
-
-// S
-// ————————————————————————————————————————
-
-    // sup to whats up
-    SEQ_THREE_KEYS(KC_S, KC_U, KC_P) {
-	SEND_STRING("whats up");
-    }
-
-// T
-// ————————————————————————————————————————
-
-    // thru to through
-    SEQ_FOUR_KEYS(KC_T, KC_H, KC_R, KC_U) {
-	SEND_STRING("through");
-    }
-
-    // ty to thank you
-    SEQ_TWO_KEYS(KC_T, KC_Y) {
-	SEND_STRING("thank you");
-    }
-    
-    // tn to tonight
-    SEQ_TWO_KEYS(KC_T, KC_N) {
-	SEND_STRING("tonight");
-    }
-
-    // tbh to to be honest
-    SEQ_THREE_KEYS(KC_T, KC_B, KC_H) {
-	SEND_STRING("to be honest");
-    }
-// U
-// ————————————————————————————————————————
-
-
-// V
-// ————————————————————————————————————————
-
-
-// W
-// ————————————————————————————————————————
-
-    // wtf to what the fuck
-    SEQ_THREE_KEYS(KC_W, KC_T, KC_F) {
-	SEND_STRING("what the fuck");
-    }
-
-// X
-// ————————————————————————————————————————
-
-
-// Y
-// ————————————————————————————————————————
-
-
-// Z
-// ————————————————————————————————————————
-
-
-    }
-  }
+}
